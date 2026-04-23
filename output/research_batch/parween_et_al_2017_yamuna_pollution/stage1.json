@@ -1,0 +1,358 @@
+{
+  "paper_overview": {
+    "citation": "Parween, M., Ramanathan, A. L., & Raju, N. J. (2017). Waste water management and water quality of river Yamuna in the megacity of Delhi. International Journal of Environmental Science and Technology, 14(10), 2109-2124.",
+    "is_review_paper": false,
+    "study_region": "Delhi stretch of river Yamuna, India",
+    "data_sources": [
+      {
+        "location": "Page 3, bottom right; Page 4, Study area and sampling locations section",
+        "description": "Surface water samples from river Yamuna were collected from 14 locations (L1-L14) in February 2013.",
+        "page": "3-4"
+      }
+    ]
+  },
+  "sites": [
+    {
+      "id": "S1",
+      "description": "Rural agricultural location in village Jagatpur, remote to urban Delhi, relatively unpolluted.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "river water",
+      "sample_type": "grab water samples",
+      "source_quote": "L1 and L2 which are rural agricultural locations in the village Jagatpur lie remote to urban Delhi and are relatively unpolluted. The water quality at these locations seemed to be fairly better as compared to those lying downstream to them.",
+      "source_location": "Page 4, Study area and sampling locations section"
+    },
+    {
+      "id": "S2",
+      "description": "Rural agricultural location in village Jagatpur, remote to urban Delhi, relatively unpolluted.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "river water",
+      "sample_type": "grab water samples",
+      "source_quote": "L1 and L2 which are rural agricultural locations in the village Jagatpur lie remote to urban Delhi and are relatively unpolluted. The water quality at these locations seemed to be fairly better as compared to those lying downstream to them.",
+      "source_location": "Page 4, Study area and sampling locations section"
+    },
+    {
+      "id": "S3",
+      "description": "Urban location lying downwind to the Narela industrial area.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "river water",
+      "sample_type": "grab water samples",
+      "source_quote": "L3 and L4 are urban locations lying downwind to the Narela industrial area.",
+      "source_location": "Page 4, Study area and sampling locations section"
+    },
+    {
+      "id": "S4",
+      "description": "Urban location lying downwind to the Narela industrial area.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "river water",
+      "sample_type": "grab water samples",
+      "source_quote": "L3 and L4 are urban locations lying downwind to the Narela industrial area.",
+      "source_location": "Page 4, Study area and sampling locations section"
+    },
+    {
+      "id": "S5",
+      "description": "Urban industrial location receiving discharges from the Najafgarh drain and the supplementary drain, located downwind to industrial areas such as Alipur, Badli and Bawana.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "river water",
+      "sample_type": "grab water samples",
+      "source_quote": "L5 and L6 are urban industrial locations which receive discharges from the Najafgarh drain and the supplementary drain. These are located downwind to a number of industrial areas such as Alipur, Badli and Bawana.",
+      "source_location": "Page 4, Study area and sampling locations section"
+    },
+    {
+      "id": "S6",
+      "description": "Urban industrial location receiving discharges from the Najafgarh drain and the supplementary drain, located downwind to industrial areas such as Alipur, Badli and Bawana.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "river water",
+      "sample_type": "grab water samples",
+      "source_quote": "L5 and L6 are urban industrial locations which receive discharges from the Najafgarh drain and the supplementary drain. These are located downwind to a number of industrial areas such as Alipur, Badli and Bawana.",
+      "source_location": "Page 4, Study area and sampling locations section"
+    },
+    {
+      "id": "S7",
+      "description": "Urban agricultural location fed by sewage, drains and by-products of Rajghat power plant, located upwind and downwind to industrial areas scattered from north to west of the megacity.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "river water",
+      "sample_type": "grab water samples",
+      "source_quote": "L7, L8 and L9 are urban agricultural locations. They are fed by sewage, drains and by-products of Rajghat power plant, which is also located upwind. These also lie downwind to a number of industrial areas scattered from north to west of the megacity.",
+      "source_location": "Page 4, Study area and sampling locations section"
+    },
+    {
+      "id": "S8",
+      "description": "Urban agricultural location fed by sewage, drains and by-products of Rajghat power plant, located upwind and downwind to industrial areas scattered from north to west of the megacity.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "river water",
+      "sample_type": "grab water samples",
+      "source_quote": "L7, L8 and L9 are urban agricultural locations. They are fed by sewage, drains and by-products of Rajghat power plant, which is also located upwind. These also lie downwind to a number of industrial areas scattered from north to west of the megacity.",
+      "source_location": "Page 4, Study area and sampling locations section"
+    },
+    {
+      "id": "S9",
+      "description": "Urban agricultural location fed by sewage, drains and by-products of Rajghat power plant, located upwind and downwind to industrial areas scattered from north to west of the megacity. Lies downstream to many drains and the Indraprastha power plant, discharging effluents from its ash pond into the river. Marked by high traffic.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "river water",
+      "sample_type": "grab water samples",
+      "source_quote": "L7, L8 and L9 are urban agricultural locations. They are fed by sewage, drains and by-products of Rajghat power plant, which is also located upwind. These also lie downwind to a number of industrial areas scattered from north to west of the megacity. L10 lies downstream to many drains and the Indraprastha power plant, which also discharges the effluents from its ash pond into the river. This location is marked by high traffic in the busy roads surrounding it.",
+      "source_location": "Page 4, Study area and sampling locations section"
+    },
+    {
+      "id": "S10",
+      "description": "Lies downstream to many drains and the Indraprastha power plant, discharging effluents from its ash pond into the river. Marked by high traffic.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "river water",
+      "sample_type": "grab water samples",
+      "source_quote": "L10 lies downstream to many drains and the Indraprastha power plant, which also discharges the effluents from its ash pond into the river. This location is marked by high traffic in the busy roads surrounding it.",
+      "source_location": "Page 4, Study area and sampling locations section"
+    },
+    {
+      "id": "S11",
+      "description": "Located at the Okhla/Kalindi Bird Sanctuary, surrounded by thickly forested area. Urban industrial and residential location receiving effluents from STPs, various drains and the Hindon canal. The diversion of water to Agra canal leaves the river concentrated with pollutants beyond these locations.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "river water",
+      "sample_type": "grab water samples",
+      "source_quote": "L11 and L12 are located at the Okhla/Kalindi Bird Sanctuary surrounded by thickly forested area. These are urban industrial and residential locations receiving effluents from STPs, various drains and the Hindon canal. The diversion of water to Agra canal leaves the river concentrated with pollutants beyond these locations.",
+      "source_location": "Page 4, Study area and sampling locations section"
+    },
+    {
+      "id": "S12",
+      "description": "Located at the Okhla/Kalindi Bird Sanctuary, surrounded by thickly forested area. Urban industrial and residential location receiving effluents from STPs, various drains and the Hindon canal. The diversion of water to Agra canal leaves the river concentrated with pollutants beyond these locations.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "river water",
+      "sample_type": "grab water samples",
+      "source_quote": "L11 and L12 are located at the Okhla/Kalindi Bird Sanctuary surrounded by thickly forested area. These are urban industrial and residential locations receiving effluents from STPs, various drains and the Hindon canal. The diversion of water to Agra canal leaves the river concentrated with pollutants beyond these locations.",
+      "source_location": "Page 4, Study area and sampling locations section"
+    },
+    {
+      "id": "S13",
+      "description": "High traffic zone. Receives discharges from the Shahdara outfall drain and agricultural runoff from UP. Urban residential location.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "river water",
+      "sample_type": "grab water samples",
+      "source_quote": "L13 lie in a high traffic zone. L14 receive discharges from the Shahdara outfall drain and agricultural runoff from UP. These are urban residential locations.",
+      "source_location": "Page 4, Study area and sampling locations section"
+    },
+    {
+      "id": "S14",
+      "description": "Receives discharges from the Shahdara outfall drain and agricultural runoff from UP. Urban residential location.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "river water",
+      "sample_type": "grab water samples",
+      "source_quote": "L13 lie in a high traffic zone. L14 receive discharges from the Shahdara outfall drain and agricultural runoff from UP. These are urban residential locations.",
+      "source_location": "Page 4, Study area and sampling locations section"
+    }
+  ],
+  "parameters": [
+    {
+      "id": "P1",
+      "name": "Sodium",
+      "name_as_reported": "Na",
+      "cas_number": "7440-23-5",
+      "category": "Major ion",
+      "unit_as_reported": "ppm"
+    },
+    {
+      "id": "P2",
+      "name": "Potassium",
+      "name_as_reported": "K",
+      "cas_number": "7440-09-7",
+      "category": "Major ion",
+      "unit_as_reported": "ppm"
+    },
+    {
+      "id": "P3",
+      "name": "Calcium",
+      "name_as_reported": "Ca",
+      "cas_number": "7440-70-2",
+      "category": "Major ion",
+      "unit_as_reported": "ppm"
+    },
+    {
+      "id": "P4",
+      "name": "Magnesium",
+      "name_as_reported": "Mg",
+      "cas_number": "7439-95-4",
+      "category": "Major ion",
+      "unit_as_reported": "ppm"
+    },
+    {
+      "id": "P5",
+      "name": "Iron",
+      "name_as_reported": "Fe",
+      "cas_number": "7439-89-6",
+      "category": "Heavy metal",
+      "unit_as_reported": "ppm"
+    },
+    {
+      "id": "P6",
+      "name": "Aluminum",
+      "name_as_reported": "Al",
+      "cas_number": "7429-90-5",
+      "category": "Heavy metal",
+      "unit_as_reported": "ppb"
+    },
+    {
+      "id": "P7",
+      "name": "Copper",
+      "name_as_reported": "Cu",
+      "cas_number": "7440-50-8",
+      "category": "Heavy metal",
+      "unit_as_reported": "ppb"
+    },
+    {
+      "id": "P8",
+      "name": "Chromium",
+      "name_as_reported": "Cr",
+      "cas_number": "7440-47-3",
+      "category": "Heavy metal",
+      "unit_as_reported": "ppb"
+    },
+    {
+      "id": "P9",
+      "name": "Cobalt",
+      "name_as_reported": "Co",
+      "cas_number": "7440-48-4",
+      "category": "Heavy metal",
+      "unit_as_reported": "ppb"
+    },
+    {
+      "id": "P10",
+      "name": "Cadmium",
+      "name_as_reported": "Cd",
+      "cas_number": "7440-43-9",
+      "category": "Heavy metal",
+      "unit_as_reported": "ppb"
+    },
+    {
+      "id": "P11",
+      "name": "Lead",
+      "name_as_reported": "Pb",
+      "cas_number": "7439-92-1",
+      "category": "Heavy metal",
+      "unit_as_reported": "ppb"
+    },
+    {
+      "id": "P12",
+      "name": "Manganese",
+      "name_as_reported": "Mn",
+      "cas_number": "7439-96-5",
+      "category": "Heavy metal",
+      "unit_as_reported": "ppb"
+    },
+    {
+      "id": "P13",
+      "name": "Nickel",
+      "name_as_reported": "Ni",
+      "cas_number": "7440-02-0",
+      "category": "Heavy metal",
+      "unit_as_reported": "ppb"
+    },
+    {
+      "id": "P14",
+      "name": "Zinc",
+      "name_as_reported": "Zn",
+      "cas_number": "7440-66-6",
+      "category": "Heavy metal",
+      "unit_as_reported": "ppb"
+    },
+    {
+      "id": "P15",
+      "name": "Fluoride",
+      "name_as_reported": "F-",
+      "cas_number": "16984-48-8",
+      "category": "Major ion",
+      "unit_as_reported": "ppm"
+    },
+    {
+      "id": "P16",
+      "name": "Chloride",
+      "name_as_reported": "Cl-",
+      "cas_number": "16887-00-6",
+      "category": "Major ion",
+      "unit_as_reported": "ppm"
+    },
+    {
+      "id": "P17",
+      "name": "Nitrate",
+      "name_as_reported": "NO3-",
+      "cas_number": "14797-55-8",
+      "category": "Nutrient",
+      "unit_as_reported": "ppm"
+    },
+    {
+      "id": "P18",
+      "name": "Sulfate",
+      "name_as_reported": "SO42-",
+      "cas_number": "14808-79-8",
+      "category": "Major ion",
+      "unit_as_reported": "ppm"
+    },
+    {
+      "id": "P19",
+      "name": "Bicarbonate",
+      "name_as_reported": "HCO3-",
+      "cas_number": "71-52-3",
+      "category": "Major ion",
+      "unit_as_reported": "ppm"
+    },
+    {
+      "id": "P20",
+      "name": "Phosphate",
+      "name_as_reported": "PO43-",
+      "cas_number": "14265-44-2",
+      "category": "Nutrient",
+      "unit_as_reported": "ppm"
+    },
+    {
+      "id": "P21",
+      "name": "pH",
+      "name_as_reported": "pH",
+      "cas_number": null,
+      "category": "Physicochemical",
+      "unit_as_reported": null
+    },
+    {
+      "id": "P22",
+      "name": "Electrical Conductivity",
+      "name_as_reported": "EC",
+      "cas_number": null,
+      "category": "Physicochemical",
+      "unit_as_reported": "\u00b5S/cm"
+    },
+    {
+      "id": "P23",
+      "name": "Total Dissolved Solids",
+      "name_as_reported": "TDS",
+      "cas_number": null,
+      "category": "Physicochemical",
+      "unit_as_reported": "mg/l"
+    },
+    {
+      "id": "P24",
+      "name": "Oxidation-Reduction Potential",
+      "name_as_reported": "ORP",
+      "cas_number": null,
+      "category": "Physicochemical",
+      "unit_as_reported": "mV"
+    }
+  ],
+  "temporal_coverage": {
+    "time_periods": [
+      "2013"
+    ],
+    "sampling_dates": "February 2013",
+    "granularity": "single event"
+  },
+  "extraction_notes": "The unit reporting in Table 1 is ambiguous. The table header states 'Ions and trace metal concentration in river Yamuna, Delhi (ppm)', but a footnote clarifies '* Concentrations in ppb; EC in \u00b5S/cm, ORP in mV, TDS in mg/l'. Based on the values and discussion in the abstract and text, it is inferred that Na, K, Ca, Mg, Fe, F-, Cl-, NO3-, SO42-, HCO3-, PO43- are reported in ppm, while Al, Cu, Cr, Co, Cd, Pb, Mn, Ni, Zn are reported in ppb. This interpretation aligns with the abstract's statement about heavy metal concentrations being 'manifold higher' than acceptable limits, which would not be true if Fe, for example, was in ppb."
+}

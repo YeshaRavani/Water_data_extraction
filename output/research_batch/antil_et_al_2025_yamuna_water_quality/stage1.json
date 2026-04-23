@@ -1,0 +1,223 @@
+{
+  "paper_overview": {
+    "citation": "Antil, S., Maurya, S., Dagar, J., Bhagat, P., Makhija, S., & Toteja, R. (2025). Insights into Water Quality of River Yamuna, India: A Comprehensive Spatial-Temporal Analysis Using Advanced Indices and Multivariate Statistical Techniques. Water Resources, 52(4), 807-829.",
+    "is_review_paper": false,
+    "study_region": "Yamuna River, India",
+    "data_sources": [
+      {
+        "location": "Table 1, page 2",
+        "description": "Details of the sampling site",
+        "page": "2"
+      },
+      {
+        "location": "Table 4, page 6",
+        "description": "Descriptive statistics of physical-chemical parameters in the Yamuna River",
+        "page": "6"
+      },
+      {
+        "location": "Table 6, page 10",
+        "description": "Descriptive statistics of heavy metal concentration (mg/L) in Yamuna River",
+        "page": "10"
+      }
+    ]
+  },
+  "sites": [
+    {
+      "id": "S1",
+      "description": "Yamunotri (YM), Uttarakhand (UK)",
+      "latitude": 30.975833,
+      "longitude": 78.438333,
+      "matrix": "water",
+      "sample_type": "surface water",
+      "source_quote": "Yamunotri (YM), Uttarakhand (UK)",
+      "source_location": "Table 1, page 2"
+    },
+    {
+      "id": "S2",
+      "description": "Paonta Sahib (PS), Himachal Pradesh (HP)",
+      "latitude": 30.43,
+      "longitude": 77.6275,
+      "matrix": "water",
+      "sample_type": "surface water",
+      "source_quote": "Paonta Sahib (PS), Himachal Pradesh (HP)",
+      "source_location": "Table 1, page 2"
+    },
+    {
+      "id": "S3",
+      "description": "Wazirabad Before Drain (WBBD), Delhi",
+      "latitude": 28.708889,
+      "longitude": 77.230556,
+      "matrix": "water",
+      "sample_type": "surface water",
+      "source_quote": "Wazirabad Before Drain (WBBD), Delhi",
+      "source_location": "Table 1, page 2"
+    },
+    {
+      "id": "S4",
+      "description": "Wazirabad After Drain (WBAD), Delhi",
+      "latitude": 28.663333,
+      "longitude": 77.24,
+      "matrix": "water",
+      "sample_type": "surface water",
+      "source_quote": "Wazirabad After Drain (WBAD), Delhi",
+      "source_location": "Table 1, page 2"
+    },
+    {
+      "id": "S5",
+      "description": "Prayagraj (PJ), Uttar Pradesh (UP)",
+      "latitude": 25.428333,
+      "longitude": 81.861667,
+      "matrix": "water",
+      "sample_type": "surface water",
+      "source_quote": "Prayagraj (PJ), Uttar Pradesh (UP)",
+      "source_location": "Table 1, page 2"
+    }
+  ],
+  "parameters": [
+    {
+      "id": "P1",
+      "name": "Temperature",
+      "name_as_reported": "Temp.",
+      "cas_number": null,
+      "category": "Physical-Chemical",
+      "unit_as_reported": "\u00b0C"
+    },
+    {
+      "id": "P2",
+      "name": "pH",
+      "name_as_reported": "pH",
+      "cas_number": null,
+      "category": "Physical-Chemical",
+      "unit_as_reported": null
+    },
+    {
+      "id": "P3",
+      "name": "Dissolved Oxygen",
+      "name_as_reported": "DO",
+      "cas_number": null,
+      "category": "Physical-Chemical",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P4",
+      "name": "Total Dissolved Solids",
+      "name_as_reported": "TDS",
+      "cas_number": null,
+      "category": "Physical-Chemical",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P5",
+      "name": "Water Hardness",
+      "name_as_reported": "WH",
+      "cas_number": null,
+      "category": "Physical-Chemical",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P6",
+      "name": "Nitrate",
+      "name_as_reported": "NO3",
+      "cas_number": null,
+      "category": "Physical-Chemical",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P7",
+      "name": "Nitrite",
+      "name_as_reported": "NO2",
+      "cas_number": null,
+      "category": "Physical-Chemical",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P8",
+      "name": "Ammonia",
+      "name_as_reported": "NH3",
+      "cas_number": null,
+      "category": "Physical-Chemical",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P9",
+      "name": "Iron",
+      "name_as_reported": "Fe",
+      "cas_number": null,
+      "category": "Heavy Metal",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P10",
+      "name": "Manganese",
+      "name_as_reported": "Mn",
+      "cas_number": null,
+      "category": "Heavy Metal",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P11",
+      "name": "Copper",
+      "name_as_reported": "Cu",
+      "cas_number": null,
+      "category": "Heavy Metal",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P12",
+      "name": "Zinc",
+      "name_as_reported": "Zn",
+      "cas_number": null,
+      "category": "Heavy Metal",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P13",
+      "name": "Cobalt",
+      "name_as_reported": "Co",
+      "cas_number": null,
+      "category": "Heavy Metal",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P14",
+      "name": "Cadmium",
+      "name_as_reported": "Cd",
+      "cas_number": null,
+      "category": "Heavy Metal",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P15",
+      "name": "Lead",
+      "name_as_reported": "Pb",
+      "cas_number": null,
+      "category": "Heavy Metal",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P16",
+      "name": "Chromium",
+      "name_as_reported": "Cr",
+      "cas_number": null,
+      "category": "Heavy Metal",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P17",
+      "name": "Nickel",
+      "name_as_reported": "Ni",
+      "cas_number": null,
+      "category": "Heavy Metal",
+      "unit_as_reported": "mg/L"
+    }
+  ],
+  "temporal_coverage": {
+    "time_periods": [
+      "Pre-Monsoon (PRM)",
+      "Post-Monsoon (POM)"
+    ],
+    "sampling_dates": "April 2022, September 2022",
+    "granularity": "seasonal"
+  },
+  "extraction_notes": "Site coordinates were converted from degrees, minutes, seconds to decimal degrees. Matrix and sample type were inferred from the context of the paper (water quality study of a river). CAS numbers for parameters were not provided in the paper."
+}

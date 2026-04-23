@@ -1,0 +1,330 @@
+{
+  "paper_overview": {
+    "citation": "Biswas, P., & Vellanki, B. P. (2021). Occurrence of emerging contaminants in highly anthropogenically influenced river Yamuna in India. Science of the Total Environment, 782, 146741.",
+    "is_review_paper": false,
+    "study_region": "River Yamuna in Northern India, including its tributaries Hindon river and Hindon canal. Specific locations include Dakpatthar, Delhi (Nizamuddin bridge, Okhla barrage, D/S Shahadara drain & Yamuna Confluence), Mathura (U/S and D/S), Agra (U/S, near Taj Mahal, D/S), and Etawah (U/S and D/S).",
+    "data_sources": [
+      {
+        "location": "Page 1, 3, 4",
+        "description": "Surface water samples were collected from 13 locations along the Yamuna river and its two tributaries, Hindon river and Hindon canal.",
+        "page": "1, 3, 4"
+      },
+      {
+        "location": "Page 4, 9",
+        "description": "Inlet and outlet samples from two Drinking Water Treatment Plants (DWTPs) at Mathura and Agra were analyzed for the presence of emerging contaminants.",
+        "page": "4, 9"
+      }
+    ]
+  },
+  "sites": [
+    {
+      "id": "Y1",
+      "description": "Dakpatthar, located in the lower Himalayas, the most upstream sampling point with a sparse population, close to the origin of Yamuna.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Surface water",
+      "sample_type": "Grab sample",
+      "source_quote": "The first sampling point Dakpatthar (Y-1) is situated close to the origin of Yamuna at the lower Himalayas with a sparse population.",
+      "source_location": "Page 3"
+    },
+    {
+      "id": "Y2",
+      "description": "Hindon river, a tributary of Yamuna, which is a rainfed river joining Yamuna in the outskirts of southern Delhi.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Surface water",
+      "sample_type": "Grab sample",
+      "source_quote": "Water samples were also collected from Hindon river (Y-2) and Hindon canal (Y-3) which act as the tributaries of Yamuna.",
+      "source_location": "Page 3"
+    },
+    {
+      "id": "Y3",
+      "description": "Hindon canal, a tributary of Yamuna, branching from Hindon river and joining Yamuna in Delhi.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Surface water",
+      "sample_type": "Grab sample",
+      "source_quote": "Water samples were also collected from Hindon river (Y-2) and Hindon canal (Y-3) which act as the tributaries of Yamuna.",
+      "source_location": "Page 3"
+    },
+    {
+      "id": "Y4",
+      "description": "Nizamuddin Bridge, located in Delhi, downstream of the confluence points of major and minor drains with Yamuna.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Surface water",
+      "sample_type": "Grab sample",
+      "source_quote": "After Y-1, the next three sites were selected in and around the capital, Delhi, including Nizamuddin bridge (Y-4), Okhla barrage (Y-5) and down-stream of Yamuna-Shahadara drain confluence (Y-6).",
+      "source_location": "Page 3"
+    },
+    {
+      "id": "Y5",
+      "description": "Okhla Barrage, located in Delhi, where domestic and industrial waste from Gaziabad city flows into the Yamuna.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Surface water",
+      "sample_type": "Grab sample",
+      "source_quote": "After Y-1, the next three sites were selected in and around the capital, Delhi, including Nizamuddin bridge (Y-4), Okhla barrage (Y-5) and down-stream of Yamuna-Shahadara drain confluence (Y-6).",
+      "source_location": "Page 3"
+    },
+    {
+      "id": "Y6",
+      "description": "Downstream of Shahadara drain & Yamuna Confluence, approximately 1 km downstream of Shahadara drain, which brings BOD load from industrial townships of Delhi.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Surface water",
+      "sample_type": "Grab sample",
+      "source_quote": "After Y-1, the next three sites were selected in and around the capital, Delhi, including Nizamuddin bridge (Y-4), Okhla barrage (Y-5) and down-stream of Yamuna-Shahadara drain confluence (Y-6).",
+      "source_location": "Page 3"
+    },
+    {
+      "id": "Y7",
+      "description": "Upstream of Mathura, a town with approximate 442 thousand population.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Surface water",
+      "sample_type": "Grab sample",
+      "source_quote": "samples were collected upstream (Y-7) and downstream of Mathura (Y-8).",
+      "source_location": "Page 3"
+    },
+    {
+      "id": "Y8",
+      "description": "Downstream of Mathura.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Surface water",
+      "sample_type": "Grab sample",
+      "source_quote": "samples were collected upstream (Y-7) and downstream of Mathura (Y-8).",
+      "source_location": "Page 3"
+    },
+    {
+      "id": "Y9",
+      "description": "Upstream of Agra city, a town with approximately 1.59 million population and a tourist hotspot.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Surface water",
+      "sample_type": "Grab sample",
+      "source_quote": "Samples upstream of Agra (Y-9), Agra city near Taj Mahal (Y-10) and down-stream of Agra (Y-11) were collected.",
+      "source_location": "Page 3"
+    },
+    {
+      "id": "Y10",
+      "description": "Agra city near Taj Mahal.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Surface water",
+      "sample_type": "Grab sample",
+      "source_quote": "Samples upstream of Agra (Y-9), Agra city near Taj Mahal (Y-10) and down-stream of Agra (Y-11) were collected.",
+      "source_location": "Page 3"
+    },
+    {
+      "id": "Y11",
+      "description": "Downstream of Agra city.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Surface water",
+      "sample_type": "Grab sample",
+      "source_quote": "Samples upstream of Agra (Y-9), Agra city near Taj Mahal (Y-10) and down-stream of Agra (Y-11) were collected.",
+      "source_location": "Page 3"
+    },
+    {
+      "id": "Y12",
+      "description": "Upstream of Etawah, a town of 257 thousand population.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Surface water",
+      "sample_type": "Grab sample",
+      "source_quote": "The last two sites were chosen upstream (Y-12) and downstream of Etawah (Y-13).",
+      "source_location": "Page 3"
+    },
+    {
+      "id": "Y13",
+      "description": "Downstream of Etawah, close to the outfall of the Etawah STP (Waste Stabilization Pond).",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Surface water",
+      "sample_type": "Grab sample",
+      "source_quote": "The last two sites were chosen upstream (Y-12) and downstream of Etawah (Y-13). The site Y-13 is close to the outfall of the Etawah STP.",
+      "source_location": "Page 3"
+    },
+    {
+      "id": "Mathura_Inlet",
+      "description": "Inlet of Mathura Drinking Water Treatment Plant (DWTP), which is based on conventional water treatment technique.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Finished drinking water",
+      "sample_type": "Inlet sample",
+      "source_quote": "For drinking water sampling, two DWTPS at Mathura and Agra were selected. Both the plants have inlets in Yamuna. Mathura DWTP is based on conventional water treatment technique...",
+      "source_location": "Page 4"
+    },
+    {
+      "id": "Mathura_Outlet",
+      "description": "Outlet of Mathura Drinking Water Treatment Plant (DWTP).",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Finished drinking water",
+      "sample_type": "Outlet sample",
+      "source_quote": "Grab samples were collected from inlet and outlet of both Mathura and Agra DWTP.",
+      "source_location": "Page 4"
+    },
+    {
+      "id": "Agra_Inlet",
+      "description": "Inlet of Agra Drinking Water Treatment Plant (DWTP), which is based on moving bed biofilm reactor (MBBR) method.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Finished drinking water",
+      "sample_type": "Inlet sample",
+      "source_quote": "For drinking water sampling, two DWTPS at Mathura and Agra were selected. Both the plants have inlets in Yamuna... while Agra DWTP is based on moving bed biofilm reactor (MBBR) method.",
+      "source_location": "Page 4"
+    },
+    {
+      "id": "Agra_Outlet",
+      "description": "Outlet of Agra Drinking Water Treatment Plant (DWTP).",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "Finished drinking water",
+      "sample_type": "Outlet sample",
+      "source_quote": "Grab samples were collected from inlet and outlet of both Mathura and Agra DWTP.",
+      "source_location": "Page 4"
+    }
+  ],
+  "parameters": [
+    {
+      "id": "P1",
+      "name": "Caffeine",
+      "name_as_reported": "Caffeine",
+      "cas_number": null,
+      "category": "Stimulant",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P2",
+      "name": "Trimethoprim",
+      "name_as_reported": "Trimethoprim",
+      "cas_number": null,
+      "category": "Antibiotic",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P3",
+      "name": "Ciprofloxacin",
+      "name_as_reported": "Ciprofloxacin",
+      "cas_number": null,
+      "category": "Antibiotic",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P4",
+      "name": "Sulfamethoxazole",
+      "name_as_reported": "Sulfamethoxazole",
+      "cas_number": null,
+      "category": "Antibiotic",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P5",
+      "name": "Enrofloxacin",
+      "name_as_reported": "Enrofloxacin",
+      "cas_number": null,
+      "category": "Antibiotic",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P6",
+      "name": "Testosterone",
+      "name_as_reported": "Testosterone",
+      "cas_number": null,
+      "category": "Hormone",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P7",
+      "name": "Progesterone",
+      "name_as_reported": "Progesterone",
+      "cas_number": null,
+      "category": "Hormone",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P8",
+      "name": "Estrone",
+      "name_as_reported": "Estrone",
+      "cas_number": null,
+      "category": "Hormone",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P9",
+      "name": "Diclofenac",
+      "name_as_reported": "Diclofenac",
+      "cas_number": null,
+      "category": "NSAID",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P10",
+      "name": "Naproxen",
+      "name_as_reported": "Naproxen",
+      "cas_number": null,
+      "category": "NSAID",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P11",
+      "name": "Ketoprofen",
+      "name_as_reported": "Ketoprofen",
+      "cas_number": null,
+      "category": "NSAID",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P12",
+      "name": "Carbamazepine",
+      "name_as_reported": "Carbamazepine",
+      "cas_number": null,
+      "category": "Anticonvulsant",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P13",
+      "name": "Atenolol",
+      "name_as_reported": "Atenolol",
+      "cas_number": null,
+      "category": "Beta blocker",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P14",
+      "name": "Triclosan",
+      "name_as_reported": "Triclosan",
+      "cas_number": null,
+      "category": "Antibacterial and antifungal",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P15",
+      "name": "Gemfibrozil",
+      "name_as_reported": "Gemfibrozil",
+      "cas_number": null,
+      "category": "Lipid Regulator",
+      "unit_as_reported": "ng/L"
+    },
+    {
+      "id": "P16",
+      "name": "2-Hydroxybenzothiazole",
+      "name_as_reported": "2-Hydroxybenzothiazole",
+      "cas_number": null,
+      "category": "Vulcanization accelerator",
+      "unit_as_reported": "ng/L"
+    }
+  ],
+  "temporal_coverage": {
+    "time_periods": [
+      "Summer",
+      "Post-monsoon"
+    ],
+    "sampling_dates": "Summer sampling was conducted in May, and post-monsoon sampling was conducted in September.",
+    "granularity": "Seasonal"
+  },
+  "extraction_notes": "CAS numbers and supplier information for the standards used in this study are provided in supplementary information (S-1). The method for solid phase extraction is detailed in supplementary information (S-5). The methods used for HPLC-MS and UPLC-QToF analysis, along with Method Detection Limits (MDL) and Method Quantification Limits (MQL), are given in supplementary information (S-6)."
+}

@@ -1,0 +1,207 @@
+site_id,parameter_id,time_period,raw_value,mean_value,std_dev,min_value,max_value,n_observations,aggregation_level,limit_qualifier,detection_limit,unit,original_source_citation,source_location,source_quote
+S1,P2,2020-2021,7.4,,,,,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.4
+S1,P3,2020-2021,10.8,,,,,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",10.8
+S1,P4,2020-2021,79.0,,,,,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",79
+S1,P5,2020-2021,,,,,,,yearly,<,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL
+S1,P6,2020-2021,4.0,,,,,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",4
+S1,P7,2020-2021,4.0,,,,,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",4
+S2,P2,2020-2021,7.9,,,,,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.9
+S2,P3,2020-2021,11.6,,,,,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",11.6
+S2,P4,2020-2021,145.0,,,,,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",145
+S2,P5,2020-2021,,,,,,,yearly,<,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL
+S2,P6,2020-2021,94.0,,,,,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",94
+S2,P7,2020-2021,140.0,,,,,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",140
+S3,P1,2020-2021,,,,16.0,22.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",16-22
+S3,P2,2020-2021,,,,7.7,8.4,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.7-8.4
+S3,P3,2020-2021,,,,8.6,10.8,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",8.6-10.8
+S3,P4,2020-2021,,,,142.0,320.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",142-320
+S3,P5,2020-2021,,,,0.8,1.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",0.8-1.0
+S3,P6,2020-2021,,,,2.0,9.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2-9
+S3,P7,2020-2021,,,,2.0,30.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2-30
+S4,P1,2020-2021,,,,17.0,24.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",17-24
+S4,P2,2020-2021,,,,8.0,8.2,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",8.0-8.2
+S4,P3,2020-2021,,,,8.2,10.2,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",8.2-10.2
+S4,P4,2020-2021,,,,106.0,162.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",106-162
+S4,P5,2020-2021,,,,1.0,1.2,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1.0-1.2
+S4,P6,2020-2021,,,,17.0,34.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",17-34
+S4,P7,2020-2021,,,,40.0,70.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",40-70
+S5,P1,2020-2021,,,,13.0,28.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",13-28
+S5,P2,2020-2021,,,,6.4,8.0,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.4-8.0
+S5,P3,2020-2021,,,,7.1,9.1,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-9.1
+S5,P4,2020-2021,,,,214.0,5866.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",214-5866
+S5,P5,2020-2021,,,,0.4,1.8,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",0.4-1.8
+S5,P6,2020-2021,,,,9.0,46.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",9-46
+S5,P7,2020-2021,,,,32.0,140.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",32-140
+S6,P1,2020-2021,,,,11.0,31.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",11-31
+S6,P2,2020-2021,,,,6.6,7.7,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.6-7.7
+S6,P3,2020-2021,,,,7.0,9.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.0-9.0
+S6,P4,2020-2021,,,,248.0,448.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",248-448
+S6,P5,2020-2021,,,,0.4,2.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",0.4-2.0
+S6,P6,2020-2021,,,,11.0,27.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",11-27
+S6,P7,2020-2021,,,,38.0,94.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",38-94
+S7,P1,2020-2021,,,,16.0,34.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",16-34
+S7,P2,2020-2021,,,,7.0,7.6,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.0-7.6
+S7,P3,2020-2021,,,,7.1,8.9,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-8.9
+S7,P4,2020-2021,,,,162.0,605.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",162-605
+S7,P5,2020-2021,,,,0.4,1.6,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",0.4-1.6
+S7,P6,2020-2021,,,,10.0,13.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",10-13
+S7,P7,2020-2021,,,,32.0,94.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",32-94
+S8,P1,2020-2021,,,,16.0,34.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",16-34
+S8,P2,2020-2021,,,,7.0,7.6,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.0-7.6
+S8,P3,2020-2021,,,,7.0,8.8,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.0-8.8
+S8,P4,2020-2021,,,,161.0,2593.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",161-2593
+S8,P5,2020-2021,,,,0.4,1.8,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",0.4-1.8
+S8,P6,2020-2021,,,,10.0,33.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",10-33
+S8,P7,2020-2021,,,,33.0,110.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",33-110
+S9,P1,2020-2021,,,,21.0,29.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",21-29
+S9,P2,2020-2021,,,,7.3,8.3,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.3-8.3
+S9,P3,2020-2021,,,,7.1,8.5,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-8.5
+S9,P4,2020-2021,,,,192.0,620.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",192-620
+S9,P5,2020-2021,,,,2.4,6.6,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2.4-6.6
+S9,P6,2020-2021,,,,200.0,3200.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",200-3200
+S9,P7,2020-2021,,,,1100.0,21200.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1100-21200
+S10,P1,2020-2021,,,,19.0,29.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",19-29
+S10,P2,2020-2021,,,,7.2,8.3,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.2-8.3
+S10,P3,2020-2021,,,,6.8,9.3,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.8-9.3
+S10,P4,2020-2021,,,,197.0,608.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",197-608
+S10,P5,2020-2021,,,,2.2,5.2,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2.2-5.2
+S10,P6,2020-2021,,,,200.0,49000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",200-49000
+S10,P7,2020-2021,,,,3900.0,1600000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",3900-1600000
+S11,P2,2020-2021,,,,7.2,8.5,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.2-8.5
+S11,P3,2020-2021,,,,5.2,10.8,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",5.2-10.8
+S11,P4,2020-2021,,,,157.0,451.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",157-451
+S11,P5,2020-2021,,,,,4.0,,yearly,<,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL-4.0
+S11,P6,2020-2021,,,,49.0,7000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",49-7000
+S11,P7,2020-2021,,,,230.0,35000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",230-35000
+S12,P1,2020-2021,,,,21.0,29.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",21-29
+S12,P2,2020-2021,,,,6.6,8.4,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.6-8.4
+S12,P3,2020-2021,,,,5.0,8.4,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",5.0-8.4
+S12,P4,2020-2021,,,,255.0,942.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",255-942
+S12,P5,2020-2021,,,,1.4,7.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1.4-7.0
+S12,P6,2020-2021,,,,90.0,70000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",90-70000
+S12,P7,2020-2021,,,,270.0,278000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",270-278000
+S13,P1,2020-2021,,,,14.0,35.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",14-35
+S13,P2,2020-2021,,,,6.5,8.6,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.5-8.6
+S13,P3,2020-2021,,,,7.1,10.6,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-10.6
+S13,P4,2020-2021,,,,235.0,683.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",235-683
+S13,P5,2020-2021,,,,1.8,5.5,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1.8-5.5
+S13,P6,2020-2021,,,,110.0,220000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",110-220000
+S13,P7,2020-2021,,,,330.0,1600000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",330-1600000
+S14,P1,2020-2021,,,,16.0,33.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",16-33
+S14,P2,2020-2021,,,,7.6,9.0,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.6-9.0
+S14,P3,2020-2021,,,,5.6,17.1,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",5.6-17.1
+S14,P4,2020-2021,,,,273.0,789.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",273-789
+S14,P5,2020-2021,,,,1.4,7.9,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1.4-7.9
+S14,P6,2020-2021,,,,78.0,79000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","78-79,000"
+S14,P7,2020-2021,,,,330.0,350000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",330-350000
+S15,P1,2020-2021,,,,13.0,31.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",13-31
+S15,P2,2020-2021,,,,7.1,7.9,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-7.9
+S15,P3,2020-2021,,,,,2.4,,yearly,<,3.0,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL-2.4
+S15,P4,2020-2021,,,,460.0,1641.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",460-1641
+S15,P5,2020-2021,,,,5.6,57.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",5.6-57.0
+S15,P6,2020-2021,,,,210000.0,11000000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","210,000-11000000"
+S15,P7,2020-2021,,,,700000.0,28000000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","700,000-28000000"
+S16,P1,2020-2021,,,,15.0,31.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",15-31
+S16,P2,2020-2021,,,,7.1,7.9,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-7.9
+S16,P3,2020-2021,,,,,2.6,,yearly,<,3.0,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL-2.6
+S16,P4,2020-2021,,,,488.0,1526.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",488-1526
+S16,P5,2020-2021,,,,5.6,27.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",5.6-27.0
+S16,P6,2020-2021,,,,78000.0,3300000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","78,000-3300000"
+S16,P7,2020-2021,,,,350000.0,16000000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","350,000-16000000"
+S17,P1,2020-2021,,,,15.0,33.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",15-33
+S17,P2,2020-2021,,,,7.2,7.8,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.2-7.8
+S17,P3,2020-2021,,,,3.0,5.6,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL-5.6
+S17,P4,2020-2021,,,,499.0,1773.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",499-1773
+S17,P5,2020-2021,,,,7.7,114.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.7-114.0
+S17,P6,2020-2021,,,,68000.0,7900000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","68,000-7900000"
+S17,P7,2020-2021,,,,490000.0,35000000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","490,000-35000000"
+S18,P1,2020-2021,,,,15.0,31.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",15-31
+S18,P2,2020-2021,,,,7.1,7.8,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-7.8
+S18,P3,2020-2021,,,,,1.4,,yearly,<,3.0,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL-1.4
+S18,P4,2020-2021,,,,573.0,1541.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",573-1541
+S18,P5,2020-2021,,,,11.4,32.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",11.4-32
+S18,P6,2020-2021,,,,330000.0,4900000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","330,000-4900000"
+S18,P7,2020-2021,,,,1100000.0,24000000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","1,100,000-24000000"
+S19,P1,2020-2021,14.0,,,,,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",14
+S19,P2,2020-2021,,,,6.4,8.1,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.4-8.1
+S19,P3,2020-2021,,,,,2.3,,yearly,<,3.0,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL-2.3
+S19,P4,2020-2021,,,,978.0,1719.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",978-1719
+S19,P5,2020-2021,,,,8.7,59.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",8.7-59.0
+S19,P6,2020-2021,,,,680.0,4900000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",680-4900000
+S19,P7,2020-2021,,,,3300.0,9200000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",3300-9200000
+S20,P1,2020-2021,,,,14.0,32.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",14-32
+S20,P2,2020-2021,,,,7.1,7.5,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-7.5
+S20,P3,2020-2021,,,,4.6,6.9,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",4.6-6.9
+S20,P5,2020-2021,,,,5.8,10.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",5.8-10.0
+S20,P6,2020-2021,,,,31000.0,85000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","31,000-85000"
+S20,P7,2020-2021,,,,53000.0,110000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","53,000-110000"
+S21,P1,2020-2021,,,,15.0,32.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",15-32
+S21,P2,2020-2021,,,,7.1,7.6,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-7.6
+S21,P3,2020-2021,,,,4.0,7.6,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",4.0-7.6
+S21,P5,2020-2021,,,,6.0,10.4,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.0-10.4
+S21,P6,2020-2021,,,,24000.0,65000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","24,000-65000"
+S21,P7,2020-2021,,,,46000.0,88000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","46,000-88000"
+S22,P1,2020-2021,13.0,,,,,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",13
+S22,P2,2020-2021,,,,6.5,8.5,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.5-8.5
+S22,P3,2020-2021,,,,3.0,4.6,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL-4.6
+S22,P4,2020-2021,,,,1096.0,1816.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1096-1816
+S22,P5,2020-2021,,,,7.3,30.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.3-30.0
+S22,P6,2020-2021,,,,400.0,920000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",400-920000
+S22,P7,2020-2021,,,,1100.0,9200000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1100-9200000
+S23,P1,2020-2021,,,,14.0,32.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",14-32
+S23,P2,2020-2021,,,,6.9,7.6,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.9-7.6
+S23,P3,2020-2021,,,,4.1,7.4,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",4.1-7.4
+S23,P5,2020-2021,,,,6.8,12.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.8-12.0
+S23,P6,2020-2021,,,,31000.0,92000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","31,000-92000"
+S23,P7,2020-2021,,,,54000.0,140000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","54,000-140000"
+S24,P1,2020-2021,12.0,,,,,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",12
+S24,P2,2020-2021,,,,6.5,8.3,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.5-8.3
+S24,P3,2020-2021,,,,1.6,6.8,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1.6-6.8
+S24,P4,2020-2021,,,,1195.0,1903.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1195-1903
+S24,P5,2020-2021,,,,6.9,21.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.9-21.0
+S24,P6,2020-2021,,,,1700.0,170000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1700-170000
+S24,P7,2020-2021,,,,2200.0,1400000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2200-1400000
+S25,P1,2020-2021,12.0,,,,,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",12
+S25,P2,2020-2021,,,,6.5,8.5,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.5-8.5
+S25,P3,2020-2021,,,,1.4,9.6,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1.4-9.6
+S25,P4,2020-2021,,,,1154.0,1872.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1154-1872
+S25,P5,2020-2021,,,,4.7,25.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",4.7-25.0
+S25,P6,2020-2021,,,,220.0,3300000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",220-3300000
+S25,P7,2020-2021,,,,2200.0,7900000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2200-7900000
+S26,P2,2020-2021,,,,6.5,8.7,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.5-8.7
+S26,P3,2020-2021,,,,3.8,16.2,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",3.8-16.2
+S26,P4,2020-2021,,,,875.0,1920.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",875-1920
+S26,P5,2020-2021,,,,9.1,25.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",9.1-25.0
+S26,P6,2020-2021,,,,450.0,6100000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",450-6100000
+S26,P7,2020-2021,,,,2200.0,32000000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2200-32000000
+S27,P2,2020-2021,,,,7.8,7.9,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.8-7.9
+S27,P3,2020-2021,,,,2.6,9.2,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2.6-9.2
+S27,P4,2020-2021,,,,1054.0,1471.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1054-1471
+S27,P5,2020-2021,,,,14.0,20.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",14.0-20.0
+S27,P6,2020-2021,,,,450.0,1400.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",450-1400
+S27,P7,2020-2021,,,,3300.0,13000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",3300-13000
+S28,P2,2020-2021,,,,7.7,7.9,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.7-7.9
+S28,P3,2020-2021,7.3,,,,,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.3-7.3
+S28,P4,2020-2021,,,,1288.0,1507.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1288-1507
+S28,P5,2020-2021,,,,13.0,15.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",13.0-15.0
+S28,P6,2020-2021,,,,20.0,200.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",20-200
+S28,P7,2020-2021,,,,1300.0,1700.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1300-1700
+S29,P2,2020-2021,,,,7.7,8.2,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.7-8.2
+S29,P3,2020-2021,,,,8.1,11.3,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",8.1-11.3
+S29,P4,2020-2021,,,,846.0,937.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",846-937
+S29,P5,2020-2021,,,,8.7,13.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",8.7-13.0
+S29,P6,2020-2021,,,,68.0,7800.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",68-7800
+S29,P7,2020-2021,,,,1700.0,220000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1700-220000
+S30,P2,2020-2021,,,,8.0,8.4,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",8.0-8.4
+S30,P3,2020-2021,,,,0.4,8.4,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",0.4-8.4
+S30,P4,2020-2021,,,,750.0,832.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",750-832
+S30,P5,2020-2021,,,,2.8,6.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2.8-6.0
+S30,P6,2020-2021,,,,330.0,2200.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",330-2200
+S30,P7,2020-2021,,,,1300.0,13000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1300-13000
+S31,P1,2020-2021,,,,22.0,27.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",22-27
+S31,P2,2020-2021,,,,7.8,8.4,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.8-8.4
+S31,P3,2020-2021,,,,7.3,11.5,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.3-11.5
+S31,P4,2020-2021,,,,418.0,725.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",418-725
+S31,P5,2020-2021,,,,1.8,2.4,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1.8-2.4
+S31,P6,2020-2021,,,,310.0,2100.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",310-2100
+S31,P7,2020-2021,,,,1700.0,3900.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1700-3900

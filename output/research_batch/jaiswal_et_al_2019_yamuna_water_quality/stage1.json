@@ -1,0 +1,364 @@
+{
+  "paper_overview": {
+    "citation": "Jaiswal, M., Hussain, J., Gupta, S.K. et al. Comprehensive evaluation of water quality status for entire stretch of Yamuna River, India. Environ Monit Assess 191, 208 (2019). https://doi.org/10.1007/s10661-019-7312-8",
+    "is_review_paper": false,
+    "study_region": "Yamuna River, India, covering seven states including National Capital Territory (NCT) of Delhi",
+    "data_sources": [
+      {
+        "location": "Supplementary file; Table S1",
+        "description": "Water quality stations along with their latitude and longitude data and catchment areas",
+        "page": "3"
+      },
+      {
+        "location": "Supplementary file; Tables S2 and S3",
+        "description": "Concentrations of water quality parameters at monitoring stations during monsoon and non-monsoon",
+        "page": "4"
+      },
+      {
+        "location": "Supplementary file; Table S4",
+        "description": "Indian Standards classes for water usage",
+        "page": "5"
+      },
+      {
+        "location": "Supplementary file; Table S5",
+        "description": "WQI classifications",
+        "page": "8"
+      },
+      {
+        "location": "Table 1",
+        "description": "Indian Standards (IS 1982, IS 1991) for water quality parameters",
+        "page": "6"
+      },
+      {
+        "location": "Table 2",
+        "description": "Correlation matrix among water qualities parameters during monsoon season",
+        "page": "10"
+      },
+      {
+        "location": "Table 3",
+        "description": "Correlation matrix among water qualities parameters during non-monsoon season",
+        "page": "11"
+      },
+      {
+        "location": "Table 4",
+        "description": "Loadings of the significant principal components for water quality parameters",
+        "page": "12"
+      },
+      {
+        "location": "Fig. 1",
+        "description": "Layout of the Yamuna River under investigation",
+        "page": "4"
+      },
+      {
+        "location": "Fig. 2",
+        "description": "Water quality index (WQI) at each monitoring station along the Yamuna River",
+        "page": "9"
+      },
+      {
+        "location": "Fig. 3",
+        "description": "Standardization of physicochemical parameters to zero mean and unit variance",
+        "page": "12"
+      },
+      {
+        "location": "Fig. 4",
+        "description": "Loading plot of water quality parameters in PCA",
+        "page": "13"
+      },
+      {
+        "location": "Fig. 5",
+        "description": "Cluster analysis sampling sites",
+        "page": "13"
+      },
+      {
+        "location": "Fig. 6",
+        "description": "DO profile along the Yamuna River and corresponding oxygen sag curve",
+        "page": "15"
+      }
+    ]
+  },
+  "sites": [
+    {
+      "id": "S1",
+      "description": "Paonta, an upstream monitoring station on the Yamuna River",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "water",
+      "sample_type": "Grab sample",
+      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
+      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+    },
+    {
+      "id": "S2",
+      "description": "Kalanaur, a monitoring station on the Yamuna River",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "water",
+      "sample_type": "Grab sample",
+      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
+      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+    },
+    {
+      "id": "S3",
+      "description": "Mawi, a monitoring station on the Yamuna River",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "water",
+      "sample_type": "Grab sample",
+      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
+      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+    },
+    {
+      "id": "S4",
+      "description": "Palla, a monitoring station on the Yamuna River",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "water",
+      "sample_type": "Grab sample",
+      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
+      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+    },
+    {
+      "id": "S5",
+      "description": "Delhi, a monitoring station on the Yamuna River",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "water",
+      "sample_type": "Grab sample",
+      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
+      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+    },
+    {
+      "id": "S6",
+      "description": "Mohana, a monitoring station on the Yamuna River",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "water",
+      "sample_type": "Grab sample",
+      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
+      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+    },
+    {
+      "id": "S7",
+      "description": "Mathura, a monitoring station on the Yamuna River",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "water",
+      "sample_type": "Grab sample",
+      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
+      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+    },
+    {
+      "id": "S8",
+      "description": "Agra, a monitoring station on the Yamuna River",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "water",
+      "sample_type": "Grab sample",
+      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
+      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+    },
+    {
+      "id": "S9",
+      "description": "Etawah, a monitoring station on the Yamuna River",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "water",
+      "sample_type": "Grab sample",
+      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
+      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+    },
+    {
+      "id": "S10",
+      "description": "Auraiya, a monitoring station on the Yamuna River",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "water",
+      "sample_type": "Grab sample",
+      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
+      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+    },
+    {
+      "id": "S11",
+      "description": "Hamirpur, a monitoring station on the Yamuna River",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "water",
+      "sample_type": "Grab sample",
+      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
+      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+    },
+    {
+      "id": "S12",
+      "description": "Pratappur, a downstream monitoring station on the Yamuna River",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "water",
+      "sample_type": "Grab sample",
+      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
+      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+    }
+  ],
+  "parameters": [
+    {
+      "id": "P1",
+      "name": "Temperature",
+      "name_as_reported": "temperature",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "\u00b0C"
+    },
+    {
+      "id": "P2",
+      "name": "pH",
+      "name_as_reported": "pH",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": null
+    },
+    {
+      "id": "P3",
+      "name": "Dissolved Oxygen",
+      "name_as_reported": "dissolved oxygen (DO)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P4",
+      "name": "Biochemical Oxygen Demand (5-day)",
+      "name_as_reported": "5-day biochemical oxygen demand (BOD5)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P5",
+      "name": "Total Dissolved Solids",
+      "name_as_reported": "total dissolved solids (TDS)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P6",
+      "name": "Electrical Conductivity",
+      "name_as_reported": "electrical conductivity (EC)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "\u00b5S/cm"
+    },
+    {
+      "id": "P7",
+      "name": "Total Alkalinity",
+      "name_as_reported": "total alkalinity (TA)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L (as CaCO3)"
+    },
+    {
+      "id": "P8",
+      "name": "Total Hardness",
+      "name_as_reported": "total hardness (TH)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L (as CaCO3)"
+    },
+    {
+      "id": "P9",
+      "name": "Calcium Hardness",
+      "name_as_reported": "calcium-hardness (Ca-H)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L (as CaCO3)"
+    },
+    {
+      "id": "P10",
+      "name": "Magnesium Hardness",
+      "name_as_reported": "magnesium-hardness (Mg-H)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L (as CaCO3)"
+    },
+    {
+      "id": "P11",
+      "name": "Ammonium",
+      "name_as_reported": "ammonium (NH4+)",
+      "cas_number": null,
+      "category": "Nutrient",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P12",
+      "name": "Nitrite",
+      "name_as_reported": "nitrite (NO2\u00af)",
+      "cas_number": null,
+      "category": "Nutrient",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P13",
+      "name": "Nitrate",
+      "name_as_reported": "nitrate (NO3\u00af)",
+      "cas_number": null,
+      "category": "Nutrient",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P14",
+      "name": "Phosphate",
+      "name_as_reported": "phosphate (PO43)",
+      "cas_number": null,
+      "category": "Nutrient",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P15",
+      "name": "Sulfate",
+      "name_as_reported": "sulfate (SO4\u00b2\u00af)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P16",
+      "name": "Chloride",
+      "name_as_reported": "chloride (Cl\u00af)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P17",
+      "name": "Fluoride",
+      "name_as_reported": "fluoride (F\u00af)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P18",
+      "name": "Iron",
+      "name_as_reported": "iron (Fe)",
+      "cas_number": null,
+      "category": "Metal",
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P19",
+      "name": "Boron",
+      "name_as_reported": "boron (B)",
+      "cas_number": null,
+      "category": "Metalloid",
+      "unit_as_reported": "mg/L"
+    }
+  ],
+  "temporal_coverage": {
+    "time_periods": [
+      "monsoon (July to October)",
+      "non-monsoon (November to June)"
+    ],
+    "sampling_dates": "2014\u20132015",
+    "granularity": "seasonal"
+  },
+  "extraction_notes": "Latitude and longitude for the sampling sites are mentioned to be in a supplementary file (Table S1), which was not accessible for extraction. The unit for Temperature (\u00b0C) is inferred from the text, not explicitly stated in Table 1. The unit for Electrical Conductivity (EC) is reported as '\u00b5/cm' in Table 1 but '\u00b5S/cm' in the text (Page 7); '\u00b5S/cm' was chosen for standardization. Units for Total Alkalinity, Total Hardness, Calcium Hardness, and Magnesium Hardness are specified 'as CaCO3' in the footnote of Table 1."
+}

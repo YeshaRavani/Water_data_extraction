@@ -1,0 +1,489 @@
+{
+  "paper_overview": {
+    "citation": "Samui, S., Mallik, A., Kumar, D., Rao, S., Dhanya, C. T., & Gosain, A. K. (2025). Identifying the pollution sources of River Yamuna through field observations and participatory approach. J. Earth Syst. Sci., 134(41). https://doi.org/10.1007/s12040-024-02498-7",
+    "is_review_paper": false,
+    "study_region": "National Capital Territory (NCT) of Delhi, India, specifically the Barapullah drainage basin",
+    "data_sources": [
+      {
+        "location": "Delhi Jal Board (DJB) water quality laboratory, Office of the Chief Water Analyst III, Okhla Tank, Mathura Road, New Delhi-110020",
+        "description": "Water quality parameters (BOD) of samples from 43 monitoring locations",
+        "page": "1, 4"
+      },
+      {
+        "location": "Shuttle Radar Topography Mission Digital Elevation Model (SRTM DEM)",
+        "description": "30-m resolution DEM for watershed and stream network delineation",
+        "page": "3"
+      },
+      {
+        "location": "Department of Irrigation & Flood Control (I&FC), Govt. of Delhi",
+        "description": "Natural drainage map for validation",
+        "page": "3"
+      },
+      {
+        "location": "Delhi Urban Shelter Improvement Board (DUSIB)",
+        "description": "Spatial map of Jhugri Jhogri Colonies (JJCs, informal settlements/slums)",
+        "page": "3"
+      },
+      {
+        "location": "publicly available GitHub repository",
+        "description": "Locality map of NCT Delhi",
+        "page": "3"
+      },
+      {
+        "location": "local communities",
+        "description": "Qualitative interviews regarding pollution sources in major pollution hotspots",
+        "page": "1, 6"
+      }
+    ]
+  },
+  "sites": [
+    {
+      "id": "S1",
+      "description": "CGHS Colony Vasant Vihar",
+      "latitude": 28.55305,
+      "longitude": 77.1648,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S2",
+      "description": "Block A2, Safdarjung Enclave",
+      "latitude": 28.56851,
+      "longitude": 77.1896,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S3",
+      "description": "Block A-25, Nauroji Nagar",
+      "latitude": 28.56942,
+      "longitude": 77.1979,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S4",
+      "description": "Block E, Saomi Nagar South Ext.",
+      "latitude": 28.54168,
+      "longitude": 77.2264,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S5",
+      "description": "PSRI Hospital, Malviya Nagar",
+      "latitude": 28.53212,
+      "longitude": 77.2249,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S6",
+      "description": "Archana Arcd, Greater Kailash",
+      "latitude": 28.5533,
+      "longitude": 77.2299,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S7",
+      "description": "Rishi Nagar Extin",
+      "latitude": 28.57526,
+      "longitude": 77.2186,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S8",
+      "description": "Sewa Nagar",
+      "latitude": 28.57959,
+      "longitude": 77.2236,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S9",
+      "description": "Block C, Lajpat Nagar",
+      "latitude": 28.57976,
+      "longitude": 77.2365,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S10",
+      "description": "Hanuman Mandir Nizamuddin",
+      "latitude": 28.58694,
+      "longitude": 77.2477,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S11",
+      "description": "Masala Mix (Iit Delhi)",
+      "latitude": 28.54591,
+      "longitude": 77.1871,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S12",
+      "description": "Kailash Hostal(Iit Delhi_)",
+      "latitude": 28.5445,
+      "longitude": 77.1959,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S13",
+      "description": "Govt. Quarter Pushp Vihar",
+      "latitude": 28.52784,
+      "longitude": 77.2256,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S14",
+      "description": "Saket Dist. Centre",
+      "latitude": 28.52577,
+      "longitude": 77.2163,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S15",
+      "description": "Ambedkar Marg Pushp Vihar",
+      "latitude": 28.51824,
+      "longitude": 77.2255,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S16",
+      "description": "Sec-5 Pushp Vihar",
+      "latitude": 28.52087,
+      "longitude": 77.2248,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S17",
+      "description": "Andrewsganj Delhi",
+      "latitude": 28.55992,
+      "longitude": 77.2311,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S18",
+      "description": "Mahatma Gandhi Andrewsganj",
+      "latitude": 28.56495,
+      "longitude": 77.232,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S19",
+      "description": "Jangpura Bhogal",
+      "latitude": 28.58622,
+      "longitude": 77.2451,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S20",
+      "description": "Jangpura Pant Nagar",
+      "latitude": 28.58683,
+      "longitude": 77.2437,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S21",
+      "description": "Devli Sangam Vihar",
+      "latitude": 28.49345,
+      "longitude": 77.226,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S22",
+      "description": "L2-Block, Devli Sangam Vihar",
+      "latitude": 28.48757,
+      "longitude": 77.2299,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S23",
+      "description": "Sec-6 Saket (PSRI)",
+      "latitude": 28.53117,
+      "longitude": 77.22376,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S24",
+      "description": "Sector 5 Pushp Vihar",
+      "latitude": 28.521599,
+      "longitude": 77.225693,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S25",
+      "description": "Ambedkar Nagar I",
+      "latitude": 28.515051,
+      "longitude": 77.23494,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S26",
+      "description": "Block D Sangam Vihar",
+      "latitude": 28.512055,
+      "longitude": 77.243812,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S27",
+      "description": "Sewa Nagar Railcolony",
+      "latitude": 28.578846,
+      "longitude": 77.236281,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S28",
+      "description": "Jal Vihar Lajpat Nagar",
+      "latitude": 28.579175,
+      "longitude": 77.245748,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S29",
+      "description": "Sector 3 RK Puram",
+      "latitude": 28.553089,
+      "longitude": 77.185567,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S30",
+      "description": "Adrash Colony RK Puram",
+      "latitude": 28.560986,
+      "longitude": 77.184212,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S31",
+      "description": "Mudirka Marg RK Puram",
+      "latitude": 28.570197,
+      "longitude": 77.182979,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S32",
+      "description": "Ekta Vihar RK Puram",
+      "latitude": 28.56769,
+      "longitude": 77.177174,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S33",
+      "description": "Somnath Marg RK Puram",
+      "latitude": 28.571963,
+      "longitude": 77.172592,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S34",
+      "description": "Block A Vasant Vihar",
+      "latitude": 28.562217,
+      "longitude": 77.167989,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S35",
+      "description": "Basant Lok Vasant Vihar",
+      "latitude": 28.560094,
+      "longitude": 77.167748,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S36",
+      "description": "Arjun Nagar, Ansari Nagar",
+      "latitude": 28.562742,
+      "longitude": 77.201656,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S37",
+      "description": "Yusuf Sarai Gautam Nagar",
+      "latitude": 28.56054,
+      "longitude": 77.209201,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S38",
+      "description": "East Kidwai Nagar",
+      "latitude": 28.573563,
+      "longitude": 77.215282,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S39",
+      "description": "Ambedkar Nagar II",
+      "latitude": 28.520212,
+      "longitude": 77.237032,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S40",
+      "description": "Sheikh Sarai Village",
+      "latitude": 28.535949,
+      "longitude": 77.222999,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S41",
+      "description": "Teen Murti Marg",
+      "latitude": 28.603319,
+      "longitude": 77.196586,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S42",
+      "description": "Bus Depot Nizamuddin",
+      "latitude": 28.590256,
+      "longitude": 77.240646,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    },
+    {
+      "id": "S43",
+      "description": "Sarai Kale Khan",
+      "latitude": 28.584052,
+      "longitude": 77.26609,
+      "matrix": "Water",
+      "sample_type": "Sewage/Wastewater",
+      "source_quote": "43 monitoring locations (S1-S43) are selected based on the physical accessibility of the drains. The geographic coordinates and details of all the 43 locations are mentioned in table 1.",
+      "source_location": "Table 1, Page 5"
+    }
+  ],
+  "parameters": [
+    {
+      "id": "P1",
+      "name": "Biochemical Oxygen Demand",
+      "name_as_reported": "Biological Oxygen Demand (BOD)",
+      "cas_number": null,
+      "category": "Organic Pollution Indicator",
+      "unit_as_reported": "mg/L"
+    }
+  ],
+  "temporal_coverage": {
+    "time_periods": [
+      "January 2022 - May 2022"
+    ],
+    "sampling_dates": "non-monsoon period from January to May 2022, mostly collected in the peak hours in the morning (9 am-12 pm)",
+    "granularity": "One-time sampling for 43 locations; twice for 13 hotspot locations"
+  },
+  "extraction_notes": "Only Biochemical Oxygen Demand (BOD) values were reported in the results, although Total Organic Carbon (TOC) and Chemical Oxygen Demand (COD) were mentioned as crucial indicators. The source_quote for sites is a general statement about their selection, as specific quotes about the site description itself were not consistently available for all 43 sites, only for pollution sources in hotspots."
+}

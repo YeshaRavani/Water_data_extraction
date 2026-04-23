@@ -1,0 +1,132 @@
+{
+  "paper_overview": {
+    "citation": "Mandal, P., Upadhyay, R. & Hasan, A. Seasonal and spatial variation of Yamuna River water quality in Delhi, India. Environ Monit Assess 169, 629\u2013636 (2010). https://doi.org/10.1007/s10661-009-1265-2",
+    "is_review_paper": false,
+    "study_region": "Delhi, India (Yamuna River)",
+    "data_sources": [
+      {
+        "location": "Central Pollution Control Board (CPCB), New Delhi, India",
+        "description": "Routine monitoring of Yamuna water quality study on monthly basis.",
+        "page": "Page 1, Abstract; Page 2, Materials and methods"
+      }
+    ]
+  },
+  "sites": [
+    {
+      "id": "S1",
+      "description": "About 15 km upstream from Wazirabad barrage near cremation ground. This location reflects the water quality before receiving wastewater discharges from Delhi and raw water quality for Delhi's water supply, and also reflects the impact of domestic and industrial discharges from Sonepat District of Haryana.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "River water",
+      "sample_type": "Routine monitoring",
+      "source_quote": "Palla: About 15 km upstream from Wazirabad barrage near cremation ground. Sampling at this location reflects the water quality before receiving the wastewater discharges from Delhi and raw water quality for Delhi's water supply. Water quality at this location also reflects the impact of domestic and industrial discharges from Sonepat District of Haryana.",
+      "source_location": "Page 3, Site descriptions"
+    },
+    {
+      "id": "S2",
+      "description": "13 km downstream from Wazirabad barrage (near Sarai Kale Khan bus stand) at Delhi-Ghaziabad (Noida) Road Bridge on Yamuna River. This location reflects the impact of wastewater discharge. Nizamuddin Bridge Midstream and Nizamuddin Bridge Quarter Stream were within few meters, chosen for accuracy of pollution load at selected stretch.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "River water",
+      "sample_type": "Routine monitoring",
+      "source_quote": "Nizamuddin Bridge Midstream and Nizamuddin Bridge Quarter Stream: 13 km downstream from Wazirabad barrage (near Sarai Kale Khan bus stand) at Delhi-Ghaziabad (Noida) Road Bridge on Yamuna River. The water quality at this location reflects the impact of wastewater discharge. Nizamuddin Bridge Midstream and Nizamuddin Bridge Quarter Stream were within few meters. These two sampling locations have been chosen for accuracy of pollution load at selected stretch.",
+      "source_location": "Page 3, Site descriptions"
+    },
+    {
+      "id": "S3",
+      "description": "13 km downstream from Wazirabad barrage (near Sarai Kale Khan bus stand) at Delhi-Ghaziabad (Noida) Road Bridge on Yamuna River. This location reflects the impact of wastewater discharge. Nizamuddin Bridge Midstream and Nizamuddin Bridge Quarter Stream were within few meters, chosen for accuracy of pollution load at selected stretch.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "River water",
+      "sample_type": "Routine monitoring",
+      "source_quote": "Nizamuddin Bridge Midstream and Nizamuddin Bridge Quarter Stream: 13 km downstream from Wazirabad barrage (near Sarai Kale Khan bus stand) at Delhi-Ghaziabad (Noida) Road Bridge on Yamuna River. The water quality at this location reflects the impact of wastewater discharge. Nizamuddin Bridge Midstream and Nizamuddin Bridge Quarter Stream were within few meters. These two sampling locations have been chosen for accuracy of pollution load at selected stretch.",
+      "source_location": "Page 3, Site descriptions"
+    },
+    {
+      "id": "S4",
+      "description": "24 km downstream from Wazirabad barrage and East of Delhi-Agra national highway near Madanpur Khaddar village. This location reflects the impact of discharge of treated and partially treated effluents from Okhla Sewage treatment Plant. Agra Canal Midstream and Agra Canal Quarter Stream were within few meters.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "River water",
+      "sample_type": "Routine monitoring",
+      "source_quote": "Agra Canal Midstream and Agra Canal Quarter Stream: 24 km downstream from Wazirabad barrage and East of Delhi-Agra national highway near Madanpur Khaddar village. The water quality at this location reflects the impact of discharge of treated and partially treated effluents from Okhla Sewage treatment Plant. Agra Canal Midstream and Agra Canal Quarter Stream were within few meters.",
+      "source_location": "Page 3, Site descriptions"
+    },
+    {
+      "id": "S5",
+      "description": "24 km downstream from Wazirabad barrage and East of Delhi-Agra national highway near Madanpur Khaddar village. This location reflects the impact of discharge of treated and partially treated effluents from Okhla Sewage treatment Plant. Agra Canal Midstream and Agra Canal Quarter Stream were within few meters.",
+      "latitude": null,
+      "longitude": null,
+      "matrix": "River water",
+      "sample_type": "Routine monitoring",
+      "source_quote": "Agra Canal Midstream and Agra Canal Quarter Stream: 24 km downstream from Wazirabad barrage and East of Delhi-Agra national highway near Madanpur Khaddar village. The water quality at this location reflects the impact of discharge of treated and partially treated effluents from Okhla Sewage treatment Plant. Agra Canal Midstream and Agra Canal Quarter Stream were within few meters.",
+      "source_location": "Page 3, Site descriptions"
+    }
+  ],
+  "parameters": [
+    {
+      "id": "P1",
+      "name": "Dissolved oxygen",
+      "name_as_reported": "Dissolved oxygen (DO)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P2",
+      "name": "Biochemical oxygen demand",
+      "name_as_reported": "Biochemical oxygen demand (BOD)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P3",
+      "name": "Chemical oxygen demand",
+      "name_as_reported": "Chemical oxygen demand (COD)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P4",
+      "name": "Ammonia",
+      "name_as_reported": "Ammonia",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P5",
+      "name": "Total Kjeldahl nitrogen",
+      "name_as_reported": "Kjeldahl nitrogen",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "mg/L"
+    },
+    {
+      "id": "P6",
+      "name": "Total coliform",
+      "name_as_reported": "Total coliform (TC)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "No./100 mL"
+    },
+    {
+      "id": "P7",
+      "name": "Fecal coliform",
+      "name_as_reported": "Fecal coliform (FC)",
+      "cas_number": null,
+      "category": null,
+      "unit_as_reported": "No/100 mL"
+    }
+  ],
+  "temporal_coverage": {
+    "time_periods": [
+      "2000-2005"
+    ],
+    "sampling_dates": "Data collected monthly during the period of 2000-2005.",
+    "granularity": "Monthly"
+  },
+  "extraction_notes": "No explicit latitude or longitude coordinates were provided for the sampling sites. CAS numbers and parameter categories were not reported in the paper. The sample type is inferred as 'routine monitoring' based on the description of data collection by CPCB."
+}

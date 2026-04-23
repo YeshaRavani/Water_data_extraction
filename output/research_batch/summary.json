@@ -1,0 +1,88 @@
+{
+  "papers": [
+    {
+      "paper": "Alsubih & Khan 2024 Yamuna pharmaceuticals.pdf",
+      "status": "ok",
+      "stage1_sites": 5,
+      "stage1_parameters": 7,
+      "measurements": 26,
+      "issues": 5
+    },
+    {
+      "paper": "Antil et al 2025 Yamuna water quality.pdf",
+      "status": "ok",
+      "stage1_sites": 5,
+      "stage1_parameters": 17,
+      "measurements": 170,
+      "issues": 0
+    },
+    {
+      "paper": "Biswas and Vellanki. 2021 Yamuna emerging contaminants.pdf",
+      "status": "failed",
+      "error": "Model returned invalid JSON. Debug saved to /Users/yesharavani/ILGC/output/research_batch/biswas_and_vellanki_2021_yamuna_emerging_contaminants/stage2_raw_error.json.",
+      "stage1_sites": 0,
+      "stage1_parameters": 0,
+      "measurements": 0,
+      "issues": 0
+    },
+    {
+      "paper": "Jaiswal et al 2019 Yamuna water quality.pdf",
+      "status": "ok",
+      "stage1_sites": 12,
+      "stage1_parameters": 19,
+      "measurements": 98,
+      "issues": 0
+    },
+    {
+      "paper": "Mandal et al 2010 Yamuna water quality.pdf",
+      "status": "failed",
+      "error": "Model returned invalid JSON. Debug saved to /Users/yesharavani/ILGC/output/research_batch/mandal_et_al_2010_yamuna_water_quality/stage2_raw_error.json.",
+      "stage1_sites": 0,
+      "stage1_parameters": 0,
+      "measurements": 0,
+      "issues": 0
+    },
+    {
+      "paper": "Parween et al 2017 Yamuna pollution.pdf",
+      "status": "failed",
+      "error": "Model returned invalid JSON. Debug saved to /Users/yesharavani/ILGC/output/research_batch/parween_et_al_2017_yamuna_pollution/stage2_raw_error.json.",
+      "stage1_sites": 0,
+      "stage1_parameters": 0,
+      "measurements": 0,
+      "issues": 0
+    },
+    {
+      "paper": "Samui et al 2025 Yamuna drain participatory survey.pdf",
+      "status": "ok",
+      "stage1_sites": 43,
+      "stage1_parameters": 1,
+      "measurements": 43,
+      "issues": 0
+    },
+    {
+      "paper": "Sharma et al 2024 Yamuna water quality.pdf",
+      "status": "ok",
+      "stage1_sites": 31,
+      "stage1_parameters": 7,
+      "measurements": 206,
+      "issues": 0
+    },
+    {
+      "paper": "Vaid et al 2022 Najafgarh drain statistical analysis.pdf",
+      "status": "ok",
+      "stage1_sites": 25,
+      "stage1_parameters": 25,
+      "measurements": 50,
+      "issues": 4
+    },
+    {
+      "paper": "Verma et al 2023 Yamuna water quality.pdf",
+      "status": "failed",
+      "error": "Model returned invalid JSON. Debug saved to /Users/yesharavani/ILGC/output/research_batch/verma_et_al_2023_yamuna_water_quality/stage2_raw_error.json.",
+      "stage1_sites": 0,
+      "stage1_parameters": 0,
+      "measurements": 0,
+      "issues": 0
+    }
+  ]
+}
