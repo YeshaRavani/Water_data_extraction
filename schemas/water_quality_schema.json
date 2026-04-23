@@ -1,0 +1,248 @@
+{
+  "dataset_name": "water_quality_extracted",
+  "document_description": "Academic paper reporting water quality measurements for river, drain, wastewater, or related aquatic samples.",
+  "extraction_scope": "Extract the main quantitative water quality measurements from the paper's most relevant tables or figures and normalize them to one measurement per record.",
+  "record_label": "one measured water quality parameter value from a relevant table in the paper",
+  "records_description": "Normalized water quality measurements extracted from relevant tables in the paper, with one record per parameter value.",
+  "record_identity": "location + sampling_period + parameter_name + source_table",
+  "include_units_row": false,
+  "sort_by": [
+    "location",
+    "sampling_period",
+    "parameter_name"
+  ],
+  "extraction_instructions": [
+    "Prefer tables over running text whenever the same values appear in both places.",
+    "Extract one record per measured parameter value, not one wide row containing many pollutants.",
+    "Preserve the location or station label exactly as shown in the table.",
+    "Preserve the sampling period exactly as shown in the paper, whether it is a month, season, year, campaign, stretch, or another grouping.",
+    "Use parameter_name for the pollutant or water quality indicator exactly as shown or in a clean standardized form close to the paper wording.",
+    "Put the numeric result in value and the reported measurement unit in unit.",
+    "If the paper reports ranges, mean plus minus SD, min-max, or similar summary statistics, keep the main numeric value in value and explain the summary format in notes.",
+    "If a table contains several pollutants for the same location and period, create separate records for each pollutant."
+  ],
+  "preferred_table_signals": [
+    "water quality or physicochemical parameter table",
+    "headers containing pollutant names, parameter names, indicators, or units",
+    "tables with locations, stations, sites, reaches, drains, or sampling points",
+    "captions or context about river water quality, sewage, pollution monitoring, or seasonal/monthly observations"
+  ],
+  "fallback_sources": [
+    "figures or graphs that clearly label location, time grouping, parameter, and numeric axis values",
+    "supplementary tables or appendix tables referenced as part of the same study dataset",
+    "narrative text only when it directly reports the same measurement values and no clearer table is available"
+  ],
+  "examples": [
+    {
+      "location": "Palla",
+      "sampling_period": "January",
+      "parameter_name": "DO",
+      "value": 7.8,
+      "unit": "mg/L",
+      "statistic": "Average",
+      "sample_matrix": "river water",
+      "source_table": "Fig. 3",
+      "notes": "Approximate value extracted from graph."
+    },
+    {
+      "location": "Station 3",
+      "sampling_period": "Pre-monsoon",
+      "parameter_name": "BOD",
+      "value": 18.2,
+      "unit": "mg/L",
+      "statistic": "Mean",
+      "sample_matrix": "surface water",
+      "source_table": "Table 2",
+      "notes": null
+    }
+  ],
+  "quality_checks": {
+    "min_records": 5,
+    "unique_by": [
+      "location",
+      "sampling_period",
+      "parameter_name",
+      "source_table"
+    ],
+    "require_non_null_fields": [
+      "location",
+      "parameter_name",
+      "value"
+    ],
+    "min_non_null_ratio": {
+      "sampling_period": 0.4,
+      "unit": 0.5
+    }
+  },
+  "fields": [
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string",
+      "description": "Sampling location, station, site, drain, reach, or monitoring point name.",
+      "aliases": [
+        "Location",
+        "Station",
+        "Site",
+        "Sampling site",
+        "Reach",
+        "Stretch",
+        "Drain"
+      ],
+      "examples": [
+        "Palla",
+        "Nizamuddin Bridge",
+        "Station 3"
+      ],
+      "normalization": "Preserve the site label as written in the paper unless a trivial case normalization is needed.",
+      "required": true,
+      "nullable": false
+    },
+    {
+      "key": "sampling_period",
+      "label": "Sampling period",
+      "type": "string",
+      "description": "Time or grouping label associated with the measurement, such as month, season, year, campaign, pre-monsoon, post-monsoon, or another reported grouping.",
+      "aliases": [
+        "Month",
+        "Season",
+        "Year",
+        "Campaign",
+        "Sampling period",
+        "Period",
+        "Observation period",
+        "Pre-monsoon",
+        "Post-monsoon"
+      ],
+      "examples": [
+        "January",
+        "Pre-monsoon",
+        "2019"
+      ],
+      "normalization": "Keep the grouping label exactly as reported instead of converting months, seasons, and years into one format.",
+      "required": false,
+      "nullable": true
+    },
+    {
+      "key": "parameter_name",
+      "label": "Parameter",
+      "type": "string",
+      "description": "Name of the water quality parameter, pollutant, microbial indicator, nutrient, or physicochemical variable.",
+      "aliases": [
+        "Parameter",
+        "Pollutant",
+        "Indicator",
+        "Variable",
+        "Analyte",
+        "DO",
+        "BOD",
+        "COD",
+        "TKN",
+        "NH4",
+        "Ammonia",
+        "Total coliform",
+        "Fecal coliform",
+        "pH",
+        "TDS",
+        "TSS",
+        "EC",
+        "Nitrate",
+        "Phosphate"
+      ],
+      "examples": [
+        "DO",
+        "BOD",
+        "Total coliform"
+      ],
+      "normalization": "Use a clean parameter name close to the paper wording, but avoid expanding abbreviations unless the paper clearly defines them.",
+      "required": true,
+      "nullable": false
+    },
+    {
+      "key": "value",
+      "label": "Value",
+      "type": "number",
+      "description": "Main numeric value reported for the parameter.",
+      "required": true,
+      "nullable": false
+    },
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string",
+      "description": "Measurement unit exactly as reported in the paper, such as mg/L, ug/L, MPN/100 mL, CFU/100 mL, or pH units.",
+      "aliases": [
+        "Unit",
+        "Units",
+        "mg/L",
+        "ug/L",
+        "No./100 mL",
+        "MPN/100 mL",
+        "CFU/100 mL"
+      ],
+      "examples": [
+        "mg/L",
+        "MPN/100 mL",
+        "pH units"
+      ],
+      "normalization": "Copy the unit exactly as reported when possible.",
+      "required": false,
+      "nullable": true
+    },
+    {
+      "key": "statistic",
+      "label": "Statistic",
+      "type": "string",
+      "description": "Statistic or value type if specified, such as mean, median, range, min, max, SD, or average.",
+      "aliases": [
+        "Mean",
+        "Average",
+        "Median",
+        "Min",
+        "Max",
+        "Range",
+        "SD",
+        "Standard deviation"
+      ],
+      "required": false,
+      "nullable": true
+    },
+    {
+      "key": "sample_matrix",
+      "label": "Sample matrix",
+      "type": "string",
+      "description": "Sample type if explicitly reported, such as river water, wastewater, effluent, surface water, or groundwater.",
+      "aliases": [
+        "Water",
+        "Wastewater",
+        "Effluent",
+        "Surface water",
+        "Groundwater",
+        "River water"
+      ],
+      "required": false,
+      "nullable": true
+    },
+    {
+      "key": "source_table",
+      "label": "Source table",
+      "type": "string",
+      "description": "Table number, caption, or other short identifier of the source table if available.",
+      "aliases": [
+        "Table",
+        "Table number",
+        "Caption"
+      ],
+      "required": false,
+      "nullable": true
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string",
+      "description": "Short note about ambiguity, merged cells, transformed values, or other extraction details when needed.",
+      "required": false,
+      "nullable": true
+    }
+  ]
+}
