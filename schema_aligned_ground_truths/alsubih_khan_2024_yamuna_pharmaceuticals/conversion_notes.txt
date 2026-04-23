@@ -1,0 +1,3 @@
+Omitted workbook row 'Dilution capacity = Very low' because the schema requires a numeric value.
+Range cells were split into separate min and max records so they fit the schema's one-value-per-record structure.
+Top pharmaceutical summary records use unit 'ng L-1' inferred from the paper context because the workbook table does not show a unit cell.
