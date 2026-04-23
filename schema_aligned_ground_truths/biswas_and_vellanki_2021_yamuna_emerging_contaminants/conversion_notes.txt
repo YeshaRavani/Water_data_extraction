@@ -1,0 +1,4 @@
+Converted the worksheet from wide format to one schema record per sample, season, and compound.
+Used the 'Sample' column as Location and the 'Season' column as Sampling period.
+Used unit 'ng/L' inferred from the paper context because the workbook table does not include an explicit unit column.
+Retained zero values as reported measurements rather than treating them as missing.

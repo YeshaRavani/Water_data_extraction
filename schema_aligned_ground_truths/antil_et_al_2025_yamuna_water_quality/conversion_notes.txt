@@ -1,0 +1,4 @@
+Converted site coordinates from DMS strings to decimal degrees and preserved the original DMS text in Notes.
+For cells reported as mean ± SD, stored the mean in Value and recorded the original mean ± SD string in Notes.
+Used the site abbreviations in the descriptive-statistics tables exactly as shown (YM, PS, WBBD, WBAD, PJ).
+Kept RfD, CSF, HPI, and ERI entries as schema records with Statistic describing the metric type.

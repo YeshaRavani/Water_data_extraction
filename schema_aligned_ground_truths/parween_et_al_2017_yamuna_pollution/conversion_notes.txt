@@ -1,0 +1,5 @@
+Converted the worksheet from wide format to one schema record per location and parameter.
+Used the 'Loc' column as Location.
+Parsed explicit units from column suffixes such as _ppb, _mgL, _uScm, and _mV.
+For columns without a unit suffix (for example Na, K, Ca, Mg, Fe, Cl, NO3, SO4, HCO3, PO4, pH), left Unit blank and recorded that the worksheet header did not specify a unit.
+No sampling-period field was present in the workbook, so Sampling period was left blank.

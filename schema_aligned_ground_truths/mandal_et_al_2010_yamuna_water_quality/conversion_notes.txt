@@ -1,0 +1,4 @@
+Converted the worksheet from wide format to one schema record per location, month, and parameter.
+Used the workbook's explicit units row to populate Unit for each parameter.
+Used the 'Locations' column as Location and the 'Month' column as Sampling period.
+Kept the parameter names exactly as shown in the workbook header, including abbreviations and parenthetical expansions.
