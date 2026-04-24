@@ -1,0 +1,162 @@
+{
+  "SAYANTAN SAMUI": {
+    "accuracy_score": 0.6226,
+    "precision": 0.7674,
+    "recall": 0.7674,
+    "f1_score": 0.7674,
+    "matched_records": 33,
+    "missed_records": 10,
+    "hallucinated_records": 10,
+    "reasoning": "The model achieved a moderate accuracy score of 0.6226, with precision and recall both at 0.7674. Out of 43 ground truth records, 33 were correctly extracted (matched). The primary issue observed was significant value discrepancies, where the model extracted a value for a correct site_id, parameter, time_period, and unit, but the numerical value fell outside the \b10% tolerance. This accounted for 9 of the 10 missed records and 9 of the 10 hallucinated records. For example, GT S1 had a BOD of 77 mg/L, but the model extracted 139 mg/L for S1. Similarly, GT S13 had 60 mg/L, while the model extracted 159 mg/L and 138 mg/L for S13 (creating a duplicate and two hallucinated records). One ground truth record (S40) was entirely missed by the model. The model successfully identified all site_ids and the correct parameter (BOD) and unit (mg/L) for the extracted data, and the time period mapping was consistent. The main area for improvement lies in the precise extraction of numerical values.",
+    "key_discrepancies": [
+      "Significant Value Mismatches: For 9 site_ids (S1, S5, S12, S13, S15, S32, S37, S38, S39), the model extracted values that were outside the \b10% tolerance of the ground truth, leading to both missed GT records and hallucinated output records.",
+      "Missing Ground Truth Record: The record for site S40 was not extracted by the model.",
+      "Duplicate Output Record: The model extracted two records for site S13, neither of which matched the ground truth value for S13.",
+      "Consistent Parameter and Unit Extraction: The model correctly identified 'BOD' as the parameter and 'mg/L' as the unit for all extracted records.",
+      "Consistent Time Period Mapping: The model consistently mapped 'January 2022 - May 2022' to 'non_monsoon_2022'.",
+      "Accurate Site ID Identification: The model correctly identified the site_id prefix (e.g., 'S1') for all extracted records, even with additional descriptive text."
+    ]
+  },
+  "alsubih_khan_2024_yamuna_pharmaceuticals": {
+    "accuracy_score": 0.21875,
+    "precision": 0.44680851063829785,
+    "recall": 0.3,
+    "f1_score": 0.35896,
+    "matched_records": 21,
+    "missed_records": 49,
+    "hallucinated_records": 26,
+    "reasoning": "The model demonstrated partial success in extracting quantitative data, specifically capturing all mean, minimum, and maximum values for the seven pharmaceutical compounds from Table 2 of the paper. These 21 records were accurately matched with the ground truth, demonstrating good precision for this specific data type. However, the model completely failed to extract any of the 49 ground truth records pertaining to percentage changes (reductions or increases) across different seasons or sites, leading to a high number of missed records. A significant issue was the hallucination of 14 incorrect minimum and maximum values for the same parameters, which were extracted from the abstract and did not align with the more accurate data found in Table 2. Additionally, the model hallucinated 12 other records, including raw values for specific sites (S1, S5) and unspecified sites, as well as BDL (Below Detection Limit) values for Ketoprofen and Lorazepam at site S1 during monsoon, for which no corresponding ground truth existed. While lenient matching rules were applied for site and time period granularity (e.g., 'overall' matching 'Delhi stretch'), the model's tendency to generalize these fields was noted. The overall performance is significantly impacted by the large number of missed percentage change values and the substantial hallucinations of incorrect or non-existent data.",
+    "key_discrepancies": [
+      "The model failed to extract any of the 49 ground truth records related to percentage changes (e.g., 'Monsoon to Post Monsoon', 'Pre monsoon to Monsoon').",
+      "The model hallucinated 14 incorrect min/max values for pharmaceutical compounds, extracted from the abstract, which contradicted the accurate values found in Table 2.",
+      "Several raw values were hallucinated for specific sites (S1, S5) and unspecified sites, with no corresponding ground truth records.",
+      "BDL values for Ketoprofen and Lorazepam at site S1 during monsoon were hallucinated, as they were not present in the ground truth.",
+      "The model frequently generalized site_id to 'overall' and time_period to 'all seasons', even when more specific 'Delhi stretch' and '2024' (as a placeholder for unspecified year) were available in the ground truth."
+    ]
+  },
+  "antil_et_al_2025_yamuna_water_quality": {
+    "accuracy_score": 0.6158,
+    "precision": 0.6882,
+    "recall": 0.854,
+    "f1_score": 0.7622,
+    "matched_records": 117,
+    "missed_records": 20,
+    "hallucinated_records": 53,
+    "reasoning": "The model demonstrated strong performance in extracting water quality parameters, achieving a high recall of 0.8540. It correctly identified and extracted all 117 records for the 17 physical-chemical and heavy metal parameters that were present in the provided ground truth CSV, with all numeric values falling within the specified \b±10% tolerance and correct unit and site/period mappings. However, the model failed to extract two specific parameters, Environmental Risk Index (ERI) and Heavy Metal Pollution Index (HPI), which were consistently present across all 5 locations and 2 sampling periods in the ground truth. This accounts for 20 missed_records. A significant number of hallucinated_records (53) were identified. The model extracted a complete set of 17 parameters for all 5 locations and 2 periods, totaling 170 records. However, the provided ground truth CSV was incomplete for these 17 parameters, containing only 117 records. Consequently, the 53 records extracted by the model that did not have a direct counterpart in the provided ground truth CSV were counted as hallucinations, even if these values might be accurate and present in the original research paper. This incompleteness of the provided ground truth significantly impacted the precision (0.6882) and overall accuracy (0.6158) scores.",
+    "key_discrepancies": [
+      "Missing ERI and HPI parameters: The model consistently failed to extract Environmental Risk Index (ERI) and Heavy Metal Pollution Index (HPI) values, which were present in the ground truth for all sites and sampling periods.",
+      "Hallucinated records due to incomplete ground truth: The model extracted a comprehensive set of 17 parameters for all site-season combinations (170 records). However, the provided ground truth CSV contained only 117 records for these parameters. The 53 output records that did not have a corresponding entry in the provided ground truth were marked as hallucinations, significantly lowering precision and accuracy."
+    ]
+  },
+  "biswas_and_vellanki_2021_yamuna_emerging_contaminants": {
+    "accuracy_score": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "matched_records": 0,
+    "missed_records": 240,
+    "hallucinated_records": 0,
+    "reasoning": "The model output was completely empty, indicating a total failure to extract any data from the provided paper. Consequently, all 240 ground truth records were missed, and no records were hallucinated. This leads to an accuracy, precision, recall, and F1-score of 0.0.",
+    "key_discrepancies": [
+      "The model failed to extract any data whatsoever from the source document.",
+      "All 240 expected ground truth records were missed by the model."
+    ]
+  },
+  "jaiswal_et_al_2019_yamuna_water_quality": {
+    "accuracy_score": 0.2446,
+    "precision": 0.3178,
+    "recall": 0.5151,
+    "f1_score": 0.3931,
+    "matched_records": 34,
+    "missed_records": 32,
+    "hallucinated_records": 73,
+    "reasoning": "The model achieved a moderate recall (0.5151) for the valid ground truth records, indicating it captured about half of the relevant information. However, its precision (0.3178) is low, primarily due to a high number of hallucinated records (73). The overall accuracy score is consequently low (0.2446). A major issue is the model's handling of guideline limits. While it correctly identified the parameter and value for some limits, it frequently extracted the incorrect limit qualifier (e.g., extracting '>' when the GT specified '≤' or an exact value). This resulted in many missed GT records and corresponding hallucinated output records. Furthermore, a large portion of guideline limits for various parameters (pH, BOD, TDS, TH, Ca-H, Mg-H, NO3-, SO4^2-, Cl-, F-, Fe, B) were entirely missed. The model also exhibited significant hallucination by extracting numerous site-specific mean, min, or max values for parameters like EC, TH, NH4+, Nitrate, Sulfate, Chloride, Fluoride, Iron, and Boron that were not present in the ground truth. Additionally, it extracted data aggregated by 'upper zone', 'middle region', 'lower zone', and 'cluster groups' (e.g., 'Group M-2') which were not part of the ground truth's scope for direct water quality measurements, further contributing to hallucinations. The model performed reasonably well in extracting descriptive statistics (mean, SD, min, max) for Temperature, pH, DO, BOD₅, and TDS. However, the overall performance is significantly impacted by the poor handling of guideline limits and the high rate of hallucination from other parts of the document.",
+    "key_discrepancies": [
+      "Misinterpretation of Guideline Limit Qualifiers: The model frequently extracted guideline limits with incorrect qualifiers (e.g., GT '≤X' extracted as '>X' or '<X' when it should be exact or inclusive).",
+      "Missing Guideline Limits: A significant number of guideline limits present in the GT were not extracted at all by the model.",
+      "Hallucinated Site-Specific Data: The model extracted numerous site-specific mean/min/max values for parameters (e.g., EC, TH, NH4+, Nitrate, Sulfate, Chloride, Fluoride, Iron, Boron) that were not present in the ground truth.",
+      "Hallucinated Aggregation Levels: The model extracted data for 'upper zone', 'middle region', 'lower zone', and 'Group M-X/NM-X' which were not part of the ground truth's aggregation levels for direct water quality parameters.",
+      "Unit Discrepancy: For Total Alkalinity and Total Hardness, the GT uses 'mg/L' while the output uses 'mg/L (as CaCO3)'.",
+      "Incomplete Extraction of Min/Max Locations: The GT explicitly listed locations for minimum/maximum pH and TDS, which the model did not capture as such, instead extracting the values at those locations as raw values."
+    ]
+  },
+  "mandal_et_al_2010_yamuna_water_quality": {
+    "accuracy_score": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "matched_records": 0,
+    "missed_records": 245,
+    "hallucinated_records": 0,
+    "reasoning": "The model output is completely empty. No data records were extracted from the paper. Consequently, all 245 ground truth records were missed, and there were no matched or hallucinated records. This results in an accuracy, precision, recall, and F1-score of 0.0.",
+    "key_discrepancies": [
+      "The model failed to extract any data from the provided document."
+    ]
+  },
+  "parween_et_al_2017_yamuna_pollution": {
+    "accuracy_score": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "matched_records": 0,
+    "missed_records": 220,
+    "hallucinated_records": 0,
+    "reasoning": "The model output is completely empty. No data was extracted from the provided paper, resulting in zero matched records and all 220 ground truth records being missed. Consequently, all evaluation metrics (accuracy, precision, recall, and F1-score) are 0.0.",
+    "key_discrepancies": [
+      "The model failed to extract any data whatsoever from the document."
+    ]
+  },
+  "sharma_et_al_2024_yamuna_water_quality": {
+    "accuracy_score": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "matched_records": 0,
+    "missed_records": 81,
+    "hallucinated_records": 217,
+    "reasoning": "The model's extraction performance is poor due to significant discrepancies between the ground truth (GT) and the model output. Out of 108 GT records, 38 were identified as out-of-scope (metadata, geographical, or segment characteristics), leaving 81 in-scope records for evaluation. The model failed to match any of these 81 in-scope GT records, resulting in zero matched records. Consequently, all 81 in-scope GT records were missed. The model produced 217 output records, none of which could be matched to any GT record, leading to 217 hallucinated records. This results in an accuracy, precision, recall, and F1 score of 0.0.\n\nThe primary reasons for this complete mismatch are:\n1.  **Granularity Mismatch:** The GT frequently uses broad locations like 'Overall Yamuna', 'Himalayan Segment', or 'Overall', while the model extracts data for highly specific monitoring stations (e.g., 'S15 [Nizamuddin, Delhi]'). Despite lenient partial matching rules for site names, the conceptual difference in location granularity prevented matches.\n2.  **Parameter Coverage Discrepancy:** The model extracted a limited set of parameters (pH, Dissolved Oxygen, Conductivity, Biochemical Oxygen Demand, Faecal Coliform, Total Coliform, Temperature). A large number of parameters present in the GT, such as Chemical Oxygen Demand (COD), Total Dissolved Solids (TDS), Phosphate, and various heavy metals (Lead, Chromium, Copper, Cadmium, Zinc, Nickel, Iron, Aluminium, Manganese), as well as other indicators (Turbidity, Ammonia, Nitrate, Calcium, Chloride, Fluoride, Magnesium, Sulphate, Total alkalinity, Total hardness), were entirely missed by the model.\n3.  **Extraction of Regulatory Limits:** A substantial portion of the GT (58 out of 81 in-scope records) consists of MCL (Maximum Contaminant Level) or Guideline Limit values for various parameters, often associated with specific standards (BIS, CCME, WHO). The model completely failed to extract any of these regulatory limits, focusing solely on reported water quality values.\n4.  **Value Representation Mismatch:** The GT includes many single reported values (e.g., BOD 93 mg/L, COD 202.66 mg/L) and some ranges. The model predominantly extracted min/max ranges for most parameters or a raw_value with a limit_qualifier (e.g., '<'). This difference in value representation, combined with strict numeric tolerance rules for range endpoints, prevented matches. For instance, the GT's '0–3 mg/L' for BOD was not matched by the model's '0.8–1.0 mg/L' because the endpoints were not within the ±10% relative tolerance.\n5.  **Unit and Time Period Inconsistencies:** The GT sometimes had empty unit fields, while the model consistently provided units. This led to unit mismatches. Additionally, the model consistently extracted a '2020-2021' time period, whereas the GT either lacked a time period or specified seasons ('Summer', 'Monsoon', 'Winter', 'Spring').\n6.  **BDL/ND Rule Inapplicability:** The lenient rule for BDL/ND (Below Detection Limit/Non-Detect) could not be applied as none of the GT records explicitly stated 'BDL' or 'ND'. The model's use of 'limit_qualifier' (e.g., '<') for values that were ranges in the GT was considered a mismatch in value representation.",
+    "key_discrepancies": [
+      "Model's extracted locations are too specific (S1-S31) compared to the aggregated 'Segment' or 'Overall' locations in the ground truth.",
+      "Model completely missed extraction of numerous parameters present in the ground truth, including COD, TDS, Phosphate, and most heavy metals.",
+      "Model failed to extract any MCL or Guideline Limit values, which constitute a large portion of the ground truth records.",
+      "Model primarily extracts min/max ranges or values with limit qualifiers, while the ground truth contains many single reported values, leading to value representation mismatches.",
+      "Numeric values in extracted ranges often did not meet the ±10% relative tolerance requirement when compared to ground truth ranges.",
+      "Model consistently extracted a '2020-2021' time period, missing specific seasonal periods or records with no time period in the ground truth.",
+      "Model added units (e.g., MPN/100 mL) where the ground truth had empty unit fields, causing unit mismatches.",
+      "The BDL/ND matching rule was not applicable as no ground truth records explicitly stated 'BDL' or 'ND'."
+    ]
+  },
+  "vaid etal": {
+    "accuracy_score": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "matched_records": 0,
+    "missed_records": 80,
+    "hallucinated_records": 48,
+    "reasoning": "The model completely failed to extract the data specified by the ground truth. The ground truth is based on Table 3 of the paper, which contains individual water quality parameter values for specific sites (N1 and N15) and sampling periods (pre-monsoon, post-monsoon). The model, however, extracted data from Table 4, which presents aggregated minimum and maximum values (ranges) across all sites for each parameter and sampling period. As a result, no individual site-specific values from Table 3 were captured, leading to all 80 ground truth records being missed. Conversely, all 48 extracted records from Table 4 are considered hallucinations because they do not correspond to the individual site-specific data points expected by the ground truth. The fundamental mismatch in the source table and aggregation level prevented any successful matches.",
+    "key_discrepancies": [
+      "The model extracted data from 'Table 4' instead of 'Table 3' as specified by the ground truth.",
+      "The model extracted aggregated ranges (min/max across sites) instead of individual site-specific values.",
+      "The 'site_id' column in the output is empty, failing to capture the specific locations (N1, N15) present in the ground truth.",
+      "The model extracted 'min_value' and 'max_value' for ranges, whereas the ground truth expected 'raw_value' for individual measurements.",
+      "Parameter IDs in the output use a 'P# [Parameter Name]' format (e.g., 'P1 [Temperature]') instead of the simpler 'TEMP' format used in the ground truth.",
+      "Minor unit formatting inconsistencies were observed (e.g., '0C' instead of '°C', '5S/cm' instead of 'µS/cm')."
+    ]
+  },
+  "verma_et_al_2023_yamuna_water_quality": {
+    "accuracy_score": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "matched_records": 0,
+    "missed_records": 220,
+    "hallucinated_records": 0,
+    "reasoning": "The model output was completely empty, indicating a total failure to extract any data from the provided paper. All 220 valid ground truth records were missed, and no records were hallucinated or correctly matched. This resulted in an accuracy, precision, recall, and F1 score of 0.",
+    "key_discrepancies": [
+      "The model failed to extract any data points whatsoever.",
+      "No parameters, values, units, locations, or time periods were identified or extracted.",
+      "The output CSV was entirely empty, containing no rows or headers."
+    ]
+  }
+}
