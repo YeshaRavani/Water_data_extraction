@@ -415,35 +415,3 @@ Sr No.,Location,Date,Month,Year,Season,Parameter,Actual Value,Mean,Std Dev,Unit,
 414,Upstream of Agra city,,,,Summer,Testosterone,63.0,,,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
 415,Upstream of Agra city,,,,Summer,Triclosan,15.0,,,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
 416,Upstream of Agra city,,,,Summer,Trimethoprim,300.0,,,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-417,Yamuna,,,,,Caffeine(maximum),6489.9 ± 0.8 ,707.9,0.8,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-418,Yamuna,,,,,Caffeine(minimum),74.8 ± 1.2 ,,1.2,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-419,Yamuna,,,,,Naproxen(maximum),1576.3 ± 1.9 ,340.8,1.9,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-420,Yamuna,,,,,Naproxen(minimum),nd ,,,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-421,Yamuna,,,,,Enrofloxacin(maximum),59.8 ± 2.8 ,40.2,2.8,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-422,Yamuna,,,,,Enrofloxacin(minimum),nd,,,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-423,Yamuna,,,,,Gemfibrozil(maximum),2990.4 ± 49.9 ,792.4,49.9,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-424,Yamuna,,,,,Gemfibrozil(minimum),48.2 ± 3.3 ,,3.3,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-425,Yamuna,,,,,Testosterone(maximum),284.5 ± 1.5  ,113.6,1.5,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-426,Yamuna,,,,,Testosterone(minimum),52.6 ± 1.2 ,,1.2,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-427,Yamuna,,,,,Carbamazepine(maximum),484.1 ± 1.4  ,119.2,1.4,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-428,Yamuna,,,,,Carbamazepine(minimum),nd ,,,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-429,Yamuna,,,,,Sulfamethoxazole(maximum),1312.3 ± 0.1,183.5,0.1,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-430,Yamuna,,,,,Sulfamethoxazole(minimum),48.5 ± 1.2 ,,1.2,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-431,Yamuna,,,,,Atenolol(maximum),205.6 ± 1.8  ,44.4,1.8,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-432,Yamuna,,,,,Atenolol(minimum),nd,,,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-433,Yamuna,,,,,Ketoprofen(maximum),1381.2 ± 1.8 ,133.7,1.8,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-434,Yamuna,,,,,Ketoprofen(minimum),nd  ,,,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-435,Yamuna,,,,,Estrone(maximum),1781.8 ± 0.7 ,476.6,0.7,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-436,Yamuna,,,,,Estrone(minimum),10.7 ± 0.4 ,,0.4,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-437,Yamuna,,,,,2-hydroxybenzothiazole(maximum),591.9 ± 1.4 ,216.4,1.4,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-438,Yamuna,,,,,2-hydroxybenzothiazole(minimum),nd ,,,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-439,Yamuna,,,,,Progesterone(maximum),291.3 ± 1.4 ,95.1,1.4,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-440,Yamuna,,,,,Progesterone(minimum),nd ,,,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-441,Yamuna,,,,,Triclosan(maximum),269.8 ± 1.0  ,25.5,1,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-442,Yamuna,,,,,Triclosan(minimum),nd,,,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-443,Yamuna,,,,,Diclofenac(maximum),278.9 ± 0.7 ,96.1,0.7,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-444,Yamuna,,,,,Diclofenac(minimum),nd,,,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-445,Yamuna,,,,,Trimethoprim(maximum),8807.6 ± 2.7 ,2187.5,2.7,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-446,Yamuna,,,,,Trimethoprim(minimum),64.5 ± 1.3 ,,1.3,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-447,Yamuna,,,,,Ciprofloxacin(maximum),263.5 ± 1.7,115.1,1.7,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
-448,Yamuna,,,,,Ciprofloxacin(minimum),nd ,,,ng/L,Ground truth workbook: Paper-5 concentration table,Unit inferred from the paper context because the worksheet does not include a unit column.
