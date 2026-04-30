@@ -52,12 +52,11 @@
     },
     {
       "paper": "Samui et al 2025 Yamuna drain participatory survey.pdf",
-      "status": "recovered_from_raw_error",
-      "error": null,
+      "status": "ok",
       "stage1_sites": 0,
       "stage1_parameters": 0,
-      "measurements": 16,
-      "issues": 1
+      "measurements": 43,
+      "issues": 0
     },
     {
       "paper": "Sharma et al 2024 Yamuna water quality.pdf",
