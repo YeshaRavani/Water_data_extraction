@@ -1,0 +1,337 @@
+Sr No.,Location(actual name not some legend thing),Date,Month,Year,Season,Parameter,Actual Value,Mean,Std Dev,Unit,Source,Notes/Extraction Remark
+1,L1 (village Jagatpur),,February,2013,,Sodium,20.7,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+2,L1 (village Jagatpur),,February,2013,,Potassium,11.6,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+3,L1 (village Jagatpur),,February,2013,,Calcium,54.6,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+4,L1 (village Jagatpur),,February,2013,,Magnesium,22.7,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+5,L1 (village Jagatpur),,February,2013,,Iron,2.5,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+6,L1 (village Jagatpur),,February,2013,,Aluminum,473,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+7,L1 (village Jagatpur),,February,2013,,Copper,83,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+8,L1 (village Jagatpur),,February,2013,,Chromium,100,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+9,L1 (village Jagatpur),,February,2013,,Cobalt,34,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+10,L1 (village Jagatpur),,February,2013,,Cadmium,11,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+11,L1 (village Jagatpur),,February,2013,,Lead,202,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+12,L1 (village Jagatpur),,February,2013,,Manganese,228,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+13,L1 (village Jagatpur),,February,2013,,Nickel,254,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+14,L1 (village Jagatpur),,February,2013,,Zinc,207,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+15,L1 (village Jagatpur),,February,2013,,Fluoride,336,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+16,L1 (village Jagatpur),,February,2013,,Chloride,47.7,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+17,L1 (village Jagatpur),,February,2013,,Nitrate,2.6,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+18,L1 (village Jagatpur),,February,2013,,Sulfate,42.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+19,L1 (village Jagatpur),,February,2013,,Bicarbonate,161.6,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+20,L1 (village Jagatpur),,February,2013,,Phosphate,0.6,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+21,L1 (village Jagatpur),,February,2013,,pH,8.1,,,,Table 1,Value from Table 1.
+22,L1 (village Jagatpur),,February,2013,,Electrical Conductivity,557,,,µS/cm,Table 1,Value from Table 1. Unit inferred from table footnote.
+23,L1 (village Jagatpur),,February,2013,,Total Dissolved Solids,388,,,mg/l,Table 1,Value from Table 1. Unit inferred from table footnote.
+24,L1 (village Jagatpur),,February,2013,,Oxidation-Reduction Potential,240.0,,,mV,Table 1,Value from Table 1. Unit inferred from table footnote.
+25,L2 (village Jagatpur),,February,2013,,Sodium,38.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+26,L2 (village Jagatpur),,February,2013,,Potassium,13.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+27,L2 (village Jagatpur),,February,2013,,Calcium,38.6,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+28,L2 (village Jagatpur),,February,2013,,Magnesium,32.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+29,L2 (village Jagatpur),,February,2013,,Iron,2.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+30,L2 (village Jagatpur),,February,2013,,Aluminum,564,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+31,L2 (village Jagatpur),,February,2013,,Copper,121,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+32,L2 (village Jagatpur),,February,2013,,Chromium,80,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+33,L2 (village Jagatpur),,February,2013,,Cobalt,25,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+34,L2 (village Jagatpur),,February,2013,,Cadmium,37,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+35,L2 (village Jagatpur),,February,2013,,Lead,306,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+36,L2 (village Jagatpur),,February,2013,,Manganese,242,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+37,L2 (village Jagatpur),,February,2013,,Nickel,168,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+38,L2 (village Jagatpur),,February,2013,,Zinc,212,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+39,L2 (village Jagatpur),,February,2013,,Fluoride,308,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+40,L2 (village Jagatpur),,February,2013,,Chloride,57.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+41,L2 (village Jagatpur),,February,2013,,Nitrate,2.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+42,L2 (village Jagatpur),,February,2013,,Sulfate,30.3,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+43,L2 (village Jagatpur),,February,2013,,Bicarbonate,186.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+44,L2 (village Jagatpur),,February,2013,,Phosphate,0.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+45,L2 (village Jagatpur),,February,2013,,pH,8.1,,,,Table 1,Value from Table 1.
+46,L2 (village Jagatpur),,February,2013,,Electrical Conductivity,686,,,µS/cm,Table 1,Value from Table 1. Unit inferred from table footnote.
+47,L2 (village Jagatpur),,February,2013,,Total Dissolved Solids,446,,,mg/l,Table 1,Value from Table 1. Unit inferred from table footnote.
+48,L2 (village Jagatpur),,February,2013,,Oxidation-Reduction Potential,238.0,,,mV,Table 1,Value from Table 1. Unit inferred from table footnote.
+49,L3 (downwind to Narela industrial area),,February,2013,,Sodium,35.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+50,L3 (downwind to Narela industrial area),,February,2013,,Potassium,6.0,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+51,L3 (downwind to Narela industrial area),,February,2013,,Calcium,45.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+52,L3 (downwind to Narela industrial area),,February,2013,,Magnesium,37.3,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+53,L3 (downwind to Narela industrial area),,February,2013,,Iron,3.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+54,L3 (downwind to Narela industrial area),,February,2013,,Aluminum,523,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+55,L3 (downwind to Narela industrial area),,February,2013,,Copper,93,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+56,L3 (downwind to Narela industrial area),,February,2013,,Chromium,70,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+57,L3 (downwind to Narela industrial area),,February,2013,,Cobalt,40,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+58,L3 (downwind to Narela industrial area),,February,2013,,Cadmium,53,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+59,L3 (downwind to Narela industrial area),,February,2013,,Lead,316,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+60,L3 (downwind to Narela industrial area),,February,2013,,Manganese,286,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+61,L3 (downwind to Narela industrial area),,February,2013,,Nickel,192,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+62,L3 (downwind to Narela industrial area),,February,2013,,Zinc,247,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+63,L3 (downwind to Narela industrial area),,February,2013,,Fluoride,448,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+64,L3 (downwind to Narela industrial area),,February,2013,,Chloride,95.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+65,L3 (downwind to Narela industrial area),,February,2013,,Nitrate,1.6,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+66,L3 (downwind to Narela industrial area),,February,2013,,Sulfate,56.3,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+67,L3 (downwind to Narela industrial area),,February,2013,,Bicarbonate,206.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+68,L3 (downwind to Narela industrial area),,February,2013,,Phosphate,0.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+69,L3 (downwind to Narela industrial area),,February,2013,,pH,7.4,,,,Table 1,Value from Table 1.
+70,L3 (downwind to Narela industrial area),,February,2013,,Electrical Conductivity,726,,,µS/cm,Table 1,Value from Table 1. Unit inferred from table footnote.
+71,L3 (downwind to Narela industrial area),,February,2013,,Total Dissolved Solids,458,,,mg/l,Table 1,Value from Table 1. Unit inferred from table footnote.
+72,L3 (downwind to Narela industrial area),,February,2013,,Oxidation-Reduction Potential,189.5,,,mV,Table 1,Value from Table 1. Unit inferred from table footnote.
+73,L4 (downwind to Narela industrial area),,February,2013,,Sodium,43.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+74,L4 (downwind to Narela industrial area),,February,2013,,Potassium,9.0,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+75,L4 (downwind to Narela industrial area),,February,2013,,Calcium,63.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+76,L4 (downwind to Narela industrial area),,February,2013,,Magnesium,24.8,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+77,L4 (downwind to Narela industrial area),,February,2013,,Iron,4.1,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+78,L4 (downwind to Narela industrial area),,February,2013,,Aluminum,673,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+79,L4 (downwind to Narela industrial area),,February,2013,,Copper,175,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+80,L4 (downwind to Narela industrial area),,February,2013,,Chromium,100,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+81,L4 (downwind to Narela industrial area),,February,2013,,Cobalt,31,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+82,L4 (downwind to Narela industrial area),,February,2013,,Cadmium,31,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+83,L4 (downwind to Narela industrial area),,February,2013,,Lead,405,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+84,L4 (downwind to Narela industrial area),,February,2013,,Manganese,396,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+85,L4 (downwind to Narela industrial area),,February,2013,,Nickel,203,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+86,L4 (downwind to Narela industrial area),,February,2013,,Zinc,288,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+87,L4 (downwind to Narela industrial area),,February,2013,,Fluoride,484,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+88,L4 (downwind to Narela industrial area),,February,2013,,Chloride,115.0,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+89,L4 (downwind to Narela industrial area),,February,2013,,Nitrate,2.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+90,L4 (downwind to Narela industrial area),,February,2013,,Sulfate,61.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+91,L4 (downwind to Narela industrial area),,February,2013,,Bicarbonate,217.3,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+92,L4 (downwind to Narela industrial area),,February,2013,,Phosphate,0.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+93,L4 (downwind to Narela industrial area),,February,2013,,pH,7.5,,,,Table 1,Value from Table 1.
+94,L4 (downwind to Narela industrial area),,February,2013,,Electrical Conductivity,788,,,µS/cm,Table 1,Value from Table 1. Unit inferred from table footnote.
+95,L4 (downwind to Narela industrial area),,February,2013,,Total Dissolved Solids,519,,,mg/l,Table 1,Value from Table 1. Unit inferred from table footnote.
+96,L4 (downwind to Narela industrial area),,February,2013,,Oxidation-Reduction Potential,157.0,,,mV,Table 1,Value from Table 1. Unit inferred from table footnote.
+97,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Sodium,64.8,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+98,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Potassium,8.7,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+99,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Calcium,97.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+100,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Magnesium,44.1,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+101,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Iron,6.6,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+102,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Aluminum,831,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+103,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Copper,198,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+104,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Chromium,160,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+105,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Cobalt,46,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+106,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Cadmium,58,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+107,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Lead,660,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+108,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Manganese,429,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+109,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Nickel,364,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+110,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Zinc,421,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+111,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Fluoride,708,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+112,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Chloride,246.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+113,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Nitrate,1.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+114,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Sulfate,87.7,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+115,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Bicarbonate,232.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+116,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Phosphate,0.5,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+117,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,pH,6.6,,,,Table 1,Value from Table 1.
+118,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Electrical Conductivity,1273,,,µS/cm,Table 1,Value from Table 1. Unit inferred from table footnote.
+119,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Total Dissolved Solids,775,,,mg/l,Table 1,Value from Table 1. Unit inferred from table footnote.
+120,"L5 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Oxidation-Reduction Potential,94.7,,,mV,Table 1,Value from Table 1. Unit inferred from table footnote.
+121,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Sodium,50.7,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+122,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Potassium,7.7,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+123,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Calcium,90.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+124,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Magnesium,38.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+125,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Iron,8.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+126,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Aluminum,878,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+127,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Copper,245,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+128,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Chromium,280,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+129,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Cobalt,76,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+130,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Cadmium,74,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+131,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Lead,837,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+132,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Manganese,644,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+133,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Nickel,451,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+134,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Zinc,473,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+135,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Fluoride,624,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+136,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Chloride,216.8,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+137,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Nitrate,1.0,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+138,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Sulfate,74.5,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+139,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Bicarbonate,213.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+140,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Phosphate,0.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+141,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,pH,6.3,,,,Table 1,Value from Table 1.
+142,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Electrical Conductivity,1125,,,µS/cm,Table 1,Value from Table 1. Unit inferred from table footnote.
+143,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Total Dissolved Solids,621,,,mg/l,Table 1,Value from Table 1. Unit inferred from table footnote.
+144,"L6 (downwind to Alipur, Badli and Bawana industrial areas, receiving Najafgarh and supplementary drains)",,February,2013,,Oxidation-Reduction Potential,61.0,,,mV,Table 1,Value from Table 1. Unit inferred from table footnote.
+145,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Sodium,42.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+146,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Potassium,11.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+147,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Calcium,74.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+148,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Magnesium,35.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+149,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Iron,5.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+150,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Aluminum,684,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+151,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Copper,123,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+152,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Chromium,320,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+153,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Cobalt,94,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+154,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Cadmium,64,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+155,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Lead,580,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+156,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Manganese,396,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+157,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Nickel,547,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+158,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Zinc,406,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+159,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Fluoride,258,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+160,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Chloride,153.8,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+161,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Nitrate,2.1,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+162,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Sulfate,53.1,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+163,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Bicarbonate,209.3,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+164,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Phosphate,1.3,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+165,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,pH,7.9,,,,Table 1,Value from Table 1.
+166,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Electrical Conductivity,906,,,µS/cm,Table 1,Value from Table 1. Unit inferred from table footnote.
+167,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Total Dissolved Solids,584,,,mg/l,Table 1,Value from Table 1. Unit inferred from table footnote.
+168,"L7 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Oxidation-Reduction Potential,182.2,,,mV,Table 1,Value from Table 1. Unit inferred from table footnote.
+169,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Sodium,33.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+170,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Potassium,12.8,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+171,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Calcium,70.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+172,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Magnesium,31.3,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+173,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Iron,4.3,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+174,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Aluminum,759,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+175,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Copper,157,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+176,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Chromium,210,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+177,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Cobalt,52,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+178,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Cadmium,55,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+179,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Lead,522,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+180,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Manganese,227,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+181,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Nickel,264,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+182,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Zinc,413,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+183,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Fluoride,578,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+184,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Chloride,120.8,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+185,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Nitrate,2.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+186,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Sulfate,46.1,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+187,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Bicarbonate,194.8,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+188,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Phosphate,0.7,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+189,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,pH,7.3,,,,Table 1,Value from Table 1.
+190,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Electrical Conductivity,878,,,µS/cm,Table 1,Value from Table 1. Unit inferred from table footnote.
+191,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Total Dissolved Solids,604,,,mg/l,Table 1,Value from Table 1. Unit inferred from table footnote.
+192,"L8 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant)",,February,2013,,Oxidation-Reduction Potential,235.5,,,mV,Table 1,Value from Table 1. Unit inferred from table footnote.
+193,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Sodium,28.7,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+194,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Potassium,14.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+195,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Calcium,69.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+196,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Magnesium,57.8,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+197,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Iron,6.1,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+198,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Aluminum,522,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+199,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Copper,112,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+200,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Chromium,150,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+201,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Cobalt,37,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+202,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Cadmium,39,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+203,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Lead,720,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+204,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Manganese,728,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+205,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Nickel,421,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+206,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Zinc,384,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+207,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Fluoride,295,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+208,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Chloride,141.5,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+209,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Nitrate,0.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+210,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Sulfate,38.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+211,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Bicarbonate,257.3,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+212,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Phosphate,0.6,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+213,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,pH,7.0,,,,Table 1,Value from Table 1.
+214,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Electrical Conductivity,1090,,,µS/cm,Table 1,Value from Table 1. Unit inferred from table footnote.
+215,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Total Dissolved Solids,695,,,mg/l,Table 1,Value from Table 1. Unit inferred from table footnote.
+216,"L9 (urban agricultural, fed by sewage, drains, by-products of Rajghat power plant, downstream to many drains and Indraprastha power plant)",,February,2013,,Oxidation-Reduction Potential,45.5,,,mV,Table 1,Value from Table 1. Unit inferred from table footnote.
+217,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Sodium,37.8,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+218,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Potassium,16.0,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+219,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Calcium,76.5,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+220,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Magnesium,38.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+221,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Iron,6.0,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+222,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Aluminum,465,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+223,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Copper,91,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+224,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Chromium,140,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+225,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Cobalt,45,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+226,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Cadmium,55,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+227,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Lead,498,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+228,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Manganese,571,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+229,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Nickel,272,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+230,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Zinc,278,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+231,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Fluoride,441,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+232,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Chloride,116.6,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+233,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Nitrate,2.1,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+234,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Sulfate,43.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+235,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Bicarbonate,272.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+236,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Phosphate,0.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+237,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,pH,7.8,,,,Table 1,Value from Table 1.
+238,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Electrical Conductivity,917,,,µS/cm,Table 1,Value from Table 1. Unit inferred from table footnote.
+239,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Total Dissolved Solids,743,,,mg/l,Table 1,Value from Table 1. Unit inferred from table footnote.
+240,L10 (downstream to many drains and Indraprastha power plant),,February,2013,,Oxidation-Reduction Potential,69.6,,,mV,Table 1,Value from Table 1. Unit inferred from table footnote.
+241,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Sodium,55.3,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+242,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Potassium,18.6,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+243,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Calcium,116.0,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+244,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Magnesium,41.7,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+245,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Iron,4.5,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+246,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Aluminum,716,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+247,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Copper,228,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+248,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Chromium,480,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+249,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Cobalt,97,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+250,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Cadmium,93,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+251,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Lead,610,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+252,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Manganese,333,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+253,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Nickel,351,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+254,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Zinc,395,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+255,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Fluoride,475,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+256,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Chloride,276.7,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+257,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Nitrate,3.5,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+258,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Sulfate,70.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+259,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Bicarbonate,233.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+260,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Phosphate,1.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+261,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,pH,6.9,,,,Table 1,Value from Table 1.
+262,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Electrical Conductivity,1381,,,µS/cm,Table 1,Value from Table 1. Unit inferred from table footnote.
+263,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Total Dissolved Solids,953,,,mg/l,Table 1,Value from Table 1. Unit inferred from table footnote.
+264,"L11 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Oxidation-Reduction Potential,260.9,,,mV,Table 1,Value from Table 1. Unit inferred from table footnote.
+265,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Sodium,52.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+266,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Potassium,16.5,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+267,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Calcium,123.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+268,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Magnesium,47.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+269,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Iron,5.6,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+270,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Aluminum,570,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+271,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Copper,316,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+272,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Chromium,370,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+273,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Cobalt,95,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+274,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Cadmium,85,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+275,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Lead,672,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+276,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Manganese,428,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+277,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Nickel,426,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+278,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Zinc,421,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+279,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Fluoride,525,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+280,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Chloride,293.0,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+281,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Nitrate,3.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+282,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Sulfate,99.3,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+283,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Bicarbonate,249.6,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+284,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Phosphate,0.7,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+285,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,pH,7.1,,,,Table 1,Value from Table 1.
+286,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Electrical Conductivity,1276,,,µS/cm,Table 1,Value from Table 1. Unit inferred from table footnote.
+287,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Total Dissolved Solids,782,,,mg/l,Table 1,Value from Table 1. Unit inferred from table footnote.
+288,"L12 (Okhla/Kalindi Bird Sanctuary, urban industrial and residential, receiving effluents from STPs, drains, Hindon canal)",,February,2013,,Oxidation-Reduction Potential,247.0,,,mV,Table 1,Value from Table 1. Unit inferred from table footnote.
+289,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Sodium,40.6,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+290,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Potassium,12.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+291,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Calcium,108.5,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+292,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Magnesium,56.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+293,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Iron,4.4,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+294,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Aluminum,652,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+295,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Copper,139,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+296,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Chromium,290,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+297,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Cobalt,74,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+298,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Cadmium,65,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+299,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Lead,653,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+300,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Manganese,232,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+301,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Nickel,424,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+302,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Zinc,401,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+303,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Fluoride,400,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+304,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Chloride,235.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+305,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Nitrate,2.5,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+306,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Sulfate,71.0,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+307,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Bicarbonate,248.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+308,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Phosphate,0.8,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+309,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,pH,6.8,,,,Table 1,Value from Table 1.
+310,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Electrical Conductivity,1106,,,µS/cm,Table 1,Value from Table 1. Unit inferred from table footnote.
+311,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Total Dissolved Solids,609,,,mg/l,Table 1,Value from Table 1. Unit inferred from table footnote.
+312,"L13 (high traffic zone, receiving Shahdara outfall drain and agricultural runoff)",,February,2013,,Oxidation-Reduction Potential,224.0,,,mV,Table 1,Value from Table 1. Unit inferred from table footnote.
+313,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Sodium,55.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+314,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Potassium,15.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+315,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Calcium,94.8,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+316,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Magnesium,43.1,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+317,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Iron,6.3,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+318,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Aluminum,424,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+319,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Copper,223,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+320,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Chromium,530,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+321,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Cobalt,112,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+322,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Cadmium,56,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+323,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Lead,510,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+324,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Manganese,373,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+325,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Nickel,473,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+326,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Zinc,437,,,ppb,Table 1,Value from Table 1. Unit inferred from table footnote (* Concentrations in ppb).
+327,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Fluoride,620,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+328,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Chloride,236.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+329,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Nitrate,3.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+330,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Sulfate,79.9,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+331,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Bicarbonate,227.2,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+332,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Phosphate,0.8,,,ppm,Table 1,Value from Table 1. Unit inferred from table footnote.
+333,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,pH,7.0,,,,Table 1,Value from Table 1.
+334,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Electrical Conductivity,1265,,,µS/cm,Table 1,Value from Table 1. Unit inferred from table footnote.
+335,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Total Dissolved Solids,712,,,mg/l,Table 1,Value from Table 1. Unit inferred from table footnote.
+336,L14 (receiving Shahdara outfall drain and agricultural runoff),,February,2013,,Oxidation-Reduction Potential,249.0,,,mV,Table 1,Value from Table 1. Unit inferred from table footnote.

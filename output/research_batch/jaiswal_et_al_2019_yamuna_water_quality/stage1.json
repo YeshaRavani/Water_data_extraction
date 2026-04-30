@@ -1,210 +1,150 @@
 {
   "paper_overview": {
-    "citation": "Jaiswal, M., Hussain, J., Gupta, S.K. et al. Comprehensive evaluation of water quality status for entire stretch of Yamuna River, India. Environ Monit Assess 191, 208 (2019). https://doi.org/10.1007/s10661-019-7312-8",
+    "citation": "Jaiswal, M., Hussain, J., Gupta, S. K., Nasr, M., & Nema, A. K. (2019). Comprehensive evaluation of water quality status for entire stretch of Yamuna River, India. Environmental Monitoring and Assessment, 191(4), 208. https://doi.org/10.1007/s10661-019-7312-8",
     "is_review_paper": false,
-    "study_region": "Yamuna River, India, covering seven states including National Capital Territory (NCT) of Delhi",
+    "study_region": "entire Yamuna River stretch in India, including Uttarakhand, Delhi, and other states, joining the Ganges River at Allahabad.",
     "data_sources": [
       {
-        "location": "Supplementary file; Table S1",
-        "description": "Water quality stations along with their latitude and longitude data and catchment areas",
-        "page": "3"
+        "location": "Electronic supplementary material",
+        "description": "Supplementary file containing Table S1 (site coordinates), Table S2 and S3 (water quality parameters), Table S4 (Indian Standards classes), and Table S5 (WQI classifications).",
+        "page": "1, 3, 4, 5, 6, 8, 9, 14, 15"
       },
       {
-        "location": "Supplementary file; Tables S2 and S3",
-        "description": "Concentrations of water quality parameters at monitoring stations during monsoon and non-monsoon",
-        "page": "4"
-      },
-      {
-        "location": "Supplementary file; Table S4",
-        "description": "Indian Standards classes for water usage",
-        "page": "5"
-      },
-      {
-        "location": "Supplementary file; Table S5",
-        "description": "WQI classifications",
-        "page": "8"
-      },
-      {
-        "location": "Table 1",
-        "description": "Indian Standards (IS 1982, IS 1991) for water quality parameters",
-        "page": "6"
-      },
-      {
-        "location": "Table 2",
-        "description": "Correlation matrix among water qualities parameters during monsoon season",
-        "page": "10"
-      },
-      {
-        "location": "Table 3",
-        "description": "Correlation matrix among water qualities parameters during non-monsoon season",
-        "page": "11"
-      },
-      {
-        "location": "Table 4",
-        "description": "Loadings of the significant principal components for water quality parameters",
-        "page": "12"
-      },
-      {
-        "location": "Fig. 1",
-        "description": "Layout of the Yamuna River under investigation",
-        "page": "4"
-      },
-      {
-        "location": "Fig. 2",
-        "description": "Water quality index (WQI) at each monitoring station along the Yamuna River",
-        "page": "9"
-      },
-      {
-        "location": "Fig. 3",
-        "description": "Standardization of physicochemical parameters to zero mean and unit variance",
-        "page": "12"
-      },
-      {
-        "location": "Fig. 4",
-        "description": "Loading plot of water quality parameters in PCA",
-        "page": "13"
-      },
-      {
-        "location": "Fig. 5",
-        "description": "Cluster analysis sampling sites",
-        "page": "13"
-      },
-      {
-        "location": "Fig. 6",
-        "description": "DO profile along the Yamuna River and corresponding oxygen sag curve",
-        "page": "15"
+        "location": "Main text",
+        "description": "Water quality parameters, ranges, and averages reported in the text and Table 1.",
+        "page": "2, 5, 6, 7, 8, 10, 11, 12, 13, 14"
       }
     ]
   },
   "sites": [
     {
       "id": "S1",
-      "description": "Paonta, an upstream monitoring station on the Yamuna River",
+      "description": "Located in the upper zone of the Yamuna River. Characterized by low TDS and organic matter, suitable for drinking, irrigation, and aquatic life during monsoon. Exhibited low total alkalinity (142 mg/L) and total hardness (140 mg/L) during non-monsoon.",
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab sample",
-      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
-      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+      "sample_type": "Grab samples",
+      "source_quote": "Group M-1, consisting of Paonta, Kalanaur, Mawi, and Palla, was distributed on the negative side of PC1. This group having low TDS and organic matter was suitable for drinking, irrigation, and aquatic life (IS 1982). Group NM-1 consisted of Paonta, Kalanaur, Mawi, and Palla. These sites are located at the upstream of the Yamuna River and described by low TA and TH values of 142 and 140 mg/L, respectively.",
+      "source_location": "Page 13, 14"
     },
     {
       "id": "S2",
-      "description": "Kalanaur, a monitoring station on the Yamuna River",
+      "description": "Located in the upper zone of the Yamuna River. Characterized by low TDS and organic matter, suitable for drinking, irrigation, and aquatic life during monsoon. Exhibited low total alkalinity (142 mg/L) and total hardness (140 mg/L) during non-monsoon.",
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab sample",
-      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
-      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+      "sample_type": "Grab samples",
+      "source_quote": "Group M-1, consisting of Paonta, Kalanaur, Mawi, and Palla, was distributed on the negative side of PC1. This group having low TDS and organic matter was suitable for drinking, irrigation, and aquatic life (IS 1982). Group NM-1 consisted of Paonta, Kalanaur, Mawi, and Palla. These sites are located at the upstream of the Yamuna River and described by low TA and TH values of 142 and 140 mg/L, respectively.",
+      "source_location": "Page 13, 14"
     },
     {
       "id": "S3",
-      "description": "Mawi, a monitoring station on the Yamuna River",
+      "description": "Located in the upper zone of the Yamuna River. Characterized by low TDS and organic matter, suitable for drinking, irrigation, and aquatic life during monsoon. Exhibited low total alkalinity (142 mg/L) and total hardness (140 mg/L) during non-monsoon.",
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab sample",
-      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
-      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+      "sample_type": "Grab samples",
+      "source_quote": "Group M-1, consisting of Paonta, Kalanaur, Mawi, and Palla, was distributed on the negative side of PC1. This group having low TDS and organic matter was suitable for drinking, irrigation, and aquatic life (IS 1982). Group NM-1 consisted of Paonta, Kalanaur, Mawi, and Palla. These sites are located at the upstream of the Yamuna River and described by low TA and TH values of 142 and 140 mg/L, respectively.",
+      "source_location": "Page 13, 14"
     },
     {
       "id": "S4",
-      "description": "Palla, a monitoring station on the Yamuna River",
+      "description": "Located in the upper zone of the Yamuna River. Characterized by low TDS and organic matter, suitable for drinking, irrigation, and aquatic life during monsoon. Exhibited low total alkalinity (142 mg/L) and total hardness (140 mg/L) during non-monsoon.",
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab sample",
-      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
-      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+      "sample_type": "Grab samples",
+      "source_quote": "Group M-1, consisting of Paonta, Kalanaur, Mawi, and Palla, was distributed on the negative side of PC1. This group having low TDS and organic matter was suitable for drinking, irrigation, and aquatic life (IS 1982). Group NM-1 consisted of Paonta, Kalanaur, Mawi, and Palla. These sites are located at the upstream of the Yamuna River and described by low TA and TH values of 142 and 140 mg/L, respectively.",
+      "source_location": "Page 13, 14"
     },
     {
       "id": "S5",
-      "description": "Delhi, a monitoring station on the Yamuna River",
+      "description": "Located in the midstream region of the Yamuna River. Characterized by high BOD5 (11.9 mg/L), NH4+ (2.7 mg/L), and NO3 (14.2 mg/L), but low DO (4.9 mg/L) during monsoon, indicating organic load from urban drains. During non-monsoon, showed high BOD5 (45.1 mg/L), NH4+ (3.1 mg/L), and NO3 (14.4 mg/L).",
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab sample",
-      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
-      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+      "sample_type": "Grab samples",
+      "source_quote": "Group M-2 had the locations of Delhi, Mohana, and Mathura, which were positioned on the upper part of PC2. These sites had high BOD5 of 11.9 mg/L, NH4+ of 2.7 mg/L, and NO3 of 14.2 mg/L, but low DO of 4.9 mg/L, suggesting the contribution of an organic load from drains at the urban areas. Group NM-2 had the sites of Delhi, Mohana, and Mathura and composed of high BOD5, NH4+, and NO3 levels of 45.1, 3.1, and 14.4 mg/L, respectively.",
+      "source_location": "Page 13, 14"
     },
     {
       "id": "S6",
-      "description": "Mohana, a monitoring station on the Yamuna River",
+      "description": "Located in the midstream region of the Yamuna River. Characterized by high BOD5 (11.9 mg/L), NH4+ (2.7 mg/L), and NO3 (14.2 mg/L), but low DO (4.9 mg/L) during monsoon, indicating organic load from urban drains. During non-monsoon, showed high BOD5 (45.1 mg/L), NH4+ (3.1 mg/L), and NO3 (14.4 mg/L).",
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab sample",
-      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
-      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+      "sample_type": "Grab samples",
+      "source_quote": "Group M-2 had the locations of Delhi, Mohana, and Mathura, which were positioned on the upper part of PC2. These sites had high BOD5 of 11.9 mg/L, NH4+ of 2.7 mg/L, and NO3 of 14.2 mg/L, but low DO of 4.9 mg/L, suggesting the contribution of an organic load from drains at the urban areas. Group NM-2 had the sites of Delhi, Mohana, and Mathura and composed of high BOD5, NH4+, and NO3 levels of 45.1, 3.1, and 14.4 mg/L, respectively.",
+      "source_location": "Page 13, 14"
     },
     {
       "id": "S7",
-      "description": "Mathura, a monitoring station on the Yamuna River",
+      "description": "Located in the midstream region of the Yamuna River. Characterized by high BOD5 (11.9 mg/L), NH4+ (2.7 mg/L), and NO3 (14.2 mg/L), but low DO (4.9 mg/L) during monsoon, indicating organic load from urban drains. During non-monsoon, showed high BOD5 (45.1 mg/L), NH4+ (3.1 mg/L), and NO3 (14.4 mg/L).",
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab sample",
-      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
-      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+      "sample_type": "Grab samples",
+      "source_quote": "Group M-2 had the locations of Delhi, Mohana, and Mathura, which were positioned on the upper part of PC2. These sites had high BOD5 of 11.9 mg/L, NH4+ of 2.7 mg/L, and NO3 of 14.2 mg/L, but low DO of 4.9 mg/L, suggesting the contribution of an organic load from drains at the urban areas. Group NM-2 had the sites of Delhi, Mohana, and Mathura and composed of high BOD5, NH4+, and NO3 levels of 45.1, 3.1, and 14.4 mg/L, respectively.",
+      "source_location": "Page 13, 14"
     },
     {
       "id": "S8",
-      "description": "Agra, a monitoring station on the Yamuna River",
+      "description": "Located in the midstream region of the Yamuna River. Characterized by high dissolved salts (average TDS of 348 mg/L) during monsoon. During non-monsoon, showed high TDS (907 mg/L), TA (294 mg/L), TH (291 mg/L), EC (1512 \u03bcS/cm), Cl (209 mg/L), and SO42- (100 mg/L), potentially due to contamination from pesticide residues and drains.",
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab sample",
-      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
-      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+      "sample_type": "Grab samples",
+      "source_quote": "Group M-3, containing Etawah and Agra, was located at the right PC1 direction. This group was characterized by high dissolved salts expressed by an average TDS of 348 mg/L. Group NM-3 contained Agra and Etawah. This group is located at the midstream of the Yamuna River, and it was characterized by high TDS (907 mg/L), TA (294 mg/L), TH (291 mg/L), and EC (1512 \u03bcS/cm). The high Cl (209 mg/L) and SO42- (100 mg/L) elements could be due to contamination with undetected and untreated pesticide residues that impose a toxic impact across the river.",
+      "source_location": "Page 13, 14"
     },
     {
       "id": "S9",
-      "description": "Etawah, a monitoring station on the Yamuna River",
+      "description": "Located in the midstream region of the Yamuna River. Characterized by high dissolved salts (average TDS of 348 mg/L) during monsoon. During non-monsoon, showed high TDS (907 mg/L), TA (294 mg/L), TH (291 mg/L), EC (1512 \u03bcS/cm), Cl (209 mg/L), and SO42- (100 mg/L), potentially due to contamination from pesticide residues and drains.",
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab sample",
-      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
-      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+      "sample_type": "Grab samples",
+      "source_quote": "Group M-3, containing Etawah and Agra, was located at the right PC1 direction. This group was characterized by high dissolved salts expressed by an average TDS of 348 mg/L. Group NM-3 contained Agra and Etawah. This group is located at the midstream of the Yamuna River, and it was characterized by high TDS (907 mg/L), TA (294 mg/L), TH (291 mg/L), EC (1512 \u03bcS/cm). The high Cl (209 mg/L) and SO42- (100 mg/L) elements could be due to contamination with undetected and untreated pesticide residues that impose a toxic impact across the river.",
+      "source_location": "Page 13, 14"
     },
     {
       "id": "S10",
-      "description": "Auraiya, a monitoring station on the Yamuna River",
+      "description": "Located in the lower zone of the Yamuna River. Characterized by high DO (average 7.3 mg/L) during monsoon. During non-monsoon, showed low BOD5 (1.78 mg/L), NH4+ (0.4 mg/L), NO3 (1.2 mg/L), and PO43 (0.2 mg/L).",
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab sample",
-      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
-      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+      "sample_type": "Grab samples",
+      "source_quote": "Group M-4 of Auraiya, Hamirpur, and Pratappur was located at the negative PC2. These sites contained high DO concentration with an average value of 7.3 mg/L. Group NM-4 comprised Auraiya, Hamirpur, and Pratappur. These sites are located downstream of the Yamuna River, and they had low BOD5 (1.78 mg/L), NH4+ (0.4 mg/L), NO3\u00af (1.2 mg/L), and PO43 (0.2 mg/L).",
+      "source_location": "Page 14"
     },
     {
       "id": "S11",
-      "description": "Hamirpur, a monitoring station on the Yamuna River",
+      "description": "Located in the lower zone of the Yamuna River. Characterized by high DO (average 7.3 mg/L) during monsoon. During non-monsoon, showed low BOD5 (1.78 mg/L), NH4+ (0.4 mg/L), NO3 (1.2 mg/L), and PO43 (0.2 mg/L).",
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab sample",
-      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
-      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+      "sample_type": "Grab samples",
+      "source_quote": "Group M-4 of Auraiya, Hamirpur, and Pratappur was located at the negative PC2. These sites contained high DO concentration with an average value of 7.3 mg/L. Group NM-4 comprised Auraiya, Hamirpur, and Pratappur. These sites are located downstream of the Yamuna River, and they had low BOD5 (1.78 mg/L), NH4+ (0.4 mg/L), NO3\u00af (1.2 mg/L), and PO43 (0.2 mg/L).",
+      "source_location": "Page 14"
     },
     {
       "id": "S12",
-      "description": "Pratappur, a downstream monitoring station on the Yamuna River",
+      "description": "Located in the lower zone of the Yamuna River. Characterized by high DO (average 7.3 mg/L) during monsoon. During non-monsoon, showed low BOD5 (1.78 mg/L), NH4+ (0.4 mg/L), NO3 (1.2 mg/L), and PO43 (0.2 mg/L).",
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab sample",
-      "source_quote": "The monitoring stations used to cover the entire Yamuna stretch were Paonta, Kalanaur, Mawi, Palla, Delhi, Mohana, Mathura, Agra, Etawah, Auraiya, Hamirpur, and Pratappur.",
-      "source_location": "Page 3, 'Sampling sites and sample collection' section"
+      "sample_type": "Grab samples",
+      "source_quote": "Group M-4 of Auraiya, Hamirpur, and Pratappur was located at the negative PC2. These sites contained high DO concentration with an average value of 7.3 mg/L. Group NM-4 comprised Auraiya, Hamirpur, and Pratappur. These sites are located downstream of the Yamuna River, and they had low BOD5 (1.78 mg/L), NH4+ (0.4 mg/L), NO3\u00af (1.2 mg/L), and PO43 (0.2 mg/L).",
+      "source_location": "Page 14"
     }
   ],
   "parameters": [
     {
       "id": "P1",
       "name": "Temperature",
-      "name_as_reported": "temperature",
+      "name_as_reported": "Temp.",
       "cas_number": null,
-      "category": null,
+      "category": "Physical",
       "unit_as_reported": "\u00b0C"
     },
     {
@@ -212,77 +152,77 @@
       "name": "pH",
       "name_as_reported": "pH",
       "cas_number": null,
-      "category": null,
+      "category": "Physical",
       "unit_as_reported": null
     },
     {
       "id": "P3",
       "name": "Dissolved Oxygen",
-      "name_as_reported": "dissolved oxygen (DO)",
+      "name_as_reported": "DO",
       "cas_number": null,
-      "category": null,
+      "category": "Chemical",
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P4",
       "name": "Biochemical Oxygen Demand (5-day)",
-      "name_as_reported": "5-day biochemical oxygen demand (BOD5)",
+      "name_as_reported": "BOD",
       "cas_number": null,
-      "category": null,
+      "category": "Chemical",
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P5",
       "name": "Total Dissolved Solids",
-      "name_as_reported": "total dissolved solids (TDS)",
+      "name_as_reported": "TDS",
       "cas_number": null,
-      "category": null,
+      "category": "Chemical",
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P6",
       "name": "Electrical Conductivity",
-      "name_as_reported": "electrical conductivity (EC)",
+      "name_as_reported": "EC",
       "cas_number": null,
-      "category": null,
-      "unit_as_reported": "\u00b5S/cm"
+      "category": "Physical",
+      "unit_as_reported": "\u03bcS/cm"
     },
     {
       "id": "P7",
       "name": "Total Alkalinity",
-      "name_as_reported": "total alkalinity (TA)",
+      "name_as_reported": "TA",
       "cas_number": null,
-      "category": null,
-      "unit_as_reported": "mg/L (as CaCO3)"
+      "category": "Chemical",
+      "unit_as_reported": "mg/L"
     },
     {
       "id": "P8",
       "name": "Total Hardness",
-      "name_as_reported": "total hardness (TH)",
+      "name_as_reported": "TH",
       "cas_number": null,
-      "category": null,
-      "unit_as_reported": "mg/L (as CaCO3)"
+      "category": "Chemical",
+      "unit_as_reported": "mg/L"
     },
     {
       "id": "P9",
       "name": "Calcium Hardness",
-      "name_as_reported": "calcium-hardness (Ca-H)",
+      "name_as_reported": "Ca-H",
       "cas_number": null,
-      "category": null,
-      "unit_as_reported": "mg/L (as CaCO3)"
+      "category": "Chemical",
+      "unit_as_reported": "mg/L"
     },
     {
       "id": "P10",
       "name": "Magnesium Hardness",
-      "name_as_reported": "magnesium-hardness (Mg-H)",
+      "name_as_reported": "Mg-H",
       "cas_number": null,
-      "category": null,
-      "unit_as_reported": "mg/L (as CaCO3)"
+      "category": "Chemical",
+      "unit_as_reported": "mg/L"
     },
     {
       "id": "P11",
       "name": "Ammonium",
-      "name_as_reported": "ammonium (NH4+)",
+      "name_as_reported": "NH4+",
       "cas_number": null,
       "category": "Nutrient",
       "unit_as_reported": "mg/L"
@@ -290,7 +230,7 @@
     {
       "id": "P12",
       "name": "Nitrite",
-      "name_as_reported": "nitrite (NO2\u00af)",
+      "name_as_reported": "NO2\u00af",
       "cas_number": null,
       "category": "Nutrient",
       "unit_as_reported": "mg/L"
@@ -298,7 +238,7 @@
     {
       "id": "P13",
       "name": "Nitrate",
-      "name_as_reported": "nitrate (NO3\u00af)",
+      "name_as_reported": "NO3\u00af",
       "cas_number": null,
       "category": "Nutrient",
       "unit_as_reported": "mg/L"
@@ -306,7 +246,7 @@
     {
       "id": "P14",
       "name": "Phosphate",
-      "name_as_reported": "phosphate (PO43)",
+      "name_as_reported": "PO43-",
       "cas_number": null,
       "category": "Nutrient",
       "unit_as_reported": "mg/L"
@@ -314,31 +254,31 @@
     {
       "id": "P15",
       "name": "Sulfate",
-      "name_as_reported": "sulfate (SO4\u00b2\u00af)",
+      "name_as_reported": "SO42-",
       "cas_number": null,
-      "category": null,
+      "category": "Chemical",
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P16",
       "name": "Chloride",
-      "name_as_reported": "chloride (Cl\u00af)",
+      "name_as_reported": "Cl\u00af",
       "cas_number": null,
-      "category": null,
+      "category": "Chemical",
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P17",
       "name": "Fluoride",
-      "name_as_reported": "fluoride (F\u00af)",
+      "name_as_reported": "F\u00af",
       "cas_number": null,
-      "category": null,
+      "category": "Chemical",
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P18",
       "name": "Iron",
-      "name_as_reported": "iron (Fe)",
+      "name_as_reported": "Fe",
       "cas_number": null,
       "category": "Metal",
       "unit_as_reported": "mg/L"
@@ -346,19 +286,18 @@
     {
       "id": "P19",
       "name": "Boron",
-      "name_as_reported": "boron (B)",
+      "name_as_reported": "B",
       "cas_number": null,
-      "category": "Metalloid",
+      "category": "Metal",
       "unit_as_reported": "mg/L"
     }
   ],
   "temporal_coverage": {
     "time_periods": [
-      "monsoon (July to October)",
-      "non-monsoon (November to June)"
+      "2014-2015"
     ],
-    "sampling_dates": "2014\u20132015",
+    "sampling_dates": "monsoon (July to October) and non-monsoon (November to June)",
     "granularity": "seasonal"
   },
-  "extraction_notes": "Latitude and longitude for the sampling sites are mentioned to be in a supplementary file (Table S1), which was not accessible for extraction. The unit for Temperature (\u00b0C) is inferred from the text, not explicitly stated in Table 1. The unit for Electrical Conductivity (EC) is reported as '\u00b5/cm' in Table 1 but '\u00b5S/cm' in the text (Page 7); '\u00b5S/cm' was chosen for standardization. Units for Total Alkalinity, Total Hardness, Calcium Hardness, and Magnesium Hardness are specified 'as CaCO3' in the footnote of Table 1."
+  "extraction_notes": "Latitude and longitude for sites are reported in a supplementary file (Table S1) which was not accessible. Detailed water quality parameter measurements (Tables S2 and S3) are reported in a supplementary file which was not accessible. Ranges and averages from the main text were used for descriptions where available. The unit for Electrical Conductivity (EC) was reported as \"\u03bc/cm\" in Table 1, but \"\u03bcS/cm\" in the text (page 7). \"\u03bcS/cm\" was used as the standard unit. CAS numbers for parameters were not provided in the paper."
 }

@@ -2,354 +2,344 @@
   "paper_overview": {
     "citation": "Madhuben Sharma, Sameeksha Rawat, Dheeraj Kumar, Amit Awasthi, Abhijit Sarkar, Atul Sidola, Tanupriya Choudhury, Ketan Kotecha. The state of the Yamuna River: a detailed review of water quality assessment across the entire course in India. Applied Water Science (2024) 14:175. https://doi.org/10.1007/s13201-024-02227-x",
     "is_review_paper": true,
-    "study_region": "Yamuna River, India, from Yamunotri to Prayagraj, covering Uttarakhand, Himachal Pradesh, Haryana, Delhi, Uttar Pradesh, Rajasthan, and Madhya Pradesh.",
+    "study_region": "Yamuna River, India, from Yamunotri to Prayagraj, covering states including Uttarakhand (UK), Himachal Pradesh (HP), Haryana, Delhi, Uttar Pradesh (UP), Rajasthan, and Madhya Pradesh (MP).",
     "data_sources": [
       {
-        "location": "Table 7, page 14",
-        "description": "Water quality data of River Yamuna (CPCB 2020) (CPCB 2021 annexure VI (a))",
-        "page": "14"
+        "location": "Abstract, page 1",
+        "description": "Critical review of published research papers from 2019 to 2023, collected through Google Scholar and ScienceDirect.",
+        "page": "1"
       },
       {
-        "location": "Table 2, page 5",
-        "description": "Streams of the River Yamuna (Sharma and Gupta 2022; Mishra 2010; Sharma 2015)",
-        "page": "5"
+        "location": "Abstract, page 1; Table 7",
+        "description": "Secondary data sources including water quality data of River Yamuna in the year 2020 from the Central Pollution Control Board (CPCB). Table 7 specifically cites CPCB (2020) and CPCB (2021) annexure VI (a).",
+        "page": "1, 14"
       },
       {
-        "location": "Table 1, page 3",
-        "description": "State-wise total catchment area, percentage of contribution, drainage basin, percentage of drainage basin (Naithani and Pandel 2015; Upadhyay et al. 2013)",
-        "page": "3"
-      },
-      {
-        "location": "Table 6, page 10",
-        "description": "EYC and WYC water diversion (CPCB 2000)",
-        "page": "10"
-      },
-      {
-        "location": "Abstract, page 1; Introduction, page 2",
-        "description": "Secondary data sources include the water quality data of River Yamuna in the year 2020 from the Central Pollution Control Board (CPCB).",
-        "page": "1, 2"
+        "location": "Table 8",
+        "description": "Various research studies on Yamuna River from 2019 to 2023.",
+        "page": "16"
       }
     ]
   },
   "sites": [
     {
       "id": "S1",
-      "description": "Yamunotri, Uttarakhand",
+      "description": "Yamunotri, a glacier located in the state of Uttarakhand, on the western flanks of the Himalayan Banderpoonch peaks, at a height of 6387 m.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 1, State: UK, Location: Yamunotri*",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Yamunotri*",
+      "source_location": "Table 7"
     },
     {
       "id": "S2",
-      "description": "Hanumanchatti, Himachal Pradesh",
+      "description": null,
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 2, State: HP, Location: Hanumanchatti*",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Hanumanchatti*",
+      "source_location": "Table 7"
     },
     {
       "id": "S3",
-      "description": "U/S Lakhwar Dam, Himachal Pradesh",
+      "description": "Upstream of Lakhwar Dam.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 2, State: HP, Location: U/S Lakhwar Dam",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "U/S Lakhwar Dam",
+      "source_location": "Table 7"
     },
     {
       "id": "S4",
-      "description": "U/S Dak Patthar, Himachal Pradesh",
+      "description": "Upstream of Dak Patthar.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 2, State: HP, Location: U/S Dak Patthar",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "U/S Dak Patthar",
+      "source_location": "Table 7"
     },
     {
       "id": "S5",
-      "description": "U/S Paonta Sahib, Himachal Pradesh",
+      "description": "Upstream of Paonta Sahib.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 2, State: HP, Location: U/S Paonta Sahib",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "U/S Paonta Sahib",
+      "source_location": "Table 7"
     },
     {
       "id": "S6",
-      "description": "D/S Paonta Sahib, Himachal Pradesh",
+      "description": "Downstream of Paonta Sahib.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 2, State: HP, Location: D/S Paonta Sahib",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "D/S Paonta Sahib",
+      "source_location": "Table 7"
     },
     {
       "id": "S7",
-      "description": "U/S Ranbaxy, Himachal Pradesh",
+      "description": "Upstream of Ranbaxy.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 2, State: HP, Location: U/S Ranbaxy",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "U/S Ranbaxy",
+      "source_location": "Table 7"
     },
     {
       "id": "S8",
-      "description": "D/S Ranbaxy, Himachal Pradesh",
+      "description": "Downstream of Ranbaxy.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 2, State: HP, Location: D/S Ranbaxy",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "D/S Ranbaxy",
+      "source_location": "Table 7"
     },
     {
       "id": "S9",
-      "description": "Hathnikund, Yamunanagar, Haryana",
+      "description": "Hathnikund, Yamunanagar. Water is directed into Delhi's drinking water supply and irrigation system via the Western Yamuna Canal (WYC) and Eastern Yamuna Canal at this point.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 3, State: Haryana, Location: Hathnikund, Yamunanagar",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Hathnikund, Yamunanagar",
+      "source_location": "Table 7"
     },
     {
       "id": "S10",
-      "description": "Kalanaur, Yamuna Nagar, Haryana",
+      "description": "Kalanaur, Yamuna Nagar.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 3, State: Haryana, Location: Kalanaur, Yamuna Nagar",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Kalanaur, Yamuna Nagar",
+      "source_location": "Table 7"
     },
     {
       "id": "S11",
-      "description": "Magalaura, Haryana",
+      "description": null,
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 3, State: Haryana, Location: Magalaura",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Magalaura",
+      "source_location": "Table 7"
     },
     {
       "id": "S12",
-      "description": "Khojkipur, Panipat, Haryana",
+      "description": "Khojkipur, Panipat.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 3, State: Haryana, Location: Khojkipur, Panipat",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Khojkipur, Panipat",
+      "source_location": "Table 7"
     },
     {
       "id": "S13",
-      "description": "Sonepat, Haryana",
+      "description": "Sonepat.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 3, State: Haryana, Location: Sonepat",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Sonepat",
+      "source_location": "Table 7"
     },
     {
       "id": "S14",
-      "description": "Palla, Delhi",
+      "description": "Palla village, where the river reaches Delhi and is tapped at Wazirabad via barrage to provide drinking water to Delhi.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 4, State: Delhi, Location: Palla",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Palla",
+      "source_location": "Table 7"
     },
     {
       "id": "S15",
-      "description": "Nizamuddin, Delhi",
+      "description": "Nizamuddin of Delhi region, identified as a highly contaminated area and an outflow point.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 4, State: Delhi, Location: Nizamuddin",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Nizamuddin",
+      "source_location": "Table 7"
     },
     {
       "id": "S16",
-      "description": "Okhla Bridge (Inlet of Agra Canal), Delhi",
+      "description": "Okhla Bridge, located 22 kms after the Wazirabad barrage, directing river water towards the Agra Canal for irrigation. This specific point is the inlet of the Agra Canal.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 4, State: Delhi, Location: Okhla Bridge (Inlet of Agra Canal)",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Okhla Bridge (Inlet of Agra Canal)",
+      "source_location": "Table 7"
     },
     {
       "id": "S17",
-      "description": "Okhla After Meeting of Shahdara Drain, Delhi",
+      "description": "Okhla, after the confluence with the Shahdara drain, which contributes to the river's flow past the Okhla Barrage.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 4, State: Delhi, Location: Okhla After Meeting of Shahdara Drain",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Okhla After Meeting of Shahdara Drain",
+      "source_location": "Table 7"
     },
     {
       "id": "S18",
-      "description": "Agra Canal at Madanpur Khadar, Delhi",
+      "description": "Agra Canal at Madanpur Khadar.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 4, State: Delhi, Location: Agra Canal at Madanpur Khadar",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Agra Canal at Madanpur Khadar",
+      "source_location": "Table 7"
     },
     {
       "id": "S19",
-      "description": "Mazawali, Uttar Pradesh",
+      "description": null,
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 5, State: UP, Location: Mazawali",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Mazawali",
+      "source_location": "Table 7"
     },
     {
       "id": "S20",
-      "description": "Shahpur, Uttar Pradesh",
+      "description": null,
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 5, State: UP, Location: Shahpur",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Shahpur",
+      "source_location": "Table 7"
     },
     {
       "id": "S21",
-      "description": "Kesighat, Vrindavan, Uttar Pradesh",
+      "description": "Kesighat, Vrindavan.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 5, State: UP, Location: Kesighat, Vrindavan",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Kesighat, Vrindavan",
+      "source_location": "Table 7"
     },
     {
       "id": "S22",
-      "description": "Mathura U/S, Uttar Pradesh",
+      "description": "Upstream of Mathura.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 5, State: UP, Location: Mathura U/S",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Mathura U/S",
+      "source_location": "Table 7"
     },
     {
       "id": "S23",
-      "description": "Vishramghat, Mathura, Uttar Pradesh",
+      "description": "Vishramghat, Mathura.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 5, State: UP, Location: Vishramghat, Mathura",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Vishramghat, Mathura",
+      "source_location": "Table 7"
     },
     {
       "id": "S24",
-      "description": "Mathura D/S, Uttar Pradesh",
+      "description": "Downstream of Mathura.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 5, State: UP, Location: Mathura D/S",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Mathura D/S",
+      "source_location": "Table 7"
     },
     {
       "id": "S25",
-      "description": "Agra U/S, Uttar Pradesh",
+      "description": "Upstream of Agra.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 5, State: UP, Location: Agra U/S",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Agra U/S",
+      "source_location": "Table 7"
     },
     {
       "id": "S26",
-      "description": "D/S of Agra, Uttar Pradesh",
+      "description": "Downstream of Agra, identified as a highly contaminated area.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 5, State: UP, Location: D/S of Agra",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "D/S of Agra",
+      "source_location": "Table 7"
     },
     {
       "id": "S27",
-      "description": "Bateswar, Uttar Pradesh",
+      "description": "Bateswar.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 5, State: UP, Location: Bateswar",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Bateswar",
+      "source_location": "Table 7"
     },
     {
       "id": "S28",
-      "description": "Etawah, Uttar Pradesh",
+      "description": "Etawah.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 5, State: UP, Location: Etawah",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Etawah",
+      "source_location": "Table 7"
     },
     {
       "id": "S29",
-      "description": "Juhika B/C with Chambal, Etawah, Uttar Pradesh",
+      "description": "Juhika B/C with Chambal, Etawah, indicating the confluence with the Chambal River.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 5, State: UP, Location: Juhika B/C with Chambal, Etawah",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Juhika B/C with Chambal, Etawah",
+      "source_location": "Table 7"
     },
     {
       "id": "S30",
-      "description": "Hamirpur, Uttar Pradesh",
+      "description": "Hamirpur.",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 5, State: UP, Location: Hamirpur",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Hamirpur",
+      "source_location": "Table 7"
     },
     {
       "id": "S31",
-      "description": "Allahabad D/S (Balua Ghat), Uttar Pradesh",
+      "description": "Downstream of Allahabad (Balua Ghat).",
       "latitude": null,
       "longitude": null,
       "matrix": "river water",
-      "sample_type": "surface water",
-      "source_quote": "S. no: 5, State: UP, Location: Allahabad D/S (Balua Ghat)",
-      "source_location": "Table 7, page 14"
+      "sample_type": "water sample",
+      "source_quote": "Allahabad D/S (Balua Ghat)",
+      "source_location": "Table 7"
     }
   ],
   "parameters": [
     {
       "id": "P1",
       "name": "Temperature",
-      "name_as_reported": "Temperature (\u00b0C)",
+      "name_as_reported": "Temperature",
       "cas_number": null,
-      "category": "Physical",
+      "category": null,
       "unit_as_reported": "\u00b0C"
     },
     {
@@ -357,57 +347,66 @@
       "name": "pH",
       "name_as_reported": "pH",
       "cas_number": null,
-      "category": "Physical-Chemical",
+      "category": null,
       "unit_as_reported": null
     },
     {
       "id": "P3",
       "name": "Dissolved Oxygen",
-      "name_as_reported": "DO (mg/L)",
+      "name_as_reported": "DO",
       "cas_number": null,
-      "category": "Chemical",
+      "category": null,
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P4",
-      "name": "Conductivity",
-      "name_as_reported": "Conductivity (\u00b5mhos/cm)",
+      "name": "Electrical Conductivity",
+      "name_as_reported": "Conductivity",
       "cas_number": null,
-      "category": "Physical-Chemical",
+      "category": null,
       "unit_as_reported": "\u00b5mhos/cm"
     },
     {
       "id": "P5",
       "name": "Biochemical Oxygen Demand",
-      "name_as_reported": "BOD (mg/L)",
+      "name_as_reported": "BOD",
       "cas_number": null,
-      "category": "Chemical",
+      "category": null,
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P6",
-      "name": "Faecal Coliform",
-      "name_as_reported": "FC (MPN/100 mL)",
+      "name": "Fecal Coliform",
+      "name_as_reported": "FC",
       "cas_number": null,
-      "category": "Biological",
+      "category": "Microbiological",
       "unit_as_reported": "MPN/100 mL"
     },
     {
       "id": "P7",
       "name": "Total Coliform",
-      "name_as_reported": "TC (MPN/100 mL)",
+      "name_as_reported": "TC",
       "cas_number": null,
-      "category": "Biological",
+      "category": "Microbiological",
       "unit_as_reported": "MPN/100 mL"
     }
   ],
   "temporal_coverage": {
     "time_periods": [
-      "2020",
-      "2021"
+      "2019 to 2023",
+      "Year 2020",
+      "2020-2021",
+      "COVID-19 lockdown period",
+      "Pre-monsoon season",
+      "Post-monsoon season",
+      "Monsoon season",
+      "Non-monsoon season",
+      "Winter season",
+      "Summer season",
+      "Spring season"
     ],
-    "sampling_dates": "Locations monitored on yearly basis.",
-    "granularity": "yearly"
+    "sampling_dates": "Locations monitored on yearly basis. Specific sampling dates are not provided.",
+    "granularity": "Yearly and seasonal"
   },
-  "extraction_notes": "The paper is a review article that synthesizes data from various sources, primarily focusing on the Yamuna River in India. The main quantitative data for sites and parameters was extracted from Table 7, which cites CPCB 2020 and CPCB 2021. The footnote for Table 7 indicates that locations were monitored on a yearly basis. 'BDL' (Below Detection Limit) for DO is specified as 3.0 mg/L in the footnote. Latitude and longitude were not explicitly provided for the sites in Table 7. Matrix for all sites is 'river water' and sample type is 'surface water' based on the context of the paper. Parameter categories were inferred based on common water quality classifications."
+  "extraction_notes": "This is a review article. The primary data for sites and parameters was extracted from Table 7, which compiles data from CPCB (2020) and CPCB (2021). Additional temporal information was gathered from the abstract and various sections discussing state-wise studies. Latitude and longitude were not provided for specific sampling sites. The 'description' for sites was derived from the table entry and surrounding text where available. 'BDL' (Below Detection Limit) values for DO and BOD are reported in Table 7, with a footnote specifying 'BDL value for DO is 3.0 mg/L'."
 }

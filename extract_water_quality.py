@@ -15,6 +15,7 @@ from pydantic import BaseModel, ConfigDict, Field
 
 DEFAULT_MODEL = "gemini-2.5-flash"
 DEFAULT_OUTPUT_DIR = Path("output")
+ILLEGAL_TEXT_RE = re.compile(r"[\x00-\x08\x0b-\x0c\x0e-\x1f]")
 
 
 class ExtractedRecord(BaseModel):
@@ -404,6 +405,13 @@ def build_dataframe(result: ExtractionResult, schema_config: dict[str, Any]) -> 
         if sort_labels and not df.empty:
             df = df.sort_values(sort_labels, na_position="last").reset_index(drop=True)
 
+    sr_no_label = next(
+        (field["label"] for field in fields if field["key"] == "sr_no"),
+        None,
+    )
+    if sr_no_label and sr_no_label in df.columns:
+        df[sr_no_label] = range(1, len(df) + 1)
+
     return df
 
 
@@ -437,11 +445,18 @@ def write_csv(df: pd.DataFrame, destination: Path) -> None:
     df.to_csv(destination, index=False)
 
 
+def clean_cell_value(value: Any) -> Any:
+    if isinstance(value, str):
+        return ILLEGAL_TEXT_RE.sub("", value)
+    return value
+
+
 def write_excel(df: pd.DataFrame, schema_config: dict[str, Any], destination: Path) -> None:
     units_row = build_units_row(schema_config)
-    excel_df = df
+    excel_df = df.map(clean_cell_value)
     if units_row is not None:
         excel_df = pd.concat([pd.DataFrame([units_row]), df], ignore_index=True)
+        excel_df = excel_df.map(clean_cell_value)
 
     with pd.ExcelWriter(destination, engine="openpyxl") as writer:
         excel_df.to_excel(writer, index=False, sheet_name="extracted_data")

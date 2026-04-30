@@ -1,65 +1,65 @@
 {
   "paper_overview": {
-    "citation": "Mandal, P., Upadhyay, R. & Hasan, A. Seasonal and spatial variation of Yamuna River water quality in Delhi, India. Environ Monit Assess 169, 629\u2013636 (2010). https://doi.org/10.1007/s10661-009-1265-2",
+    "citation": "Mandal, P., Upadhyay, R. & Hasan, A. Seasonal and spatial variation of Yamuna River water quality in Delhi, India. Environ Monit Assess 169, 629\u2013642 (2010). https://doi.org/10.1007/s10661-009-1265-2",
     "is_review_paper": false,
     "study_region": "Delhi, India (Yamuna River)",
     "data_sources": [
       {
         "location": "Central Pollution Control Board (CPCB), New Delhi, India",
-        "description": "Routine monitoring of Yamuna water quality study on monthly basis.",
-        "page": "Page 1, Abstract; Page 2, Materials and methods"
+        "description": "Routine monitoring data of Yamuna River water quality",
+        "page": "1, 2"
       }
     ]
   },
   "sites": [
     {
       "id": "S1",
-      "description": "About 15 km upstream from Wazirabad barrage near cremation ground. This location reflects the water quality before receiving wastewater discharges from Delhi and raw water quality for Delhi's water supply, and also reflects the impact of domestic and industrial discharges from Sonepat District of Haryana.",
+      "description": "Palla, about 15 km upstream from Wazirabad barrage near cremation ground. This location reflects the water quality before receiving wastewater discharges from Delhi and raw water quality for Delhi's water supply. It also reflects the impact of domestic and industrial discharges from Sonepat District of Haryana.",
       "latitude": null,
       "longitude": null,
-      "matrix": "River water",
-      "sample_type": "Routine monitoring",
+      "matrix": "water",
+      "sample_type": "river water",
       "source_quote": "Palla: About 15 km upstream from Wazirabad barrage near cremation ground. Sampling at this location reflects the water quality before receiving the wastewater discharges from Delhi and raw water quality for Delhi's water supply. Water quality at this location also reflects the impact of domestic and industrial discharges from Sonepat District of Haryana.",
       "source_location": "Page 3, Site descriptions"
     },
     {
       "id": "S2",
-      "description": "13 km downstream from Wazirabad barrage (near Sarai Kale Khan bus stand) at Delhi-Ghaziabad (Noida) Road Bridge on Yamuna River. This location reflects the impact of wastewater discharge. Nizamuddin Bridge Midstream and Nizamuddin Bridge Quarter Stream were within few meters, chosen for accuracy of pollution load at selected stretch.",
+      "description": "Nizamuddin Bridge Midstream (NMS), 13 km downstream from Wazirabad barrage (near Sarai Kale Khan bus stand) at Delhi-Ghaziabad (Noida) Road Bridge on Yamuna River. The water quality at this location reflects the impact of wastewater discharge. It is located within a few meters of Nizamuddin Bridge Quarter Stream.",
       "latitude": null,
       "longitude": null,
-      "matrix": "River water",
-      "sample_type": "Routine monitoring",
+      "matrix": "water",
+      "sample_type": "river water",
       "source_quote": "Nizamuddin Bridge Midstream and Nizamuddin Bridge Quarter Stream: 13 km downstream from Wazirabad barrage (near Sarai Kale Khan bus stand) at Delhi-Ghaziabad (Noida) Road Bridge on Yamuna River. The water quality at this location reflects the impact of wastewater discharge. Nizamuddin Bridge Midstream and Nizamuddin Bridge Quarter Stream were within few meters. These two sampling locations have been chosen for accuracy of pollution load at selected stretch.",
       "source_location": "Page 3, Site descriptions"
     },
     {
       "id": "S3",
-      "description": "13 km downstream from Wazirabad barrage (near Sarai Kale Khan bus stand) at Delhi-Ghaziabad (Noida) Road Bridge on Yamuna River. This location reflects the impact of wastewater discharge. Nizamuddin Bridge Midstream and Nizamuddin Bridge Quarter Stream were within few meters, chosen for accuracy of pollution load at selected stretch.",
+      "description": "Nizamuddin Bridge Quarter Stream (NQS), 13 km downstream from Wazirabad barrage (near Sarai Kale Khan bus stand) at Delhi-Ghaziabad (Noida) Road Bridge on Yamuna River. The water quality at this location reflects the impact of wastewater discharge. It is located within a few meters of Nizamuddin Bridge Midstream.",
       "latitude": null,
       "longitude": null,
-      "matrix": "River water",
-      "sample_type": "Routine monitoring",
+      "matrix": "water",
+      "sample_type": "river water",
       "source_quote": "Nizamuddin Bridge Midstream and Nizamuddin Bridge Quarter Stream: 13 km downstream from Wazirabad barrage (near Sarai Kale Khan bus stand) at Delhi-Ghaziabad (Noida) Road Bridge on Yamuna River. The water quality at this location reflects the impact of wastewater discharge. Nizamuddin Bridge Midstream and Nizamuddin Bridge Quarter Stream were within few meters. These two sampling locations have been chosen for accuracy of pollution load at selected stretch.",
       "source_location": "Page 3, Site descriptions"
     },
     {
       "id": "S4",
-      "description": "24 km downstream from Wazirabad barrage and East of Delhi-Agra national highway near Madanpur Khaddar village. This location reflects the impact of discharge of treated and partially treated effluents from Okhla Sewage treatment Plant. Agra Canal Midstream and Agra Canal Quarter Stream were within few meters.",
+      "description": "Agra Canal Midstream (ACMS), 24 km downstream from Wazirabad barrage and East of Delhi-Agra national highway near Madanpur Khaddar village. The water quality at this location reflects the impact of discharge of treated and partially treated effluents from Okhla Sewage treatment Plant. It is located within a few meters of Agra Canal Quarter Stream.",
       "latitude": null,
       "longitude": null,
-      "matrix": "River water",
-      "sample_type": "Routine monitoring",
-      "source_quote": "Agra Canal Midstream and Agra Canal Quarter Stream: 24 km downstream from Wazirabad barrage and East of Delhi-Agra national highway near Madanpur Khaddar village. The water quality at this location reflects the impact of discharge of treated and partially treated effluents from Okhla Sewage treatment Plant. Agra Canal Midstream and Agra Canal Quarter Stream were within few meters.",
+      "matrix": "water",
+      "sample_type": "river water",
+      "source_quote": "Agra Canal Midstream and Agra Canal Quarter Stream: 24 km downstream from Wazirabad barrage and East of Delhi-Agra national highway near Madanpur Khaddar village. The water quality at this location reflects the impact of discharge of treated and partially treated effluents from Okhla Sewage treatment Plant. Agra Canal Midstream and Agra Canal Quarter Stream were within few meters. These two sampling locations have been chosen for accuracy of pollution load at selected stretch.",
       "source_location": "Page 3, Site descriptions"
     },
     {
       "id": "S5",
-      "description": "24 km downstream from Wazirabad barrage and East of Delhi-Agra national highway near Madanpur Khaddar village. This location reflects the impact of discharge of treated and partially treated effluents from Okhla Sewage treatment Plant. Agra Canal Midstream and Agra Canal Quarter Stream were within few meters.",
+      "description": "Agra Canal Quarter Stream (ACQS), 24 km downstream from Wazirabad barrage and East of Delhi-Agra national highway near Madanpur Khaddar village. The water quality at this location reflects the impact of discharge of treated and partially treated effluents from Okhla Sewage treatment Plant. It is located within a few meters of Agra Canal Midstream.",
       "latitude": null,
       "longitude": null,
-      "matrix": "River water",
-      "sample_type": "Routine monitoring",
-      "source_quote": "Agra Canal Midstream and Agra Canal Quarter Stream: 24 km downstream from Wazirabad barrage and East of Delhi-Agra national highway near Madanpur Khaddar village. The water quality at this location reflects the impact of discharge of treated and partially treated effluents from Okhla Sewage treatment Plant. Agra Canal Midstream and Agra Canal Quarter Stream were within few meters.",
+      "matrix": "water",
+      "sample_type": "river water",
+      "source_quote": "Agra Canal Midstream and Agra Canal Quarter Stream: 24 km downstream from Wazirabad barrage and East of Delhi-Agra national highway near Madanpur Khaddar village. The water quality at this location reflects the impact of discharge of treated and partially treated effluents from Okhla Sewage treatment Plant. Agra Canal Midstream and Agra Canal Quarter Stream were within few meters. These two sampling locations have been chosen for accuracy of pollution load at selected stretch.",
       "source_location": "Page 3, Site descriptions"
     }
   ],
@@ -98,7 +98,7 @@
     },
     {
       "id": "P5",
-      "name": "Total Kjeldahl nitrogen",
+      "name": "Kjeldahl nitrogen",
       "name_as_reported": "Kjeldahl nitrogen",
       "cas_number": null,
       "category": null,
@@ -125,8 +125,8 @@
     "time_periods": [
       "2000-2005"
     ],
-    "sampling_dates": "Data collected monthly during the period of 2000-2005.",
-    "granularity": "Monthly"
+    "sampling_dates": null,
+    "granularity": "monthly"
   },
-  "extraction_notes": "No explicit latitude or longitude coordinates were provided for the sampling sites. CAS numbers and parameter categories were not reported in the paper. The sample type is inferred as 'routine monitoring' based on the description of data collection by CPCB."
+  "extraction_notes": "No explicit latitude and longitude coordinates were provided for the sampling sites. The matrix is assumed to be 'water' and sample type 'river water' based on the study context of Yamuna River water quality monitoring."
 }

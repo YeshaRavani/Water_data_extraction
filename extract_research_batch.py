@@ -18,6 +18,21 @@ DEFAULT_RESEARCH_DIR = Path("research")
 DEFAULT_OUTPUT_DIR = Path("output/research_batch")
 DEFAULT_DB_PATH = DEFAULT_OUTPUT_DIR / "measurements.db"
 SCHEMA_SQL_PATH = Path("schemas/research_measurements.sql")
+ILLEGAL_TEXT_RE = re.compile(r"[\x00-\x08\x0b-\x0c\x0e-\x1f]")
+FINAL_STAGE2_COLUMNS = [
+    ("location", "Location(actual name not some legend thing)"),
+    ("date", "Date"),
+    ("month", "Month"),
+    ("year", "Year"),
+    ("season", "Season"),
+    ("parameter", "Parameter"),
+    ("actual_value", "Actual Value"),
+    ("mean", "Mean"),
+    ("std_dev", "Std Dev"),
+    ("unit", "Unit"),
+    ("source", "Source"),
+    ("notes", "Notes/Extraction Remark"),
+]
 
 
 STAGE1_SCHEMA: dict[str, Any] = {
@@ -130,40 +145,32 @@ STAGE2_SCHEMA: dict[str, Any] = {
             "items": {
                 "type": "object",
                 "properties": {
-                    "site_id": {"type": ["string", "null"]},
-                    "parameter_id": {"type": ["string", "null"]},
-                    "time_period": {"type": ["string", "null"]},
-                    "raw_value": {"type": ["number", "null"]},
-                    "mean_value": {"type": ["number", "null"]},
+                    "location": {"type": "string"},
+                    "date": {"type": ["string", "null"]},
+                    "month": {"type": ["string", "null"]},
+                    "year": {"type": ["integer", "null"]},
+                    "season": {"type": ["string", "null"]},
+                    "parameter": {"type": "string"},
+                    "actual_value": {"type": ["string", "null"]},
+                    "mean": {"type": ["number", "null"]},
                     "std_dev": {"type": ["number", "null"]},
-                    "min_value": {"type": ["number", "null"]},
-                    "max_value": {"type": ["number", "null"]},
-                    "n_observations": {"type": ["integer", "null"]},
-                    "aggregation_level": {"type": ["string", "null"]},
-                    "limit_qualifier": {"type": ["string", "null"], "enum": ["<", ">", "=", None]},
-                    "detection_limit": {"type": ["number", "null"]},
                     "unit": {"type": ["string", "null"]},
-                    "original_source_citation": {"type": ["string", "null"]},
-                    "source_location": {"type": ["string", "null"]},
-                    "source_quote": {"type": ["string", "null"]},
+                    "source": {"type": ["string", "null"]},
+                    "notes": {"type": ["string", "null"]},
                 },
                 "required": [
-                    "site_id",
-                    "parameter_id",
-                    "time_period",
-                    "raw_value",
-                    "mean_value",
+                    "location",
+                    "date",
+                    "month",
+                    "year",
+                    "season",
+                    "parameter",
+                    "actual_value",
+                    "mean",
                     "std_dev",
-                    "min_value",
-                    "max_value",
-                    "n_observations",
-                    "aggregation_level",
-                    "limit_qualifier",
-                    "detection_limit",
                     "unit",
-                    "original_source_citation",
-                    "source_location",
-                    "source_quote",
+                    "source",
+                    "notes",
                 ],
                 "additionalProperties": False,
             },
@@ -223,6 +230,14 @@ def parse_args() -> argparse.Namespace:
         "--fail-fast",
         action="store_true",
         help="Stop on the first paper that fails instead of continuing.",
+    )
+    parser.add_argument(
+        "--combined-exports",
+        action="store_true",
+        help=(
+            "Also write combined measurements.csv, measurements.json, and measurements.xlsx "
+            "in the batch output directory. By default, only per-paper CSVs are written."
+        ),
     )
     return parser.parse_args()
 
@@ -286,21 +301,23 @@ Context from Stage 1:
 {stage1_json}
 
 Task:
-- Extract all quantitative measurements into normalized measurement records.
-- Use the Stage 1 site IDs and parameter IDs wherever possible.
+- Extract all quantitative measurements into normalized measurement records using this exact final schema:
+  Sr No., Location(actual name not some legend thing), Date, Month, Year, Season, Parameter, Actual Value, Mean, Std Dev, Unit, Source, Notes/Extraction Remark.
+- Do not output Sr No.; it is generated during export.
+- Use Stage 1 only as a lookup aid. The output location must be the real location/site/drain/station name, not an internal ID such as S1, P1, N1, site_id, or parameter_id, unless the paper provides no real name.
 - Be general enough to handle single values, means, ranges, mean plus/minus SD, detection limits, review-paper citations, and figure-derived values when the figure is clearly readable.
 
 Return only valid JSON matching the provided schema.
 
 Guidelines:
-- One record per unique (site, parameter, time_period, source_location) combination unless the paper clearly reports multiple distinct statistics that belong in the same record.
-- If a value is reported as mean plus/minus SD, fill mean_value and std_dev.
-- If a value is reported as a range, fill min_value and max_value and keep raw_value null unless the paper also gives a single main value.
-- If the paper reports only one number for a cell, put it in raw_value.
-- When value is ND, BDL, below detection limit, or similar, keep the value fields null, set limit_qualifier to "<" if appropriate, and fill detection_limit when available.
-- source_quote must be verbatim from the paper when possible.
-- source_location must identify the table, figure, appendix, or section.
-- If a site or parameter cannot be mapped confidently, use null and report the ambiguity in extraction_issues.
+- One record per unique (location, date/month/year/season, parameter, source) combination unless the paper clearly reports multiple distinct statistics that belong in the same record.
+- Split time into Date, Month, Year, and Season. If the paper gives "Jan 2021", set month="Jan" and year=2021. If it gives "Pre-monsoon 2022", set season="Pre-monsoon" and year=2022. Leave unavailable time fields null.
+- Preserve the reported cell in actual_value as text. This includes single values, ranges, ND/BDL, < values, and mean +/- SD strings.
+- If a value is reported as mean plus/minus SD, fill mean and std_dev as numeric values and keep the original reported value in actual_value when useful.
+- If a value is reported as a range, keep the range in actual_value and describe any interpretation in notes.
+- Source must identify the table, figure, appendix, graph, or text section.
+- Put short source quotes, uncertainty, inferred units, mapped site legends, BDL/detection-limit details, and other caveats in notes.
+- If a location or parameter cannot be mapped confidently, use the best visible text and report the ambiguity in extraction_issues.
 - Do not invent rows or expand partial evidence into a full grid.
 """.strip()
 
@@ -341,14 +358,73 @@ def clean_model_json(text: str) -> str:
     cleaned = re.sub(r"\bNaN\b", "null", cleaned)
     cleaned = re.sub(r"\bInfinity\b", "null", cleaned)
     cleaned = re.sub(r"\b-Infinity\b", "null", cleaned)
+    cleaned = cleaned.replace("\\b", "")
+    cleaned = ILLEGAL_TEXT_RE.sub("", cleaned)
     return cleaned
+
+
+def clean_text_values(value: Any) -> Any:
+    if isinstance(value, str):
+        return ILLEGAL_TEXT_RE.sub("", value)
+    if isinstance(value, list):
+        return [clean_text_values(item) for item in value]
+    if isinstance(value, dict):
+        return {key: clean_text_values(item) for key, item in value.items()}
+    return value
+
+
+def recover_measurements_prefix(cleaned: str) -> dict[str, Any] | None:
+    measurements_key = cleaned.find('"measurements"')
+    if measurements_key < 0:
+        return None
+
+    array_start = cleaned.find("[", measurements_key)
+    if array_start < 0:
+        return None
+
+    decoder = json.JSONDecoder()
+    records: list[dict[str, Any]] = []
+    index = array_start + 1
+    while index < len(cleaned):
+        while index < len(cleaned) and cleaned[index] in " \r\n\t,":
+            index += 1
+        if index >= len(cleaned) or cleaned[index] == "]":
+            break
+        if cleaned[index] != "{":
+            break
+        try:
+            record, next_index = decoder.raw_decode(cleaned, index)
+        except json.JSONDecodeError:
+            break
+        if isinstance(record, dict):
+            records.append(record)
+        index = next_index
+
+    if not records:
+        return None
+
+    return {
+        "measurements": records,
+        "extraction_issues": [
+            {
+                "location": None,
+                "issue": (
+                    "Recovered completed measurement records from a model response "
+                    "that ended with invalid JSON."
+                ),
+            }
+        ],
+    }
 
 
 def parse_model_json(text: str, debug_path: Path | None) -> dict[str, Any]:
     cleaned = clean_model_json(text)
     try:
-        return json.loads(cleaned)
+        return clean_text_values(json.loads(cleaned))
     except json.JSONDecodeError as exc:
+        recovered = recover_measurements_prefix(cleaned)
+        if recovered is not None:
+            return clean_text_values(recovered)
         if debug_path is not None:
             debug_path.parent.mkdir(parents=True, exist_ok=True)
             debug_path.write_text(
@@ -387,26 +463,32 @@ def validate_stage2(stage2_output: dict[str, Any]) -> list[str]:
         issues.append("No measurements found.")
         return issues
 
-    missing_sources = sum(
-        1 for measurement in measurements if not measurement.get("source_location") or not measurement.get("source_quote")
-    )
+    missing_sources = sum(1 for measurement in measurements if not measurement.get("source"))
     if missing_sources:
-        issues.append(f"{missing_sources} measurements are missing source verification fields.")
+        issues.append(f"{missing_sources} measurements are missing source fields.")
 
     missing_values = 0
     for measurement in measurements:
         numeric_fields = [
-            measurement.get("raw_value"),
-            measurement.get("mean_value"),
+            measurement.get("actual_value"),
+            measurement.get("mean"),
             measurement.get("std_dev"),
-            measurement.get("min_value"),
-            measurement.get("max_value"),
-            measurement.get("detection_limit"),
         ]
-        if all(value is None for value in numeric_fields):
+        if all(value in (None, "") for value in numeric_fields):
             missing_values += 1
     if missing_values == len(measurements):
         issues.append("All extracted measurements are missing numeric content.")
+
+    legend_locations = sum(
+        1
+        for measurement in measurements
+        if isinstance(measurement.get("location"), str)
+        and re.fullmatch(r"[A-Za-z]{0,3}\d+", measurement["location"].strip())
+    )
+    if legend_locations:
+        issues.append(
+            f"{legend_locations} measurements appear to use legend IDs instead of actual location names."
+        )
     return issues
 
 
@@ -491,10 +573,10 @@ def init_database(db_path: Path) -> sqlite3.Connection:
     return conn
 
 
-def build_note(source_quote: str | None, source_issue_text: str | None) -> str | None:
+def build_note(notes: str | None, source_issue_text: str | None) -> str | None:
     parts = []
-    if source_quote:
-        parts.append(f"source_quote: {source_quote}")
+    if notes:
+        parts.append(notes)
     if source_issue_text:
         parts.append(f"issues: {source_issue_text}")
     if not parts:
@@ -507,10 +589,6 @@ def insert_measurements(
     stage1: dict[str, Any],
     stage2: dict[str, Any],
 ) -> int:
-    sites_by_id = {site["id"]: site for site in stage1.get("sites", [])}
-    params_by_id = {parameter["id"]: parameter for parameter in stage1.get("parameters", [])}
-    paper_citation = stage1.get("paper_overview", {}).get("citation")
-    time_granularity = stage1.get("temporal_coverage", {}).get("granularity")
     extraction_issues = stage2.get("extraction_issues", [])
     issue_text = "; ".join(
         f"{issue.get('location')}: {issue.get('issue')}" for issue in extraction_issues if issue.get("issue")
@@ -520,68 +598,37 @@ def insert_measurements(
     inserted = 0
 
     for measurement in stage2.get("measurements", []):
-        site = sites_by_id.get(measurement.get("site_id"), {})
-        parameter = params_by_id.get(measurement.get("parameter_id"), {})
-        parameter_name = (
-            parameter.get("name")
-            or parameter.get("name_as_reported")
-            or measurement.get("parameter_id")
-            or "unknown_parameter"
-        )
+        measurement = clean_text_values(measurement)
         cursor.execute(
             """
             INSERT INTO measurements (
-                paper_citation,
-                original_source_citation,
-                source_location,
-                site_description,
-                latitude,
-                longitude,
-                parameter_name,
-                cas_number,
-                category,
-                matrix,
-                sample_type,
-                time_period,
-                time_granularity,
-                raw_value,
-                mean_value,
+                location,
+                date,
+                month,
+                year,
+                season,
+                parameter,
+                actual_value,
+                mean,
                 std_dev,
-                min_value,
-                max_value,
-                n_observations,
-                aggregation_level,
-                limit_qualifier,
-                detection_limit,
                 unit,
+                source,
                 notes
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
-                paper_citation,
-                measurement.get("original_source_citation"),
-                measurement.get("source_location"),
-                site.get("description"),
-                site.get("latitude"),
-                site.get("longitude"),
-                parameter_name,
-                parameter.get("cas_number"),
-                parameter.get("category"),
-                site.get("matrix"),
-                site.get("sample_type"),
-                measurement.get("time_period"),
-                time_granularity,
-                measurement.get("raw_value"),
-                measurement.get("mean_value"),
+                measurement.get("location") or "Unknown location",
+                measurement.get("date"),
+                measurement.get("month"),
+                measurement.get("year"),
+                measurement.get("season"),
+                measurement.get("parameter") or "unknown_parameter",
+                measurement.get("actual_value"),
+                measurement.get("mean"),
                 measurement.get("std_dev"),
-                measurement.get("min_value"),
-                measurement.get("max_value"),
-                measurement.get("n_observations"),
-                measurement.get("aggregation_level"),
-                measurement.get("limit_qualifier"),
-                measurement.get("detection_limit"),
-                measurement.get("unit") or parameter.get("unit_as_reported"),
-                build_note(measurement.get("source_quote"), issue_text),
+                measurement.get("unit"),
+                measurement.get("source"),
+                build_note(measurement.get("notes"), issue_text),
             ),
         )
         inserted += 1
@@ -595,10 +642,61 @@ def save_json_output(data: dict[str, Any], output_path: Path) -> None:
     output_path.write_text(json.dumps(data, indent=2), encoding="utf-8")
 
 
+def stage2_to_dataframe(stage2: dict[str, Any]) -> pd.DataFrame:
+    rows: list[dict[str, Any]] = []
+    extraction_issues = stage2.get("extraction_issues", [])
+    issue_text = "; ".join(
+        f"{issue.get('location')}: {issue.get('issue')}"
+        for issue in extraction_issues
+        if isinstance(issue, dict) and issue.get("issue")
+    ) or None
+
+    for index, measurement in enumerate(stage2.get("measurements", []), start=1):
+        measurement = clean_text_values(measurement)
+        row = {"Sr No.": index}
+        for key, label in FINAL_STAGE2_COLUMNS:
+            value = measurement.get(key)
+            if key == "notes":
+                value = build_note(value, issue_text)
+            row[label] = clean_text_values(value)
+        rows.append(row)
+
+    return pd.DataFrame(
+        rows,
+        columns=["Sr No.", *[label for _, label in FINAL_STAGE2_COLUMNS]],
+    )
+
+
+def save_stage2_csv(stage2: dict[str, Any], output_path: Path) -> None:
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    stage2_to_dataframe(stage2).to_csv(output_path, index=False)
+
+
 def export_database_tables(db_path: Path, output_dir: Path) -> None:
     conn = sqlite3.connect(db_path)
-    df = pd.read_sql_query("SELECT * FROM measurements ORDER BY paper_citation, source_location, parameter_name", conn)
+    df = pd.read_sql_query(
+        """
+        SELECT
+            sr_no AS "Sr No.",
+            location AS "Location(actual name not some legend thing)",
+            date AS "Date",
+            month AS "Month",
+            year AS "Year",
+            season AS "Season",
+            parameter AS "Parameter",
+            actual_value AS "Actual Value",
+            mean AS "Mean",
+            std_dev AS "Std Dev",
+            unit AS "Unit",
+            source AS "Source",
+            notes AS "Notes/Extraction Remark"
+        FROM measurements
+        ORDER BY sr_no
+        """,
+        conn,
+    )
     conn.close()
+    df = df.map(clean_text_values)
 
     csv_path = output_dir / "measurements.csv"
     json_path = output_dir / "measurements.json"
@@ -633,6 +731,7 @@ def process_pdf(
 
     stage2 = run_stage2(client, uploaded_file, pdf_path, stage1, model_name, paper_output_dir)
     save_json_output(stage2, paper_output_dir / "stage2.json")
+    save_stage2_csv(stage2, paper_output_dir / "stage2.csv")
 
     inserted = insert_measurements(conn, stage1, stage2)
     return {
@@ -696,7 +795,8 @@ def main() -> None:
 
     summary_path = output_dir / "summary.json"
     save_json_output({"papers": summary}, summary_path)
-    export_database_tables(db_path, output_dir)
+    if args.combined_exports:
+        export_database_tables(db_path, output_dir)
 
     total_measurements = sum(item["measurements"] for item in summary)
     failed_papers = sum(1 for item in summary if item["status"] == "failed")
@@ -704,7 +804,9 @@ def main() -> None:
     print(f"Failed papers: {failed_papers}")
     print(f"Total measurements inserted: {total_measurements}")
     print(f"SQLite database: {db_path}")
-    print(f"Combined outputs written to: {output_dir}")
+    print(f"Per-paper outputs written under: {output_dir}")
+    if args.combined_exports:
+        print(f"Combined exports written to: {output_dir}")
 
 
 if __name__ == "__main__":

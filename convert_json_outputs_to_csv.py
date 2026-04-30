@@ -9,6 +9,20 @@ import pandas as pd
 
 
 DEFAULT_INPUT_DIR = Path("output/research_batch")
+FINAL_MEASUREMENT_COLUMNS = [
+    ("location", "Location(actual name not some legend thing)"),
+    ("date", "Date"),
+    ("month", "Month"),
+    ("year", "Year"),
+    ("season", "Season"),
+    ("parameter", "Parameter"),
+    ("actual_value", "Actual Value"),
+    ("mean", "Mean"),
+    ("std_dev", "Std Dev"),
+    ("unit", "Unit"),
+    ("source", "Source"),
+    ("notes", "Notes/Extraction Remark"),
+]
 
 
 def parse_args() -> argparse.Namespace:
@@ -41,14 +55,22 @@ def to_dataframe(data: Any) -> pd.DataFrame:
 
     if "measurements" in data and isinstance(data["measurements"], list):
         measurements_df = pd.json_normalize(data["measurements"], sep=".")
-        if "extraction_issues" in data:
+        if set(key for key, _ in FINAL_MEASUREMENT_COLUMNS).issubset(measurements_df.columns):
+            measurements_df = measurements_df[[key for key, _ in FINAL_MEASUREMENT_COLUMNS]].rename(
+                columns=dict(FINAL_MEASUREMENT_COLUMNS)
+            )
+            measurements_df.insert(0, "Sr No.", range(1, len(measurements_df) + 1))
             issue_text = "; ".join(
                 f"{issue.get('location')}: {issue.get('issue')}"
                 for issue in data.get("extraction_issues", [])
                 if isinstance(issue, dict) and (issue.get("location") or issue.get("issue"))
             )
             if issue_text:
-                measurements_df["extraction_issues"] = issue_text
+                notes_col = "Notes/Extraction Remark"
+                existing_notes = measurements_df[notes_col].fillna("").astype(str)
+                measurements_df[notes_col] = existing_notes.apply(
+                    lambda note: f"{note} | issues: {issue_text}" if note else f"issues: {issue_text}"
+                )
         return measurements_df
 
     if {

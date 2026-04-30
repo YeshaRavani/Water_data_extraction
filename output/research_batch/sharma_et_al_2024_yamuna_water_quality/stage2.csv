@@ -1,207 +1,207 @@
-site_id,parameter_id,time_period,raw_value,mean_value,std_dev,min_value,max_value,n_observations,aggregation_level,limit_qualifier,detection_limit,unit,original_source_citation,source_location,source_quote
-S1,P2,2020-2021,7.4,,,,,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.4
-S1,P3,2020-2021,10.8,,,,,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",10.8
-S1,P4,2020-2021,79.0,,,,,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",79
-S1,P5,2020-2021,,,,,,,yearly,<,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL
-S1,P6,2020-2021,4.0,,,,,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",4
-S1,P7,2020-2021,4.0,,,,,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",4
-S2,P2,2020-2021,7.9,,,,,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.9
-S2,P3,2020-2021,11.6,,,,,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",11.6
-S2,P4,2020-2021,145.0,,,,,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",145
-S2,P5,2020-2021,,,,,,,yearly,<,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL
-S2,P6,2020-2021,94.0,,,,,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",94
-S2,P7,2020-2021,140.0,,,,,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",140
-S3,P1,2020-2021,,,,16.0,22.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",16-22
-S3,P2,2020-2021,,,,7.7,8.4,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.7-8.4
-S3,P3,2020-2021,,,,8.6,10.8,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",8.6-10.8
-S3,P4,2020-2021,,,,142.0,320.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",142-320
-S3,P5,2020-2021,,,,0.8,1.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",0.8-1.0
-S3,P6,2020-2021,,,,2.0,9.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2-9
-S3,P7,2020-2021,,,,2.0,30.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2-30
-S4,P1,2020-2021,,,,17.0,24.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",17-24
-S4,P2,2020-2021,,,,8.0,8.2,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",8.0-8.2
-S4,P3,2020-2021,,,,8.2,10.2,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",8.2-10.2
-S4,P4,2020-2021,,,,106.0,162.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",106-162
-S4,P5,2020-2021,,,,1.0,1.2,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1.0-1.2
-S4,P6,2020-2021,,,,17.0,34.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",17-34
-S4,P7,2020-2021,,,,40.0,70.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",40-70
-S5,P1,2020-2021,,,,13.0,28.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",13-28
-S5,P2,2020-2021,,,,6.4,8.0,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.4-8.0
-S5,P3,2020-2021,,,,7.1,9.1,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-9.1
-S5,P4,2020-2021,,,,214.0,5866.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",214-5866
-S5,P5,2020-2021,,,,0.4,1.8,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",0.4-1.8
-S5,P6,2020-2021,,,,9.0,46.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",9-46
-S5,P7,2020-2021,,,,32.0,140.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",32-140
-S6,P1,2020-2021,,,,11.0,31.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",11-31
-S6,P2,2020-2021,,,,6.6,7.7,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.6-7.7
-S6,P3,2020-2021,,,,7.0,9.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.0-9.0
-S6,P4,2020-2021,,,,248.0,448.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",248-448
-S6,P5,2020-2021,,,,0.4,2.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",0.4-2.0
-S6,P6,2020-2021,,,,11.0,27.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",11-27
-S6,P7,2020-2021,,,,38.0,94.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",38-94
-S7,P1,2020-2021,,,,16.0,34.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",16-34
-S7,P2,2020-2021,,,,7.0,7.6,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.0-7.6
-S7,P3,2020-2021,,,,7.1,8.9,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-8.9
-S7,P4,2020-2021,,,,162.0,605.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",162-605
-S7,P5,2020-2021,,,,0.4,1.6,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",0.4-1.6
-S7,P6,2020-2021,,,,10.0,13.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",10-13
-S7,P7,2020-2021,,,,32.0,94.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",32-94
-S8,P1,2020-2021,,,,16.0,34.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",16-34
-S8,P2,2020-2021,,,,7.0,7.6,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.0-7.6
-S8,P3,2020-2021,,,,7.0,8.8,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.0-8.8
-S8,P4,2020-2021,,,,161.0,2593.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",161-2593
-S8,P5,2020-2021,,,,0.4,1.8,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",0.4-1.8
-S8,P6,2020-2021,,,,10.0,33.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",10-33
-S8,P7,2020-2021,,,,33.0,110.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",33-110
-S9,P1,2020-2021,,,,21.0,29.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",21-29
-S9,P2,2020-2021,,,,7.3,8.3,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.3-8.3
-S9,P3,2020-2021,,,,7.1,8.5,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-8.5
-S9,P4,2020-2021,,,,192.0,620.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",192-620
-S9,P5,2020-2021,,,,2.4,6.6,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2.4-6.6
-S9,P6,2020-2021,,,,200.0,3200.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",200-3200
-S9,P7,2020-2021,,,,1100.0,21200.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1100-21200
-S10,P1,2020-2021,,,,19.0,29.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",19-29
-S10,P2,2020-2021,,,,7.2,8.3,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.2-8.3
-S10,P3,2020-2021,,,,6.8,9.3,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.8-9.3
-S10,P4,2020-2021,,,,197.0,608.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",197-608
-S10,P5,2020-2021,,,,2.2,5.2,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2.2-5.2
-S10,P6,2020-2021,,,,200.0,49000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",200-49000
-S10,P7,2020-2021,,,,3900.0,1600000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",3900-1600000
-S11,P2,2020-2021,,,,7.2,8.5,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.2-8.5
-S11,P3,2020-2021,,,,5.2,10.8,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",5.2-10.8
-S11,P4,2020-2021,,,,157.0,451.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",157-451
-S11,P5,2020-2021,,,,,4.0,,yearly,<,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL-4.0
-S11,P6,2020-2021,,,,49.0,7000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",49-7000
-S11,P7,2020-2021,,,,230.0,35000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",230-35000
-S12,P1,2020-2021,,,,21.0,29.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",21-29
-S12,P2,2020-2021,,,,6.6,8.4,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.6-8.4
-S12,P3,2020-2021,,,,5.0,8.4,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",5.0-8.4
-S12,P4,2020-2021,,,,255.0,942.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",255-942
-S12,P5,2020-2021,,,,1.4,7.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1.4-7.0
-S12,P6,2020-2021,,,,90.0,70000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",90-70000
-S12,P7,2020-2021,,,,270.0,278000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",270-278000
-S13,P1,2020-2021,,,,14.0,35.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",14-35
-S13,P2,2020-2021,,,,6.5,8.6,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.5-8.6
-S13,P3,2020-2021,,,,7.1,10.6,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-10.6
-S13,P4,2020-2021,,,,235.0,683.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",235-683
-S13,P5,2020-2021,,,,1.8,5.5,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1.8-5.5
-S13,P6,2020-2021,,,,110.0,220000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",110-220000
-S13,P7,2020-2021,,,,330.0,1600000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",330-1600000
-S14,P1,2020-2021,,,,16.0,33.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",16-33
-S14,P2,2020-2021,,,,7.6,9.0,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.6-9.0
-S14,P3,2020-2021,,,,5.6,17.1,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",5.6-17.1
-S14,P4,2020-2021,,,,273.0,789.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",273-789
-S14,P5,2020-2021,,,,1.4,7.9,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1.4-7.9
-S14,P6,2020-2021,,,,78.0,79000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","78-79,000"
-S14,P7,2020-2021,,,,330.0,350000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",330-350000
-S15,P1,2020-2021,,,,13.0,31.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",13-31
-S15,P2,2020-2021,,,,7.1,7.9,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-7.9
-S15,P3,2020-2021,,,,,2.4,,yearly,<,3.0,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL-2.4
-S15,P4,2020-2021,,,,460.0,1641.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",460-1641
-S15,P5,2020-2021,,,,5.6,57.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",5.6-57.0
-S15,P6,2020-2021,,,,210000.0,11000000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","210,000-11000000"
-S15,P7,2020-2021,,,,700000.0,28000000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","700,000-28000000"
-S16,P1,2020-2021,,,,15.0,31.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",15-31
-S16,P2,2020-2021,,,,7.1,7.9,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-7.9
-S16,P3,2020-2021,,,,,2.6,,yearly,<,3.0,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL-2.6
-S16,P4,2020-2021,,,,488.0,1526.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",488-1526
-S16,P5,2020-2021,,,,5.6,27.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",5.6-27.0
-S16,P6,2020-2021,,,,78000.0,3300000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","78,000-3300000"
-S16,P7,2020-2021,,,,350000.0,16000000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","350,000-16000000"
-S17,P1,2020-2021,,,,15.0,33.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",15-33
-S17,P2,2020-2021,,,,7.2,7.8,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.2-7.8
-S17,P3,2020-2021,,,,3.0,5.6,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL-5.6
-S17,P4,2020-2021,,,,499.0,1773.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",499-1773
-S17,P5,2020-2021,,,,7.7,114.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.7-114.0
-S17,P6,2020-2021,,,,68000.0,7900000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","68,000-7900000"
-S17,P7,2020-2021,,,,490000.0,35000000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","490,000-35000000"
-S18,P1,2020-2021,,,,15.0,31.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",15-31
-S18,P2,2020-2021,,,,7.1,7.8,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-7.8
-S18,P3,2020-2021,,,,,1.4,,yearly,<,3.0,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL-1.4
-S18,P4,2020-2021,,,,573.0,1541.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",573-1541
-S18,P5,2020-2021,,,,11.4,32.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",11.4-32
-S18,P6,2020-2021,,,,330000.0,4900000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","330,000-4900000"
-S18,P7,2020-2021,,,,1100000.0,24000000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","1,100,000-24000000"
-S19,P1,2020-2021,14.0,,,,,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",14
-S19,P2,2020-2021,,,,6.4,8.1,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.4-8.1
-S19,P3,2020-2021,,,,,2.3,,yearly,<,3.0,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL-2.3
-S19,P4,2020-2021,,,,978.0,1719.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",978-1719
-S19,P5,2020-2021,,,,8.7,59.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",8.7-59.0
-S19,P6,2020-2021,,,,680.0,4900000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",680-4900000
-S19,P7,2020-2021,,,,3300.0,9200000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",3300-9200000
-S20,P1,2020-2021,,,,14.0,32.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",14-32
-S20,P2,2020-2021,,,,7.1,7.5,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-7.5
-S20,P3,2020-2021,,,,4.6,6.9,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",4.6-6.9
-S20,P5,2020-2021,,,,5.8,10.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",5.8-10.0
-S20,P6,2020-2021,,,,31000.0,85000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","31,000-85000"
-S20,P7,2020-2021,,,,53000.0,110000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","53,000-110000"
-S21,P1,2020-2021,,,,15.0,32.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",15-32
-S21,P2,2020-2021,,,,7.1,7.6,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.1-7.6
-S21,P3,2020-2021,,,,4.0,7.6,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",4.0-7.6
-S21,P5,2020-2021,,,,6.0,10.4,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.0-10.4
-S21,P6,2020-2021,,,,24000.0,65000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","24,000-65000"
-S21,P7,2020-2021,,,,46000.0,88000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","46,000-88000"
-S22,P1,2020-2021,13.0,,,,,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",13
-S22,P2,2020-2021,,,,6.5,8.5,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.5-8.5
-S22,P3,2020-2021,,,,3.0,4.6,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",BDL-4.6
-S22,P4,2020-2021,,,,1096.0,1816.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1096-1816
-S22,P5,2020-2021,,,,7.3,30.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.3-30.0
-S22,P6,2020-2021,,,,400.0,920000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",400-920000
-S22,P7,2020-2021,,,,1100.0,9200000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1100-9200000
-S23,P1,2020-2021,,,,14.0,32.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",14-32
-S23,P2,2020-2021,,,,6.9,7.6,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.9-7.6
-S23,P3,2020-2021,,,,4.1,7.4,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",4.1-7.4
-S23,P5,2020-2021,,,,6.8,12.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.8-12.0
-S23,P6,2020-2021,,,,31000.0,92000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","31,000-92000"
-S23,P7,2020-2021,,,,54000.0,140000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14","54,000-140000"
-S24,P1,2020-2021,12.0,,,,,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",12
-S24,P2,2020-2021,,,,6.5,8.3,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.5-8.3
-S24,P3,2020-2021,,,,1.6,6.8,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1.6-6.8
-S24,P4,2020-2021,,,,1195.0,1903.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1195-1903
-S24,P5,2020-2021,,,,6.9,21.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.9-21.0
-S24,P6,2020-2021,,,,1700.0,170000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1700-170000
-S24,P7,2020-2021,,,,2200.0,1400000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2200-1400000
-S25,P1,2020-2021,12.0,,,,,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",12
-S25,P2,2020-2021,,,,6.5,8.5,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.5-8.5
-S25,P3,2020-2021,,,,1.4,9.6,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1.4-9.6
-S25,P4,2020-2021,,,,1154.0,1872.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1154-1872
-S25,P5,2020-2021,,,,4.7,25.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",4.7-25.0
-S25,P6,2020-2021,,,,220.0,3300000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",220-3300000
-S25,P7,2020-2021,,,,2200.0,7900000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2200-7900000
-S26,P2,2020-2021,,,,6.5,8.7,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",6.5-8.7
-S26,P3,2020-2021,,,,3.8,16.2,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",3.8-16.2
-S26,P4,2020-2021,,,,875.0,1920.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",875-1920
-S26,P5,2020-2021,,,,9.1,25.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",9.1-25.0
-S26,P6,2020-2021,,,,450.0,6100000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",450-6100000
-S26,P7,2020-2021,,,,2200.0,32000000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2200-32000000
-S27,P2,2020-2021,,,,7.8,7.9,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.8-7.9
-S27,P3,2020-2021,,,,2.6,9.2,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2.6-9.2
-S27,P4,2020-2021,,,,1054.0,1471.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1054-1471
-S27,P5,2020-2021,,,,14.0,20.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",14.0-20.0
-S27,P6,2020-2021,,,,450.0,1400.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",450-1400
-S27,P7,2020-2021,,,,3300.0,13000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",3300-13000
-S28,P2,2020-2021,,,,7.7,7.9,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.7-7.9
-S28,P3,2020-2021,7.3,,,,,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.3-7.3
-S28,P4,2020-2021,,,,1288.0,1507.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1288-1507
-S28,P5,2020-2021,,,,13.0,15.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",13.0-15.0
-S28,P6,2020-2021,,,,20.0,200.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",20-200
-S28,P7,2020-2021,,,,1300.0,1700.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1300-1700
-S29,P2,2020-2021,,,,7.7,8.2,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.7-8.2
-S29,P3,2020-2021,,,,8.1,11.3,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",8.1-11.3
-S29,P4,2020-2021,,,,846.0,937.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",846-937
-S29,P5,2020-2021,,,,8.7,13.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",8.7-13.0
-S29,P6,2020-2021,,,,68.0,7800.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",68-7800
-S29,P7,2020-2021,,,,1700.0,220000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1700-220000
-S30,P2,2020-2021,,,,8.0,8.4,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",8.0-8.4
-S30,P3,2020-2021,,,,0.4,8.4,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",0.4-8.4
-S30,P4,2020-2021,,,,750.0,832.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",750-832
-S30,P5,2020-2021,,,,2.8,6.0,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",2.8-6.0
-S30,P6,2020-2021,,,,330.0,2200.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",330-2200
-S30,P7,2020-2021,,,,1300.0,13000.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1300-13000
-S31,P1,2020-2021,,,,22.0,27.0,,yearly,,,°C,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",22-27
-S31,P2,2020-2021,,,,7.8,8.4,,yearly,,,,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.8-8.4
-S31,P3,2020-2021,,,,7.3,11.5,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",7.3-11.5
-S31,P4,2020-2021,,,,418.0,725.0,,yearly,,,µmhos/cm,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",418-725
-S31,P5,2020-2021,,,,1.8,2.4,,yearly,,,mg/L,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1.8-2.4
-S31,P6,2020-2021,,,,310.0,2100.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",310-2100
-S31,P7,2020-2021,,,,1700.0,3900.0,,yearly,,,MPN/100 mL,CPCB 2020; CPCB 2021 annexure VI (a),"Table 7, page 14",1700-3900
+Sr No.,Location(actual name not some legend thing),Date,Month,Year,Season,Parameter,Actual Value,Mean,Std Dev,Unit,Source,Notes/Extraction Remark
+1,Yamunotri,,,2020,,pH,7.4,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). Location monitored on yearly basis.
+2,Yamunotri,,,2020,,Dissolved Oxygen,10.8,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote. Location monitored on yearly basis.
+3,Yamunotri,,,2020,,Electrical Conductivity,79,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). Location monitored on yearly basis.
+4,Yamunotri,,,2020,,Biochemical Oxygen Demand,BDL,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). Location monitored on yearly basis.
+5,Yamunotri,,,2020,,Fecal Coliform,4,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). Location monitored on yearly basis.
+6,Yamunotri,,,2020,,Total Coliform,4,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). Location monitored on yearly basis.
+7,Hanumanchatti,,,2020,,pH,7.9,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). Location monitored on yearly basis.
+8,Hanumanchatti,,,2020,,Dissolved Oxygen,11.6,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote. Location monitored on yearly basis.
+9,Hanumanchatti,,,2020,,Electrical Conductivity,145,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). Location monitored on yearly basis.
+10,Hanumanchatti,,,2020,,Biochemical Oxygen Demand,BDL,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). Location monitored on yearly basis.
+11,Hanumanchatti,,,2020,,Fecal Coliform,94,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). Location monitored on yearly basis.
+12,Hanumanchatti,,,2020,,Total Coliform,140,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). Location monitored on yearly basis.
+13,U/S Lakhwar Dam,,,2020,,Temperature,16-22,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+14,U/S Lakhwar Dam,,,2020,,pH,7.7-8.4,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+15,U/S Lakhwar Dam,,,2020,,Dissolved Oxygen,8.6-10.8,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+16,U/S Lakhwar Dam,,,2020,,Electrical Conductivity,142-320,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+17,U/S Lakhwar Dam,,,2020,,Biochemical Oxygen Demand,0.8-1.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+18,U/S Lakhwar Dam,,,2020,,Fecal Coliform,2-9,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+19,U/S Lakhwar Dam,,,2020,,Total Coliform,2-30,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+20,U/S Dak Patthar,,,2020,,Temperature,17-24,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+21,U/S Dak Patthar,,,2020,,pH,8.0-8.2,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+22,U/S Dak Patthar,,,2020,,Dissolved Oxygen,8.2-10.2,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+23,U/S Dak Patthar,,,2020,,Electrical Conductivity,106-162,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+24,U/S Dak Patthar,,,2020,,Biochemical Oxygen Demand,1.0-1.2,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+25,U/S Dak Patthar,,,2020,,Fecal Coliform,17-34,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+26,U/S Dak Patthar,,,2020,,Total Coliform,40-70,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+27,U/S Paonta Sahib,,,2020,,Temperature,13-28,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+28,U/S Paonta Sahib,,,2020,,pH,6.4-8.0,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+29,U/S Paonta Sahib,,,2020,,Dissolved Oxygen,7.1-9.1,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+30,U/S Paonta Sahib,,,2020,,Electrical Conductivity,214-5866,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+31,U/S Paonta Sahib,,,2020,,Biochemical Oxygen Demand,0.4-1.8,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+32,U/S Paonta Sahib,,,2020,,Fecal Coliform,9-46,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+33,U/S Paonta Sahib,,,2020,,Total Coliform,32-140,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+34,D/S Paonta Sahib,,,2020,,Temperature,11-31,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+35,D/S Paonta Sahib,,,2020,,pH,6.6-7.7,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+36,D/S Paonta Sahib,,,2020,,Dissolved Oxygen,7.0-9.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+37,D/S Paonta Sahib,,,2020,,Electrical Conductivity,248-448,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+38,D/S Paonta Sahib,,,2020,,Biochemical Oxygen Demand,0.4-2.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+39,D/S Paonta Sahib,,,2020,,Fecal Coliform,11-27,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+40,D/S Paonta Sahib,,,2020,,Total Coliform,38-94,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+41,U/S Ranbaxy,,,2020,,Temperature,16-34,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+42,U/S Ranbaxy,,,2020,,pH,7.0-7.6,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+43,U/S Ranbaxy,,,2020,,Dissolved Oxygen,7.1-8.9,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+44,U/S Ranbaxy,,,2020,,Electrical Conductivity,162-605,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+45,U/S Ranbaxy,,,2020,,Biochemical Oxygen Demand,0.4-1.6,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+46,U/S Ranbaxy,,,2020,,Fecal Coliform,10-13,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+47,U/S Ranbaxy,,,2020,,Total Coliform,32-94,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+48,D/S Ranbaxy,,,2020,,Temperature,16-34,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+49,D/S Ranbaxy,,,2020,,pH,7.0-7.6,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+50,D/S Ranbaxy,,,2020,,Dissolved Oxygen,7.0-8.8,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+51,D/S Ranbaxy,,,2020,,Electrical Conductivity,161-2593,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+52,D/S Ranbaxy,,,2020,,Biochemical Oxygen Demand,0.4-1.8,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+53,D/S Ranbaxy,,,2020,,Fecal Coliform,10-33,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+54,D/S Ranbaxy,,,2020,,Total Coliform,33-110,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+55,"Hathnikund, Yamunanagar",,,2020,,Temperature,21-29,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+56,"Hathnikund, Yamunanagar",,,2020,,pH,7.3-8.3,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+57,"Hathnikund, Yamunanagar",,,2020,,Dissolved Oxygen,7.1-8.5,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+58,"Hathnikund, Yamunanagar",,,2020,,Electrical Conductivity,192-620,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+59,"Hathnikund, Yamunanagar",,,2020,,Biochemical Oxygen Demand,2.4-6.6,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+60,"Hathnikund, Yamunanagar",,,2020,,Fecal Coliform,200-3200,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+61,"Hathnikund, Yamunanagar",,,2020,,Total Coliform,1100-21200,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+62,"Kalanaur, Yamunanagar",,,2020,,Temperature,19-29,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+63,"Kalanaur, Yamunanagar",,,2020,,pH,7.2-8.3,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+64,"Kalanaur, Yamunanagar",,,2020,,Dissolved Oxygen,6.8-9.3,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+65,"Kalanaur, Yamunanagar",,,2020,,Electrical Conductivity,197-608,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+66,"Kalanaur, Yamunanagar",,,2020,,Biochemical Oxygen Demand,2.2-5.2,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+67,"Kalanaur, Yamunanagar",,,2020,,Fecal Coliform,200-49000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+68,"Kalanaur, Yamunanagar",,,2020,,Total Coliform,3900-1600000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+69,Magalaura,,,2020,,pH,7.2-8.5,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+70,Magalaura,,,2020,,Dissolved Oxygen,5.2-10.8,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+71,Magalaura,,,2020,,Electrical Conductivity,157-451,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+72,Magalaura,,,2020,,Biochemical Oxygen Demand,BDL-4.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+73,Magalaura,,,2020,,Fecal Coliform,49-7000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+74,Magalaura,,,2020,,Total Coliform,230-35000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+75,"Khojkipur, Panipat",,,2020,,Temperature,21-29,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+76,"Khojkipur, Panipat",,,2020,,pH,6.6-8.4,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+77,"Khojkipur, Panipat",,,2020,,Dissolved Oxygen,5.0-8.4,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+78,"Khojkipur, Panipat",,,2020,,Electrical Conductivity,255-942,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+79,"Khojkipur, Panipat",,,2020,,Biochemical Oxygen Demand,1.4-7.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+80,"Khojkipur, Panipat",,,2020,,Fecal Coliform,90-70000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+81,"Khojkipur, Panipat",,,2020,,Total Coliform,270-278000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+82,Sonepat,,,2020,,Temperature,14-35,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+83,Sonepat,,,2020,,pH,6.5-8.6,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+84,Sonepat,,,2020,,Dissolved Oxygen,7.1-10.6,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+85,Sonepat,,,2020,,Electrical Conductivity,235-683,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+86,Sonepat,,,2020,,Biochemical Oxygen Demand,1.8-5.5,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+87,Sonepat,,,2020,,Fecal Coliform,110-220000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+88,Sonepat,,,2020,,Total Coliform,330-1600000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+89,Palla,,,2020,,Temperature,16-33,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+90,Palla,,,2020,,pH,7.6-9.0,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+91,Palla,,,2020,,Dissolved Oxygen,5.6-17.1,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+92,Palla,,,2020,,Electrical Conductivity,273-789,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+93,Palla,,,2020,,Biochemical Oxygen Demand,1.4-7.9,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+94,Palla,,,2020,,Fecal Coliform,"78-79,000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+95,Palla,,,2020,,Total Coliform,330-350000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+96,Nizamuddin,,,2020,,Temperature,13-31,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+97,Nizamuddin,,,2020,,pH,7.1-7.9,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+98,Nizamuddin,,,2020,,Dissolved Oxygen,BDL-2.4,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+99,Nizamuddin,,,2020,,Electrical Conductivity,460-1641,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+100,Nizamuddin,,,2020,,Biochemical Oxygen Demand,5.6-57.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+101,Nizamuddin,,,2020,,Fecal Coliform,"210,000-11000000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+102,Nizamuddin,,,2020,,Total Coliform,"700,000-28000000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+103,Okhla Bridge (Inlet of Agra Canal),,,2020,,Temperature,15-31,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+104,Okhla Bridge (Inlet of Agra Canal),,,2020,,pH,7.1-7.9,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+105,Okhla Bridge (Inlet of Agra Canal),,,2020,,Dissolved Oxygen,BDL-2.6,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+106,Okhla Bridge (Inlet of Agra Canal),,,2020,,Electrical Conductivity,488-1526,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+107,Okhla Bridge (Inlet of Agra Canal),,,2020,,Biochemical Oxygen Demand,5.6-27.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+108,Okhla Bridge (Inlet of Agra Canal),,,2020,,Fecal Coliform,"78,000-3300000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+109,Okhla Bridge (Inlet of Agra Canal),,,2020,,Total Coliform,"350,000-16000000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+110,Okhla After Meeting of Shahdara Drain,,,2020,,Temperature,15-33,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+111,Okhla After Meeting of Shahdara Drain,,,2020,,pH,7.2-7.8,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+112,Okhla After Meeting of Shahdara Drain,,,2020,,Dissolved Oxygen,BDL-5.6,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+113,Okhla After Meeting of Shahdara Drain,,,2020,,Electrical Conductivity,499-1773,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+114,Okhla After Meeting of Shahdara Drain,,,2020,,Biochemical Oxygen Demand,7.7-114.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+115,Okhla After Meeting of Shahdara Drain,,,2020,,Fecal Coliform,"68,000-7900000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+116,Okhla After Meeting of Shahdara Drain,,,2020,,Total Coliform,"490,000-35000000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+117,Agra Canal at Madanpur Khadar,,,2020,,Temperature,15-31,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+118,Agra Canal at Madanpur Khadar,,,2020,,pH,7.1-7.8,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+119,Agra Canal at Madanpur Khadar,,,2020,,Dissolved Oxygen,BDL-1.4,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+120,Agra Canal at Madanpur Khadar,,,2020,,Electrical Conductivity,573-1541,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+121,Agra Canal at Madanpur Khadar,,,2020,,Biochemical Oxygen Demand,11.4-32,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+122,Agra Canal at Madanpur Khadar,,,2020,,Fecal Coliform,"330,000-4900000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+123,Agra Canal at Madanpur Khadar,,,2020,,Total Coliform,"1,100,000-24000000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+124,Mazawali,,,2020,,Temperature,14,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+125,Mazawali,,,2020,,pH,6.4-8.1,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+126,Mazawali,,,2020,,Dissolved Oxygen,BDL-2.3,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+127,Mazawali,,,2020,,Electrical Conductivity,978-1719,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+128,Mazawali,,,2020,,Biochemical Oxygen Demand,8.7-59.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+129,Mazawali,,,2020,,Fecal Coliform,680-4900000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+130,Mazawali,,,2020,,Total Coliform,3300-9200000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+131,Shahpur,,,2020,,Temperature,14-32,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+132,Shahpur,,,2020,,pH,7.1-7.5,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+133,Shahpur,,,2020,,Dissolved Oxygen,4.6-6.9,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+134,Shahpur,,,2020,,Biochemical Oxygen Demand,5.8-10.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+135,Shahpur,,,2020,,Fecal Coliform,"31,000-85000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+136,Shahpur,,,2020,,Total Coliform,"53,000-110000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+137,"Kesighat, Vrindavan",,,2020,,Temperature,15-32,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+138,"Kesighat, Vrindavan",,,2020,,pH,7.1-7.6,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+139,"Kesighat, Vrindavan",,,2020,,Dissolved Oxygen,4.0-7.6,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+140,"Kesighat, Vrindavan",,,2020,,Biochemical Oxygen Demand,6.0-10.4,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+141,"Kesighat, Vrindavan",,,2020,,Fecal Coliform,"24,000-65000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+142,"Kesighat, Vrindavan",,,2020,,Total Coliform,"46,000-88000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+143,Mathura U/S,,,2020,,Temperature,13,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+144,Mathura U/S,,,2020,,pH,6.5-8.5,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+145,Mathura U/S,,,2020,,Dissolved Oxygen,BDL-4.6,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+146,Mathura U/S,,,2020,,Electrical Conductivity,1096-1816,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+147,Mathura U/S,,,2020,,Biochemical Oxygen Demand,7.3-30.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+148,Mathura U/S,,,2020,,Fecal Coliform,400-920000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+149,Mathura U/S,,,2020,,Total Coliform,1100-9200000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+150,"Vishramghat, Mathura",,,2020,,Temperature,14-32,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+151,"Vishramghat, Mathura",,,2020,,pH,6.9-7.6,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+152,"Vishramghat, Mathura",,,2020,,Dissolved Oxygen,4.1-7.4,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+153,"Vishramghat, Mathura",,,2020,,Biochemical Oxygen Demand,6.8-12.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+154,"Vishramghat, Mathura",,,2020,,Fecal Coliform,"31,000-92000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+155,"Vishramghat, Mathura",,,2020,,Total Coliform,"54,000-140000",,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+156,Mathura D/S,,,2020,,Temperature,12,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+157,Mathura D/S,,,2020,,pH,6.5-8.3,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+158,Mathura D/S,,,2020,,Dissolved Oxygen,1.6-6.8,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+159,Mathura D/S,,,2020,,Electrical Conductivity,1195-1903,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+160,Mathura D/S,,,2020,,Biochemical Oxygen Demand,6.9-21.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+161,Mathura D/S,,,2020,,Fecal Coliform,1700-170000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+162,Mathura D/S,,,2020,,Total Coliform,2200-1400000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+163,Agra U/S,,,2020,,Temperature,12,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+164,Agra U/S,,,2020,,pH,6.5-8.5,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+165,Agra U/S,,,2020,,Dissolved Oxygen,1.4-9.6,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+166,Agra U/S,,,2020,,Electrical Conductivity,1154-1872,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+167,Agra U/S,,,2020,,Biochemical Oxygen Demand,4.7-25.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+168,Agra U/S,,,2020,,Fecal Coliform,220-3300000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+169,Agra U/S,,,2020,,Total Coliform,2200-7900000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+170,D/S of Agra,,,2020,,pH,6.5-8.7,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+171,D/S of Agra,,,2020,,Dissolved Oxygen,3.8-16.2,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+172,D/S of Agra,,,2020,,Electrical Conductivity,875-1920,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+173,D/S of Agra,,,2020,,Biochemical Oxygen Demand,9.1-25.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+174,D/S of Agra,,,2020,,Fecal Coliform,450-6100000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+175,D/S of Agra,,,2020,,Total Coliform,2200-32000000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+176,Bateswar,,,2020,,pH,7.8-7.9,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+177,Bateswar,,,2020,,Dissolved Oxygen,2.6-9.2,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+178,Bateswar,,,2020,,Electrical Conductivity,1054-1471,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+179,Bateswar,,,2020,,Biochemical Oxygen Demand,14.0-20.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+180,Bateswar,,,2020,,Fecal Coliform,450-1400,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+181,Bateswar,,,2020,,Total Coliform,3300-13000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+182,Etawah,,,2020,,pH,7.7-7.9,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+183,Etawah,,,2020,,Dissolved Oxygen,7.3-7.3,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+184,Etawah,,,2020,,Electrical Conductivity,1288-1507,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+185,Etawah,,,2020,,Biochemical Oxygen Demand,13.0-15.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+186,Etawah,,,2020,,Fecal Coliform,20-200,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+187,Etawah,,,2020,,Total Coliform,1300-1700,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+188,"Juhika B/C with Chambal, Etawah",,,2020,,pH,7.7-8.2,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+189,"Juhika B/C with Chambal, Etawah",,,2020,,Dissolved Oxygen,8.1-11.3,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+190,"Juhika B/C with Chambal, Etawah",,,2020,,Electrical Conductivity,846-937,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+191,"Juhika B/C with Chambal, Etawah",,,2020,,Biochemical Oxygen Demand,8.7-13.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+192,"Juhika B/C with Chambal, Etawah",,,2020,,Fecal Coliform,68-7800,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+193,"Juhika B/C with Chambal, Etawah",,,2020,,Total Coliform,1700-220000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+194,Hamirpur,,,2020,,pH,8.0-8.4,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+195,Hamirpur,,,2020,,Dissolved Oxygen,0.4-8.4,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+196,Hamirpur,,,2020,,Electrical Conductivity,750-832,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+197,Hamirpur,,,2020,,Biochemical Oxygen Demand,2.8-6.0,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+198,Hamirpur,,,2020,,Fecal Coliform,330-2200,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+199,Hamirpur,,,2020,,Total Coliform,1300-13000,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+200,Allahabad D/S (Balua Ghat),,,2020,,Temperature,22-27,,,°C,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+201,Allahabad D/S (Balua Ghat),,,2020,,pH,7.8-8.4,,,,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+202,Allahabad D/S (Balua Ghat),,,2020,,Dissolved Oxygen,7.3-11.5,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)). BDL value for DO is 3.0 mg/L as per table footnote.
+203,Allahabad D/S (Balua Ghat),,,2020,,Electrical Conductivity,418-725,,,µmhos/cm,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+204,Allahabad D/S (Balua Ghat),,,2020,,Biochemical Oxygen Demand,1.8-2.4,,,mg/L,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+205,Allahabad D/S (Balua Ghat),,,2020,,Fecal Coliform,310-2100,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).
+206,Allahabad D/S (Balua Ghat),,,2020,,Total Coliform,1700-3900,,,MPN/100 mL,Table 7,Data from CPCB (2020) (CPCB 2021 annexure VI (a)).

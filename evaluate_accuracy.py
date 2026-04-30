@@ -5,7 +5,7 @@ Compares Stage-2 extraction output against schema-aligned ground truth CSVs
 for all 10 Yamuna water quality papers.
 
 Key improvements:
-  - Pre-resolves site_id/parameter_id → human names from stage1.json.
+  - Evaluates the fixed final extraction schema.
   - Aggressive recovery of JSON from corrupted CSVs or error JSONs.
   - No sampling (uses full context).
   - Explicit instructions to ignore out-of-scope GT rows (infrastructure/metadata).
@@ -40,13 +40,26 @@ GT_TO_OUTPUT_NAME: dict[str, str] = {
     "vaid etal":      "vaid_et_al_2022_najafgarh_drain_statistical_analysis",
 }
 
-# Columns to KEEP in the output CSV
 OUTPUT_COLS_KEEP = [
-    "site_id", "parameter_id", "time_period",
-    "raw_value", "mean_value", "std_dev", "min_value", "max_value",
-    "unit", "aggregation_level", "limit_qualifier", "detection_limit",
-    "source_location",
+    "Location(actual name not some legend thing)", "Date", "Month", "Year", "Season",
+    "Parameter", "Actual Value", "Mean", "Std Dev", "Unit", "Source",
+    "Notes/Extraction Remark",
 ]
+
+OUTPUT_COL_RENAME = {
+    "location": "Location(actual name not some legend thing)",
+    "date": "Date",
+    "month": "Month",
+    "year": "Year",
+    "season": "Season",
+    "parameter": "Parameter",
+    "actual_value": "Actual Value",
+    "mean": "Mean",
+    "std_dev": "Std Dev",
+    "unit": "Unit",
+    "source": "Source",
+    "notes": "Notes/Extraction Remark",
+}
 
 # ─── PYDANTIC SCHEMA ─────────────────────────────────────────────────────────
 
@@ -187,7 +200,7 @@ PROMPT_TEMPLATE = """
 You are a rigorous data extraction evaluator for water quality research.
 Paper: **{paper_name}**
 
-COLUMN MAPPING: Location→site_id, Parameter→parameter_id, Value→raw_value/mean_value, Unit→unit, Sampling period→time_period.
+COLUMN MAPPING: Location→Location(actual name not some legend thing), Parameter→Parameter, Value→Actual Value/Mean, Unit→Unit, Sampling period→Date/Month/Year/Season, Source table→Source, Notes→Notes/Extraction Remark.
 
 LENIENT MATCHING RULES & OUT-OF-SCOPE EXCEPTIONS:
 ① Numeric values: ±10% relative tolerance counts as a MATCH.
@@ -222,6 +235,7 @@ def evaluate_paper(client: genai.Client, gt_paper_dir: Path, out_paper_dir: Path
     
     site_map, param_map = load_id_maps(out_paper_dir)
     out_df = resolve_ids(out_df, site_map, param_map)
+    out_df = out_df.rename(columns=OUTPUT_COL_RENAME)
     keep_cols = [c for c in OUTPUT_COLS_KEEP if c in out_df.columns]
     out_df = out_df[keep_cols]
 

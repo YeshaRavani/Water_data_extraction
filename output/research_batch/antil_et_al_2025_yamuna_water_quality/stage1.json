@@ -1,22 +1,22 @@
 {
   "paper_overview": {
-    "citation": "Antil, S., Maurya, S., Dagar, J., Bhagat, P., Makhija, S., & Toteja, R. (2025). Insights into Water Quality of River Yamuna, India: A Comprehensive Spatial-Temporal Analysis Using Advanced Indices and Multivariate Statistical Techniques. Water Resources, 52(4), 807-829.",
+    "citation": "Antila, S., Maurya, S., Dagar, J., Bhagat, P., Makhija, S., & Toteja, R. (2025). Insights into Water Quality of River Yamuna, India: A Comprehensive Spatial-Temporal Analysis Using Advanced Indices and Multivariate Statistical Techniques. Water Resources, 52(4), 807-829.",
     "is_review_paper": false,
     "study_region": "Yamuna River, India",
     "data_sources": [
       {
         "location": "Table 1, page 2",
-        "description": "Details of the sampling site",
+        "description": "Details of the sampling sites including coordinates.",
         "page": "2"
       },
       {
         "location": "Table 4, page 6",
-        "description": "Descriptive statistics of physical-chemical parameters in the Yamuna River",
+        "description": "Descriptive statistics of physical-chemical parameters in the Yamuna River.",
         "page": "6"
       },
       {
         "location": "Table 6, page 10",
-        "description": "Descriptive statistics of heavy metal concentration (mg/L) in Yamuna River",
+        "description": "Descriptive statistics of heavy metal concentration (mg/L) in Yamuna River.",
         "page": "10"
       }
     ]
@@ -28,7 +28,7 @@
       "latitude": 30.975833,
       "longitude": 78.438333,
       "matrix": "water",
-      "sample_type": "surface water",
+      "sample_type": "grab sample",
       "source_quote": "Yamunotri (YM), Uttarakhand (UK)",
       "source_location": "Table 1, page 2"
     },
@@ -38,7 +38,7 @@
       "latitude": 30.43,
       "longitude": 77.6275,
       "matrix": "water",
-      "sample_type": "surface water",
+      "sample_type": "grab sample",
       "source_quote": "Paonta Sahib (PS), Himachal Pradesh (HP)",
       "source_location": "Table 1, page 2"
     },
@@ -48,7 +48,7 @@
       "latitude": 28.708889,
       "longitude": 77.230556,
       "matrix": "water",
-      "sample_type": "surface water",
+      "sample_type": "grab sample",
       "source_quote": "Wazirabad Before Drain (WBBD), Delhi",
       "source_location": "Table 1, page 2"
     },
@@ -56,9 +56,9 @@
       "id": "S4",
       "description": "Wazirabad After Drain (WBAD), Delhi",
       "latitude": 28.663333,
-      "longitude": 77.24,
+      "longitude": 77.239722,
       "matrix": "water",
-      "sample_type": "surface water",
+      "sample_type": "grab sample",
       "source_quote": "Wazirabad After Drain (WBAD), Delhi",
       "source_location": "Table 1, page 2"
     },
@@ -68,7 +68,7 @@
       "latitude": 25.428333,
       "longitude": 81.861667,
       "matrix": "water",
-      "sample_type": "surface water",
+      "sample_type": "grab sample",
       "source_quote": "Prayagraj (PJ), Uttar Pradesh (UP)",
       "source_location": "Table 1, page 2"
     }
@@ -77,9 +77,9 @@
     {
       "id": "P1",
       "name": "Temperature",
-      "name_as_reported": "Temp.",
+      "name_as_reported": "Temp., \u00b0C",
       "cas_number": null,
-      "category": "Physical-Chemical",
+      "category": "Physicochemical",
       "unit_as_reported": "\u00b0C"
     },
     {
@@ -87,62 +87,62 @@
       "name": "pH",
       "name_as_reported": "pH",
       "cas_number": null,
-      "category": "Physical-Chemical",
+      "category": "Physicochemical",
       "unit_as_reported": null
     },
     {
       "id": "P3",
       "name": "Dissolved Oxygen",
-      "name_as_reported": "DO",
+      "name_as_reported": "DO, mg/L",
       "cas_number": null,
-      "category": "Physical-Chemical",
+      "category": "Physicochemical",
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P4",
       "name": "Total Dissolved Solids",
-      "name_as_reported": "TDS",
+      "name_as_reported": "TDS, mg/L",
       "cas_number": null,
-      "category": "Physical-Chemical",
+      "category": "Physicochemical",
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P5",
       "name": "Water Hardness",
-      "name_as_reported": "WH",
+      "name_as_reported": "WH, mg/L",
       "cas_number": null,
-      "category": "Physical-Chemical",
+      "category": "Physicochemical",
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P6",
       "name": "Nitrate",
-      "name_as_reported": "NO3",
+      "name_as_reported": "NO3, mg/L",
       "cas_number": null,
-      "category": "Physical-Chemical",
+      "category": "Nitrogenous Compound",
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P7",
       "name": "Nitrite",
-      "name_as_reported": "NO2",
+      "name_as_reported": "NO2, mg/L",
       "cas_number": null,
-      "category": "Physical-Chemical",
+      "category": "Nitrogenous Compound",
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P8",
       "name": "Ammonia",
-      "name_as_reported": "NH3",
+      "name_as_reported": "NH3, mg/L",
       "cas_number": null,
-      "category": "Physical-Chemical",
+      "category": "Nitrogenous Compound",
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P9",
       "name": "Iron",
       "name_as_reported": "Fe",
-      "cas_number": null,
+      "cas_number": "7439-89-6",
       "category": "Heavy Metal",
       "unit_as_reported": "mg/L"
     },
@@ -150,7 +150,7 @@
       "id": "P10",
       "name": "Manganese",
       "name_as_reported": "Mn",
-      "cas_number": null,
+      "cas_number": "7439-96-5",
       "category": "Heavy Metal",
       "unit_as_reported": "mg/L"
     },
@@ -158,7 +158,7 @@
       "id": "P11",
       "name": "Copper",
       "name_as_reported": "Cu",
-      "cas_number": null,
+      "cas_number": "7440-50-8",
       "category": "Heavy Metal",
       "unit_as_reported": "mg/L"
     },
@@ -166,7 +166,7 @@
       "id": "P12",
       "name": "Zinc",
       "name_as_reported": "Zn",
-      "cas_number": null,
+      "cas_number": "7440-66-6",
       "category": "Heavy Metal",
       "unit_as_reported": "mg/L"
     },
@@ -174,7 +174,7 @@
       "id": "P13",
       "name": "Cobalt",
       "name_as_reported": "Co",
-      "cas_number": null,
+      "cas_number": "7440-48-4",
       "category": "Heavy Metal",
       "unit_as_reported": "mg/L"
     },
@@ -182,7 +182,7 @@
       "id": "P14",
       "name": "Cadmium",
       "name_as_reported": "Cd",
-      "cas_number": null,
+      "cas_number": "7440-43-9",
       "category": "Heavy Metal",
       "unit_as_reported": "mg/L"
     },
@@ -190,7 +190,7 @@
       "id": "P15",
       "name": "Lead",
       "name_as_reported": "Pb",
-      "cas_number": null,
+      "cas_number": "7439-92-1",
       "category": "Heavy Metal",
       "unit_as_reported": "mg/L"
     },
@@ -198,7 +198,7 @@
       "id": "P16",
       "name": "Chromium",
       "name_as_reported": "Cr",
-      "cas_number": null,
+      "cas_number": "7440-47-3",
       "category": "Heavy Metal",
       "unit_as_reported": "mg/L"
     },
@@ -206,7 +206,7 @@
       "id": "P17",
       "name": "Nickel",
       "name_as_reported": "Ni",
-      "cas_number": null,
+      "cas_number": "7440-02-0",
       "category": "Heavy Metal",
       "unit_as_reported": "mg/L"
     }
@@ -216,8 +216,8 @@
       "Pre-Monsoon (PRM)",
       "Post-Monsoon (POM)"
     ],
-    "sampling_dates": "April 2022, September 2022",
+    "sampling_dates": "April 2022 (Pre-Monsoon), September 2022 (Post-Monsoon)",
     "granularity": "seasonal"
   },
-  "extraction_notes": "Site coordinates were converted from degrees, minutes, seconds to decimal degrees. Matrix and sample type were inferred from the context of the paper (water quality study of a river). CAS numbers for parameters were not provided in the paper."
+  "extraction_notes": "All sampling sites are located along the Yamuna River in India. Water samples were collected in triplicate from each site. The paper provides descriptive statistics (mean \u00b1 standard deviation) for all physicochemical parameters and heavy metals across two distinct seasons (Pre-Monsoon and Post-Monsoon). CAS numbers for heavy metals were added based on common knowledge as they were not explicitly stated in the paper."
 }

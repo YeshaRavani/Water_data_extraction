@@ -1,13 +1,18 @@
 {
   "paper_overview": {
-    "citation": "Majed Alsubih, Roohul Abad Khan. (2024). Pharmaceutical Active Compounds Contamination and Seasonal-Based Ecotoxicity Assessment of the Yamuna River for the Delhi stretch. Rocznik Ochrona \u015arodowiska, 26, 587-602.",
+    "citation": "Alsubih, M., Khan, R.A. (2024). Pharmaceutical Active Compounds Contamination and Seasonal-Based Ecotoxicity Assessment of the Yamuna River for the Delhi stretch. Rocznik Ochrona \u015arodowiska, 26, 587-602.",
     "is_review_paper": false,
-    "study_region": "Yamuna River, Delhi, India",
+    "study_region": "Yamuna River, Delhi stretch, India",
     "data_sources": [
       {
-        "location": "Yamuna River for the Delhi stretch",
-        "description": "Grab-composite water samples collected from five sites along the Yamuna River, analyzed for 7 pharmaceutical active compounds (PhACs) using LC-MS.",
-        "page": "Page 1 (Abstract), Page 3 (Section 2.2), Page 4 (Section 2.3, 2.4)"
+        "location": "Abstract, page 1; Section 2.3, page 4",
+        "description": "Grab-composite water samples collected at a depth of 0.4 m below the surface of the water level. Samples were collected thrice a year: pre-monsoon (April), monsoon (July), and post-monsoon (November).",
+        "page": "1, 4"
+      },
+      {
+        "location": "Section 2.4, page 4",
+        "description": "Samples analyzed using LC-MS (Liquid Mass chromatography-mass spectrometry) against blanks to prevent contamination.",
+        "page": "4"
       }
     ]
   },
@@ -18,9 +23,9 @@
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab-composite water samples",
-      "source_quote": "The first sampling location was at Wazirabad barrage (S1);",
-      "source_location": "Page 3, Section 2.2"
+      "sample_type": "grab-composite water samples",
+      "source_quote": "The first sampling location was at Wazirabad barrage (S1)",
+      "source_location": "Section 2.2, page 3"
     },
     {
       "id": "S2",
@@ -28,9 +33,9 @@
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab-composite water samples",
-      "source_quote": "The second location was at Wazirabad Khyber Pass drain (S2),",
-      "source_location": "Page 3, Section 2.2"
+      "sample_type": "grab-composite water samples",
+      "source_quote": "The second location was at Wazirabad Khyber Pass drain (S2)",
+      "source_location": "Section 2.2, page 3"
     },
     {
       "id": "S3",
@@ -38,9 +43,9 @@
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab-composite water samples",
-      "source_quote": "the third location was at Delhi Gate drain (S3),",
-      "source_location": "Page 3, Section 2.2"
+      "sample_type": "grab-composite water samples",
+      "source_quote": "the third location was at Delhi Gate drain (S3)",
+      "source_location": "Section 2.2, page 3"
     },
     {
       "id": "S4",
@@ -48,9 +53,9 @@
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab-composite water samples",
-      "source_quote": "the fourth location was at Maharani Bagh drain (S4),",
-      "source_location": "Page 3, Section 2.2"
+      "sample_type": "grab-composite water samples",
+      "source_quote": "the fourth location was at Maharani Bagh drain (S4)",
+      "source_location": "Section 2.2, page 3"
     },
     {
       "id": "S5",
@@ -58,9 +63,9 @@
       "latitude": null,
       "longitude": null,
       "matrix": "water",
-      "sample_type": "Grab-composite water samples",
-      "source_quote": "and the fifth location was at Okhla Barrage (S5).",
-      "source_location": "Page 3, Section 2.2"
+      "sample_type": "grab-composite water samples",
+      "source_quote": "and the fifth location was at Okhla Barrage (S5)",
+      "source_location": "Section 2.2, page 3"
     }
   ],
   "parameters": [
@@ -70,7 +75,7 @@
       "name_as_reported": "Carbamazepine",
       "cas_number": "298-46-4",
       "category": "anticonvulsant",
-      "unit_as_reported": "ng L\u207b\u00b9"
+      "unit_as_reported": "ng L-1"
     },
     {
       "id": "P2",
@@ -78,7 +83,7 @@
       "name_as_reported": "Lorazepam",
       "cas_number": "856-49-1",
       "category": "anxiety control",
-      "unit_as_reported": "ng L\u207b\u00b9"
+      "unit_as_reported": "ng L-1"
     },
     {
       "id": "P3",
@@ -86,7 +91,7 @@
       "name_as_reported": "Sulfamethoxazole",
       "cas_number": "723-46-6",
       "category": "antibiotic",
-      "unit_as_reported": "ng L\u207b\u00b9"
+      "unit_as_reported": "ng L-1"
     },
     {
       "id": "P4",
@@ -94,7 +99,7 @@
       "name_as_reported": "Fluvastatin",
       "cas_number": "93957-54-1",
       "category": "statin",
-      "unit_as_reported": "ng L\u207b\u00b9"
+      "unit_as_reported": "ng L-1"
     },
     {
       "id": "P5",
@@ -102,7 +107,7 @@
       "name_as_reported": "Ciprofloxacin",
       "cas_number": "85721-33-1",
       "category": "antibiotic",
-      "unit_as_reported": "ng L\u207b\u00b9"
+      "unit_as_reported": "ng L-1"
     },
     {
       "id": "P6",
@@ -110,7 +115,7 @@
       "name_as_reported": "Ketoprofen",
       "cas_number": "22071-15-4",
       "category": "NSAID",
-      "unit_as_reported": "ng L\u207b\u00b9"
+      "unit_as_reported": "ng L-1"
     },
     {
       "id": "P7",
@@ -118,7 +123,7 @@
       "name_as_reported": "Paracetamol",
       "cas_number": "103-90-2",
       "category": "NSAID",
-      "unit_as_reported": "ng L\u207b\u00b9"
+      "unit_as_reported": "ng L-1"
     }
   ],
   "temporal_coverage": {
@@ -127,8 +132,8 @@
       "monsoon",
       "post-monsoon"
     ],
-    "sampling_dates": "April (pre-monsoon), July (monsoon), and November (post-monsoon)",
-    "granularity": "Thrice a year"
+    "sampling_dates": "April (pre-monsoon), July (monsoon), November (post-monsoon)",
+    "granularity": "seasonal"
   },
-  "extraction_notes": "Supplementary tables (S5, S6, S7) mentioned in the text were not provided in the OCR, so full details for sites (e.g., coordinates) and other contextual information could not be extracted. Figure 3 legend includes 'Ibuprofen' and 'Ofloxacin' but these are not listed in Table 2 as 'Selected pharmaceuticals analysed' nor explicitly mentioned as part of the 7 PhACs in the abstract, so they were not included in the parameters list."
+  "extraction_notes": "The paper mentions 'Table S6 in supplementary tables' for sampling location details, but this table was not provided in the given PDF. Therefore, latitude and longitude for sites are null. Units for parameters are inferred from the context of Table 2 and the abstract, as Table 2 itself does not explicitly state the unit in a dedicated column, but the values are clearly in ng L-1."
 }

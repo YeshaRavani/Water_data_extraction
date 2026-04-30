@@ -60,13 +60,64 @@ python3 extract_research_batch.py
 This pipeline:
 
 - runs a two-stage extraction for each paper
-- writes per-paper `stage1.json` and `stage2.json` files under `output/research_batch/`
+- writes per-paper `stage1.json`, `stage2.json`, and `stage2.csv` files under `output/research_batch/<paper_slug>/`
 - inserts normalized records into `output/research_batch/measurements.db`
-- exports combined `measurements.csv`, `measurements.json`, `measurements.xlsx`, and `summary.json`
+- writes `summary.json`
+
+Combined `measurements.csv`, `measurements.json`, and `measurements.xlsx` are optional:
+
+```bash
+python3 extract_research_batch.py --combined-exports
+```
 
 ## Schemas
 
 The single-paper workflow is driven by a JSON schema such as [water_quality_schema.json](/Users/yesharavani/ILGC/schemas/water_quality_schema.json).
+
+The default paper-extraction schema now uses one fixed column set for all papers:
+
+- `Sr No.`
+- `Location(actual name not some legend thing)`
+- `Date`
+- `Month`
+- `Year`
+- `Season`
+- `Parameter`
+- `Actual Value`
+- `Mean`
+- `Std Dev`
+- `Unit`
+- `Source`
+- `Notes/Extraction Remark`
+
+Important extraction rules:
+
+- location should be the actual site/station/drain/location name, not only a legend ID like `S1`
+- temporal information is split across `Date`, `Month`, `Year`, and `Season`
+- `Actual Value` preserves the reported cell text, including ranges and BDL/ND markers
+- `Mean` and `Std Dev` are filled only when the paper explicitly reports those statistics
+
+Old output columns that are no longer part of the final export include:
+
+- `site_id`
+- `parameter_id`
+- `time_period`
+- `raw_value`
+- `mean_value`
+- `min_value`
+- `max_value`
+- `source_location`
+
+The old single-paper column set was:
+
+- `Location`
+- `Sampling period`
+- `Parameter`
+- `Value`
+- `Unit`
+- `Statistic`
+- `Source`
+- `Notes`
 
 Key JSON schema fields:
 

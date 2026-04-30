@@ -1,36 +1,36 @@
 {
   "paper_overview": {
-    "citation": "Verma, N., Singh, G., & Ahsan, N. (2023). Assessment of Spatiotemporal Variations in Water Quality of the Urban River Reach, Yamuna, Delhi. Water Air Soil Pollut, 234(571). https://doi.org/10.1007/s11270-023-06569-1",
+    "citation": "Verma, N., Singh, G. & Ahsan, N. (2023). Assessment of Spatiotemporal Variations in Water Quality of the Urban River Reach, Yamuna, Delhi. Water Air Soil Pollut, 234(571). https://doi.org/10.1007/s11270-023-06569-1",
     "is_review_paper": false,
     "study_region": "Urban River Reach, Yamuna, Delhi, India",
     "data_sources": [
       {
         "location": "Real-Time Water Quality Monitoring Stations (RTWQMS) of the Delhi Pollution Control Committee (DPCC) at Wazirabad and Okhla",
-        "description": "Hourly and 15-min interval data for 11 water quality parameters collected from March 2021 to February 2022 using S::CAN water monitoring technologies.",
-        "page": "Page 3"
+        "description": "Real-time water quality data collected from two monitoring stations (Wazirabad and Okhla) using S::CAN water monitoring technologies (UV Spectro::lyser, Ammino::lyser Eco, pH::lyser).",
+        "page": "3"
       }
     ]
   },
   "sites": [
     {
-      "id": "S1",
-      "description": "Wazirabad barrage, upstream monitoring station on Yamuna River, Delhi",
-      "latitude": 28.823442,
-      "longitude": 77.227756,
-      "matrix": "River water",
-      "sample_type": "Real-time monitoring",
-      "source_quote": "The data were collected from two Real-Time Water Quality Monitoring Stations (RTWQMS) of the Delhi Pollution Control Committee (DPCC) upstream of the Wazirabad (ST1) barrage and upstream of the Okhla (ST2) barrage. ... The urban reach of the Yamuna, Delhi, is located between Wazirabad (28\u00b049\u203224.39\"N and 28\u00b031\u203250.99\u2033 N) and Okhla (77\u00b013\u203239.92\" E and 77\u00b020\u203236.8\" E)",
-      "source_location": "Page 3"
+      "id": "ST1",
+      "description": "Upstream monitoring station on the Yamuna River, Wazirabad",
+      "latitude": 28.82344167,
+      "longitude": 77.22775556,
+      "matrix": "Surface Water",
+      "sample_type": "Real-time continuous monitoring",
+      "source_quote": "The data were collected from two Real-Time Water Quality Monitoring Stations (RTWQMS) of the Delhi Pollution Control Committee (DPCC) upstream of the Wazirabad (ST1) barrage and upstream of the Okhla (ST2) barrage.",
+      "source_location": "Page 3, Section 2.2"
     },
     {
-      "id": "S2",
-      "description": "Okhla barrage, upstream monitoring station on Yamuna River, Delhi",
-      "latitude": 28.530831,
-      "longitude": 77.343556,
-      "matrix": "River water",
-      "sample_type": "Real-time monitoring",
-      "source_quote": "The data were collected from two Real-Time Water Quality Monitoring Stations (RTWQMS) of the Delhi Pollution Control Committee (DPCC) upstream of the Wazirabad (ST1) barrage and upstream of the Okhla (ST2) barrage. ... The urban reach of the Yamuna, Delhi, is located between Wazirabad (28\u00b049\u203224.39\"N and 28\u00b031\u203250.99\u2033 N) and Okhla (77\u00b013\u203239.92",
-      "source_location": "Page 3"
+      "id": "ST2",
+      "description": "Downstream monitoring station on the Yamuna River, Okhla",
+      "latitude": 28.53083056,
+      "longitude": 77.34355556,
+      "matrix": "Surface Water",
+      "sample_type": "Real-time continuous monitoring",
+      "source_quote": "The data were collected from two Real-Time Water Quality Monitoring Stations (RTWQMS) of the Delhi Pollution Control Committee (DPCC) upstream of the Wazirabad (ST1) barrage and upstream of the Okhla (ST2) barrage.",
+      "source_location": "Page 3, Section 2.2"
     }
   ],
   "parameters": [
@@ -39,87 +39,87 @@
       "name": "Dissolved Oxygen",
       "name_as_reported": "DO",
       "cas_number": null,
-      "category": "Chemical",
+      "category": "Physicochemical",
       "unit_as_reported": "mg/L"
     },
     {
       "id": "P2",
-      "name": "Conductivity",
-      "name_as_reported": "Conductivity",
+      "name": "Biochemical Oxygen Demand",
+      "name_as_reported": "BOD",
       "cas_number": null,
-      "category": "Physical",
-      "unit_as_reported": "\u00b5S/cm"
+      "category": "Physicochemical",
+      "unit_as_reported": "mg/l"
     },
     {
       "id": "P3",
-      "name": "Nitrate-Nitrogen",
-      "name_as_reported": "NO3",
+      "name": "Chemical Oxygen Demand",
+      "name_as_reported": "COD",
       "cas_number": null,
-      "category": "Chemical",
+      "category": "Physicochemical",
       "unit_as_reported": "mg/l"
     },
     {
       "id": "P4",
-      "name": "Total Organic Carbon",
-      "name_as_reported": "TOC",
-      "cas_number": null,
-      "category": "Chemical",
-      "unit_as_reported": "mg/l"
-    },
-    {
-      "id": "P5",
-      "name": "Total Suspended Solids",
-      "name_as_reported": "TSS",
-      "cas_number": null,
-      "category": "Physical",
-      "unit_as_reported": "mg/l"
-    },
-    {
-      "id": "P6",
       "name": "pH",
       "name_as_reported": "pH",
       "cas_number": null,
-      "category": "Physical",
+      "category": "Physicochemical",
       "unit_as_reported": "s.u."
     },
     {
-      "id": "P7",
-      "name": "Temperature",
-      "name_as_reported": "Temp",
+      "id": "P5",
+      "name": "Water Temperature",
+      "name_as_reported": "water temperature",
       "cas_number": null,
-      "category": "Physical",
+      "category": "Physicochemical",
       "unit_as_reported": "\u00b0C"
     },
     {
-      "id": "P8",
-      "name": "Ammonium-Nitrogen",
-      "name_as_reported": "NH4",
+      "id": "P6",
+      "name": "Electrical Conductivity",
+      "name_as_reported": "conductivity",
       "cas_number": null,
-      "category": "Chemical",
+      "category": "Physicochemical",
+      "unit_as_reported": "\u00b5S/cm"
+    },
+    {
+      "id": "P7",
+      "name": "Turbidity",
+      "name_as_reported": "turbidity",
+      "cas_number": null,
+      "category": "Physicochemical",
+      "unit_as_reported": "NTU"
+    },
+    {
+      "id": "P8",
+      "name": "Ammonium-nitrogen",
+      "name_as_reported": "ammonium-nitrogen (NH4)",
+      "cas_number": null,
+      "category": "Nutrient",
       "unit_as_reported": "mg/l"
     },
     {
       "id": "P9",
-      "name": "Turbidity",
-      "name_as_reported": "Tur",
+      "name": "Nitrate-nitrogen",
+      "name_as_reported": "nitrate nitrogen (NH3)",
       "cas_number": null,
-      "category": "Physical",
-      "unit_as_reported": "NTU"
+      "category": "Nutrient",
+      "unit_as_reported": "mg/l"
     },
     {
       "id": "P10",
-      "name": "Biochemical Oxygen Demand",
-      "name_as_reported": "BOD",
+      "name": "Total Suspended Solids",
+      "name_as_reported": "total suspended solids (TSS)",
       "cas_number": null,
-      "category": "Chemical",
+      "category": "Physicochemical",
       "unit_as_reported": "mg/l"
     },
     {
       "id": "P11",
-      "name": "Chemical Oxygen Demand",
-      "name_as_reported": "COD",
+      "name": "Total Organic Carbon",
+      "name_as_reported": "total organic carbon (TOC)",
       "cas_number": null,
-      "category": "Chemical",
+      "category": "Organic Matter",
       "unit_as_reported": "mg/l"
     }
   ],
@@ -127,8 +127,8 @@
     "time_periods": [
       "March 2021-February 2022"
     ],
-    "sampling_dates": "Data collected from March 2021 to February 2022. For ST1, 6085 hourly observations. For ST2, 25,540 observations at 15-min intervals.",
-    "granularity": "Hourly, 15-min intervals, monthly, seasonal"
+    "sampling_dates": "March 2021 to February 2022",
+    "granularity": "Hourly for ST1 (6085 observations), 15-min intervals for ST2 (25,540 observations)"
   },
-  "extraction_notes": "Coordinates for ST1 and ST2 were inferred from the range provided for the urban reach of the Yamuna River, with Wazirabad being the upstream point and Okhla the downstream point. pH unit 's.u.' is interpreted as standard unit."
+  "extraction_notes": "The paper states 11 parameters were assessed. For ST1, data for May 2021 was not available. Latitude and longitude for sites were converted from degrees, minutes, seconds to decimal degrees."
 }
