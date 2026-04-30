@@ -1,309 +1,309 @@
-Location,Sampling period,Parameter,Value,Unit,Statistic,Sample matrix,Source table,Notes
-L1,,Al,473.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
-L1,,Ca,54.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
-L1,,Cd,11.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
-L1,,Cl,47.7,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
-L1,,Cr,100.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
-L1,,Cu,83.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
-L1,,EC,557.0,uS/cm,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
-L1,,Fe,2.5,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
-L1,,HCO3,161.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
-L1,,K,11.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
-L1,,Mg,22.7,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
-L1,,Mn,228.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
-L1,,NO3,2.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
-L1,,Na,20.7,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
-L1,,Ni,254.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
-L1,,ORP,240.0,mV,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
-L1,,PO4,0.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
-L1,,Pb,202.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
-L1,,SO4,42.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
-L1,,TDS,388.0,mg/L,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
-L1,,Zn,207.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
-L1,,pH,8.1,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
-L10,,Al,465.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
-L10,,Ca,76.5,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
-L10,,Cd,55.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
-L10,,Cl,116.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
-L10,,Cr,140.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
-L10,,Cu,91.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
-L10,,EC,917.0,uS/cm,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
-L10,,Fe,6.0,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
-L10,,HCO3,272.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
-L10,,K,16.0,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
-L10,,Mg,38.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
-L10,,Mn,571.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
-L10,,NO3,2.1,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
-L10,,Na,37.8,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
-L10,,Ni,272.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
-L10,,ORP,69.6,mV,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
-L10,,PO4,0.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
-L10,,Pb,498.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
-L10,,SO4,43.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
-L10,,TDS,743.0,mg/L,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
-L10,,Zn,278.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
-L10,,pH,7.8,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
-L11,,Al,716.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
-L11,,Ca,116.0,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
-L11,,Cd,93.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
-L11,,Cl,276.7,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
-L11,,Cr,480.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
-L11,,Cu,228.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
-L11,,EC,1381.0,uS/cm,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
-L11,,Fe,4.5,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
-L11,,HCO3,233.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
-L11,,K,18.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
-L11,,Mg,41.7,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
-L11,,Mn,333.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
-L11,,NO3,3.5,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
-L11,,Na,55.3,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
-L11,,Ni,351.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
-L11,,ORP,260.9,mV,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
-L11,,PO4,1.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
-L11,,Pb,610.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
-L11,,SO4,70.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
-L11,,TDS,953.0,mg/L,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
-L11,,Zn,395.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
-L11,,pH,6.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
-L12,,Al,570.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
-L12,,Ca,123.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
-L12,,Cd,85.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
-L12,,Cl,293.0,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
-L12,,Cr,370.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
-L12,,Cu,316.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
-L12,,EC,1276.0,uS/cm,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
-L12,,Fe,5.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
-L12,,HCO3,249.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
-L12,,K,16.5,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
-L12,,Mg,47.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
-L12,,Mn,428.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
-L12,,NO3,3.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
-L12,,Na,52.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
-L12,,Ni,426.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
-L12,,ORP,247.0,mV,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
-L12,,PO4,0.7,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
-L12,,Pb,672.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
-L12,,SO4,99.3,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
-L12,,TDS,782.0,mg/L,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
-L12,,Zn,421.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
-L12,,pH,7.1,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
-L13,,Al,652.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
-L13,,Ca,108.5,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
-L13,,Cd,65.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
-L13,,Cl,235.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
-L13,,Cr,290.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
-L13,,Cu,139.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
-L13,,EC,1106.0,uS/cm,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
-L13,,Fe,4.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
-L13,,HCO3,248.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
-L13,,K,12.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
-L13,,Mg,56.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
-L13,,Mn,232.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
-L13,,NO3,2.5,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
-L13,,Na,40.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
-L13,,Ni,424.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
-L13,,ORP,224.0,mV,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
-L13,,PO4,0.8,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
-L13,,Pb,653.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
-L13,,SO4,71.0,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
-L13,,TDS,609.0,mg/L,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
-L13,,Zn,401.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
-L13,,pH,6.8,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
-L14,,Al,424.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
-L14,,Ca,94.8,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
-L14,,Cd,56.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
-L14,,Cl,236.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
-L14,,Cr,530.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
-L14,,Cu,223.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
-L14,,EC,1265.0,uS/cm,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
-L14,,Fe,6.3,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
-L14,,HCO3,227.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
-L14,,K,15.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
-L14,,Mg,43.1,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
-L14,,Mn,373.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
-L14,,NO3,3.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
-L14,,Na,55.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
-L14,,Ni,473.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
-L14,,ORP,249.0,mV,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
-L14,,PO4,0.8,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
-L14,,Pb,510.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
-L14,,SO4,79.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
-L14,,TDS,712.0,mg/L,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
-L14,,Zn,437.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
-L14,,pH,7.0,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
-L2,,Al,564.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
-L2,,Ca,38.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
-L2,,Cd,37.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
-L2,,Cl,57.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
-L2,,Cr,80.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
-L2,,Cu,121.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
-L2,,EC,686.0,uS/cm,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
-L2,,Fe,2.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
-L2,,HCO3,186.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
-L2,,K,13.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
-L2,,Mg,32.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
-L2,,Mn,242.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
-L2,,NO3,2.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
-L2,,Na,38.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
-L2,,Ni,168.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
-L2,,ORP,238.0,mV,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
-L2,,PO4,0.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
-L2,,Pb,306.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
-L2,,SO4,30.3,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
-L2,,TDS,446.0,mg/L,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
-L2,,Zn,212.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
-L2,,pH,8.1,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
-L3,,Al,523.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
-L3,,Ca,45.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
-L3,,Cd,53.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
-L3,,Cl,95.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
-L3,,Cr,70.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
-L3,,Cu,93.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
-L3,,EC,726.0,uS/cm,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
-L3,,Fe,3.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
-L3,,HCO3,206.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
-L3,,K,6.0,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
-L3,,Mg,37.3,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
-L3,,Mn,286.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
-L3,,NO3,1.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
-L3,,Na,35.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
-L3,,Ni,192.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
-L3,,ORP,189.5,mV,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
-L3,,PO4,0.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
-L3,,Pb,316.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
-L3,,SO4,56.3,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
-L3,,TDS,458.0,mg/L,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
-L3,,Zn,247.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
-L3,,pH,7.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
-L4,,Al,673.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
-L4,,Ca,63.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
-L4,,Cd,31.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
-L4,,Cl,115.0,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
-L4,,Cr,100.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
-L4,,Cu,175.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
-L4,,EC,788.0,uS/cm,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
-L4,,Fe,4.1,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
-L4,,HCO3,217.3,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
-L4,,K,9.0,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
-L4,,Mg,24.8,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
-L4,,Mn,396.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
-L4,,NO3,2.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
-L4,,Na,43.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
-L4,,Ni,203.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
-L4,,ORP,157.0,mV,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
-L4,,PO4,0.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
-L4,,Pb,405.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
-L4,,SO4,61.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
-L4,,TDS,519.0,mg/L,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
-L4,,Zn,288.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
-L4,,pH,7.5,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
-L5,,Al,831.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
-L5,,Ca,97.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
-L5,,Cd,58.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
-L5,,Cl,246.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
-L5,,Cr,160.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
-L5,,Cu,198.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
-L5,,EC,1273.0,uS/cm,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
-L5,,Fe,6.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
-L5,,HCO3,232.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
-L5,,K,8.7,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
-L5,,Mg,44.1,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
-L5,,Mn,429.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
-L5,,NO3,1.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
-L5,,Na,64.8,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
-L5,,Ni,364.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
-L5,,ORP,94.7,mV,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
-L5,,PO4,0.5,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
-L5,,Pb,660.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
-L5,,SO4,87.7,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
-L5,,TDS,775.0,mg/L,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
-L5,,Zn,421.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
-L5,,pH,6.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
-L6,,Al,878.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
-L6,,Ca,90.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
-L6,,Cd,74.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
-L6,,Cl,216.8,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
-L6,,Cr,280.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
-L6,,Cu,245.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
-L6,,EC,1125.0,uS/cm,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
-L6,,Fe,8.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
-L6,,HCO3,213.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
-L6,,K,7.7,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
-L6,,Mg,38.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
-L6,,Mn,644.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
-L6,,NO3,1.0,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
-L6,,Na,50.7,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
-L6,,Ni,451.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
-L6,,ORP,61.0,mV,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
-L6,,PO4,0.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
-L6,,Pb,837.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
-L6,,SO4,74.5,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
-L6,,TDS,621.0,mg/L,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
-L6,,Zn,473.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
-L6,,pH,6.3,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
-L7,,Al,684.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
-L7,,Ca,74.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
-L7,,Cd,64.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
-L7,,Cl,153.8,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
-L7,,Cr,320.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
-L7,,Cu,123.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
-L7,,EC,906.0,uS/cm,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
-L7,,Fe,5.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
-L7,,HCO3,209.3,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
-L7,,K,11.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
-L7,,Mg,35.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
-L7,,Mn,396.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
-L7,,NO3,2.1,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
-L7,,Na,42.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
-L7,,Ni,547.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
-L7,,ORP,182.2,mV,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
-L7,,PO4,1.3,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
-L7,,Pb,580.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
-L7,,SO4,53.1,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
-L7,,TDS,584.0,mg/L,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
-L7,,Zn,406.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
-L7,,pH,7.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
-L8,,Al,759.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
-L8,,Ca,70.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
-L8,,Cd,55.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
-L8,,Cl,120.8,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
-L8,,Cr,210.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
-L8,,Cu,157.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
-L8,,EC,878.0,uS/cm,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
-L8,,Fe,4.3,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
-L8,,HCO3,194.8,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
-L8,,K,12.8,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
-L8,,Mg,31.3,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
-L8,,Mn,227.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
-L8,,NO3,2.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
-L8,,Na,33.2,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
-L8,,Ni,264.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
-L8,,ORP,235.5,mV,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
-L8,,PO4,0.7,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
-L8,,Pb,522.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
-L8,,SO4,46.1,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
-L8,,TDS,604.0,mg/L,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
-L8,,Zn,413.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
-L8,,pH,7.3,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
-L9,,Al,522.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
-L9,,Ca,69.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
-L9,,Cd,39.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
-L9,,Cl,141.5,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
-L9,,Cr,150.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
-L9,,Cu,112.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
-L9,,EC,1090.0,uS/cm,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
-L9,,Fe,6.1,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
-L9,,HCO3,257.3,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
-L9,,K,14.4,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
-L9,,Mg,57.8,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
-L9,,Mn,728.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
-L9,,NO3,0.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
-L9,,Na,28.7,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
-L9,,Ni,421.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
-L9,,ORP,45.5,mV,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
-L9,,PO4,0.6,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
-L9,,Pb,720.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
-L9,,SO4,38.9,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
-L9,,TDS,695.0,mg/L,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
-L9,,Zn,384.0,ppb,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
-L9,,pH,7.0,,Reported value,water,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
+Sr No.,Location,Date,Month,Year,Season,Parameter,Actual Value,Mean,Std Dev,Unit,Source,Notes/Extraction Remark
+1,Jagatpur (Rural),,,,,Al,473.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
+2,Jagatpur (Rural),,,,,Ca,54.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
+3,Jagatpur (Rural),,,,,Cd,11.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
+4,Jagatpur (Rural),,,,,Cl,47.7,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
+5,Jagatpur (Rural),,,,,Cr,100.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
+6,Jagatpur (Rural),,,,,Cu,83.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
+7,Jagatpur (Rural),,,,,EC,557.0,,,uS/cm,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
+8,Jagatpur (Rural),,,,,Fe,2.5,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
+9,Jagatpur (Rural),,,,,HCO3,161.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
+10,Jagatpur (Rural),,,,,K,11.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
+11,Jagatpur (Rural),,,,,Mg,22.7,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
+12,Jagatpur (Rural),,,,,Mn,228.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
+13,Jagatpur (Rural),,,,,NO3,2.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
+14,Jagatpur (Rural),,,,,Na,20.7,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
+15,Jagatpur (Rural),,,,,Ni,254.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
+16,Jagatpur (Rural),,,,,ORP,240.0,,,mV,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
+17,Jagatpur (Rural),,,,,PO4,0.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
+18,Jagatpur (Rural),,,,,Pb,202.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
+19,Jagatpur (Rural),,,,,SO4,42.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
+20,Jagatpur (Rural),,,,,TDS,388.0,,,mg/L,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
+21,Jagatpur (Rural),,,,,Zn,207.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
+22,Jagatpur (Rural),,,,,pH,8.1,,,,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
+23,Indraprastha (Downstream Drains),,,,,Al,465.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
+24,Indraprastha (Downstream Drains),,,,,Ca,76.5,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
+25,Indraprastha (Downstream Drains),,,,,Cd,55.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
+26,Indraprastha (Downstream Drains),,,,,Cl,116.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
+27,Indraprastha (Downstream Drains),,,,,Cr,140.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
+28,Indraprastha (Downstream Drains),,,,,Cu,91.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
+29,Indraprastha (Downstream Drains),,,,,EC,917.0,,,uS/cm,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
+30,Indraprastha (Downstream Drains),,,,,Fe,6.0,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
+31,Indraprastha (Downstream Drains),,,,,HCO3,272.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
+32,Indraprastha (Downstream Drains),,,,,K,16.0,,,,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
+33,Indraprastha (Downstream Drains),,,,,Mg,38.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
+34,Indraprastha (Downstream Drains),,,,,Mn,571.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
+35,Indraprastha (Downstream Drains),,,,,NO3,2.1,,,,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
+36,Indraprastha (Downstream Drains),,,,,Na,37.8,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
+37,Indraprastha (Downstream Drains),,,,,Ni,272.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
+38,Indraprastha (Downstream Drains),,,,,ORP,69.6,,,mV,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
+39,Indraprastha (Downstream Drains),,,,,PO4,0.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
+40,Indraprastha (Downstream Drains),,,,,Pb,498.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
+41,Indraprastha (Downstream Drains),,,,,SO4,43.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
+42,Indraprastha (Downstream Drains),,,,,TDS,743.0,,,mg/L,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
+43,Indraprastha (Downstream Drains),,,,,Zn,278.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
+44,Indraprastha (Downstream Drains),,,,,pH,7.8,,,,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
+45,Okhla Sanctuary,,,,,Al,716.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
+46,Okhla Sanctuary,,,,,Ca,116.0,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
+47,Okhla Sanctuary,,,,,Cd,93.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
+48,Okhla Sanctuary,,,,,Cl,276.7,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
+49,Okhla Sanctuary,,,,,Cr,480.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
+50,Okhla Sanctuary,,,,,Cu,228.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
+51,Okhla Sanctuary,,,,,EC,1381.0,,,uS/cm,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
+52,Okhla Sanctuary,,,,,Fe,4.5,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
+53,Okhla Sanctuary,,,,,HCO3,233.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
+54,Okhla Sanctuary,,,,,K,18.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
+55,Okhla Sanctuary,,,,,Mg,41.7,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
+56,Okhla Sanctuary,,,,,Mn,333.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
+57,Okhla Sanctuary,,,,,NO3,3.5,,,,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
+58,Okhla Sanctuary,,,,,Na,55.3,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
+59,Okhla Sanctuary,,,,,Ni,351.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
+60,Okhla Sanctuary,,,,,ORP,260.9,,,mV,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
+61,Okhla Sanctuary,,,,,PO4,1.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
+62,Okhla Sanctuary,,,,,Pb,610.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
+63,Okhla Sanctuary,,,,,SO4,70.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
+64,Okhla Sanctuary,,,,,TDS,953.0,,,mg/L,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
+65,Okhla Sanctuary,,,,,Zn,395.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
+66,Okhla Sanctuary,,,,,pH,6.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
+67,Okhla Sanctuary,,,,,Al,570.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
+68,Okhla Sanctuary,,,,,Ca,123.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
+69,Okhla Sanctuary,,,,,Cd,85.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
+70,Okhla Sanctuary,,,,,Cl,293.0,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
+71,Okhla Sanctuary,,,,,Cr,370.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
+72,Okhla Sanctuary,,,,,Cu,316.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
+73,Okhla Sanctuary,,,,,EC,1276.0,,,uS/cm,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
+74,Okhla Sanctuary,,,,,Fe,5.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
+75,Okhla Sanctuary,,,,,HCO3,249.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
+76,Okhla Sanctuary,,,,,K,16.5,,,,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
+77,Okhla Sanctuary,,,,,Mg,47.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
+78,Okhla Sanctuary,,,,,Mn,428.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
+79,Okhla Sanctuary,,,,,NO3,3.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
+80,Okhla Sanctuary,,,,,Na,52.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
+81,Okhla Sanctuary,,,,,Ni,426.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
+82,Okhla Sanctuary,,,,,ORP,247.0,,,mV,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
+83,Okhla Sanctuary,,,,,PO4,0.7,,,,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
+84,Okhla Sanctuary,,,,,Pb,672.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
+85,Okhla Sanctuary,,,,,SO4,99.3,,,,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
+86,Okhla Sanctuary,,,,,TDS,782.0,,,mg/L,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
+87,Okhla Sanctuary,,,,,Zn,421.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
+88,Okhla Sanctuary,,,,,pH,7.1,,,,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
+89,Nizamuddin (High Traffic),,,,,Al,652.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
+90,Nizamuddin (High Traffic),,,,,Ca,108.5,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
+91,Nizamuddin (High Traffic),,,,,Cd,65.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
+92,Nizamuddin (High Traffic),,,,,Cl,235.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
+93,Nizamuddin (High Traffic),,,,,Cr,290.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
+94,Nizamuddin (High Traffic),,,,,Cu,139.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
+95,Nizamuddin (High Traffic),,,,,EC,1106.0,,,uS/cm,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
+96,Nizamuddin (High Traffic),,,,,Fe,4.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
+97,Nizamuddin (High Traffic),,,,,HCO3,248.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
+98,Nizamuddin (High Traffic),,,,,K,12.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
+99,Nizamuddin (High Traffic),,,,,Mg,56.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
+100,Nizamuddin (High Traffic),,,,,Mn,232.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
+101,Nizamuddin (High Traffic),,,,,NO3,2.5,,,,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
+102,Nizamuddin (High Traffic),,,,,Na,40.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
+103,Nizamuddin (High Traffic),,,,,Ni,424.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
+104,Nizamuddin (High Traffic),,,,,ORP,224.0,,,mV,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
+105,Nizamuddin (High Traffic),,,,,PO4,0.8,,,,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
+106,Nizamuddin (High Traffic),,,,,Pb,653.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
+107,Nizamuddin (High Traffic),,,,,SO4,71.0,,,,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
+108,Nizamuddin (High Traffic),,,,,TDS,609.0,,,mg/L,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
+109,Nizamuddin (High Traffic),,,,,Zn,401.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
+110,Nizamuddin (High Traffic),,,,,pH,6.8,,,,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
+111,Shahdara Drain (Downstream),,,,,Al,424.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
+112,Shahdara Drain (Downstream),,,,,Ca,94.8,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
+113,Shahdara Drain (Downstream),,,,,Cd,56.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
+114,Shahdara Drain (Downstream),,,,,Cl,236.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
+115,Shahdara Drain (Downstream),,,,,Cr,530.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
+116,Shahdara Drain (Downstream),,,,,Cu,223.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
+117,Shahdara Drain (Downstream),,,,,EC,1265.0,,,uS/cm,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
+118,Shahdara Drain (Downstream),,,,,Fe,6.3,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
+119,Shahdara Drain (Downstream),,,,,HCO3,227.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
+120,Shahdara Drain (Downstream),,,,,K,15.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
+121,Shahdara Drain (Downstream),,,,,Mg,43.1,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
+122,Shahdara Drain (Downstream),,,,,Mn,373.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
+123,Shahdara Drain (Downstream),,,,,NO3,3.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
+124,Shahdara Drain (Downstream),,,,,Na,55.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
+125,Shahdara Drain (Downstream),,,,,Ni,473.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
+126,Shahdara Drain (Downstream),,,,,ORP,249.0,,,mV,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
+127,Shahdara Drain (Downstream),,,,,PO4,0.8,,,,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
+128,Shahdara Drain (Downstream),,,,,Pb,510.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
+129,Shahdara Drain (Downstream),,,,,SO4,79.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
+130,Shahdara Drain (Downstream),,,,,TDS,712.0,,,mg/L,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
+131,Shahdara Drain (Downstream),,,,,Zn,437.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
+132,Shahdara Drain (Downstream),,,,,pH,7.0,,,,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
+133,Jagatpur (Rural),,,,,Al,564.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
+134,Jagatpur (Rural),,,,,Ca,38.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
+135,Jagatpur (Rural),,,,,Cd,37.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
+136,Jagatpur (Rural),,,,,Cl,57.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
+137,Jagatpur (Rural),,,,,Cr,80.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
+138,Jagatpur (Rural),,,,,Cu,121.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
+139,Jagatpur (Rural),,,,,EC,686.0,,,uS/cm,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
+140,Jagatpur (Rural),,,,,Fe,2.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
+141,Jagatpur (Rural),,,,,HCO3,186.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
+142,Jagatpur (Rural),,,,,K,13.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
+143,Jagatpur (Rural),,,,,Mg,32.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
+144,Jagatpur (Rural),,,,,Mn,242.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
+145,Jagatpur (Rural),,,,,NO3,2.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
+146,Jagatpur (Rural),,,,,Na,38.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
+147,Jagatpur (Rural),,,,,Ni,168.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
+148,Jagatpur (Rural),,,,,ORP,238.0,,,mV,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
+149,Jagatpur (Rural),,,,,PO4,0.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
+150,Jagatpur (Rural),,,,,Pb,306.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
+151,Jagatpur (Rural),,,,,SO4,30.3,,,,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
+152,Jagatpur (Rural),,,,,TDS,446.0,,,mg/L,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
+153,Jagatpur (Rural),,,,,Zn,212.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
+154,Jagatpur (Rural),,,,,pH,8.1,,,,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
+155,Narela (Urban),,,,,Al,523.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
+156,Narela (Urban),,,,,Ca,45.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
+157,Narela (Urban),,,,,Cd,53.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
+158,Narela (Urban),,,,,Cl,95.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
+159,Narela (Urban),,,,,Cr,70.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
+160,Narela (Urban),,,,,Cu,93.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
+161,Narela (Urban),,,,,EC,726.0,,,uS/cm,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
+162,Narela (Urban),,,,,Fe,3.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
+163,Narela (Urban),,,,,HCO3,206.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
+164,Narela (Urban),,,,,K,6.0,,,,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
+165,Narela (Urban),,,,,Mg,37.3,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
+166,Narela (Urban),,,,,Mn,286.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
+167,Narela (Urban),,,,,NO3,1.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
+168,Narela (Urban),,,,,Na,35.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
+169,Narela (Urban),,,,,Ni,192.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
+170,Narela (Urban),,,,,ORP,189.5,,,mV,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
+171,Narela (Urban),,,,,PO4,0.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
+172,Narela (Urban),,,,,Pb,316.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
+173,Narela (Urban),,,,,SO4,56.3,,,,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
+174,Narela (Urban),,,,,TDS,458.0,,,mg/L,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
+175,Narela (Urban),,,,,Zn,247.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
+176,Narela (Urban),,,,,pH,7.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
+177,Narela (Urban),,,,,Al,673.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
+178,Narela (Urban),,,,,Ca,63.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
+179,Narela (Urban),,,,,Cd,31.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
+180,Narela (Urban),,,,,Cl,115.0,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
+181,Narela (Urban),,,,,Cr,100.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
+182,Narela (Urban),,,,,Cu,175.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
+183,Narela (Urban),,,,,EC,788.0,,,uS/cm,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
+184,Narela (Urban),,,,,Fe,4.1,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
+185,Narela (Urban),,,,,HCO3,217.3,,,,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
+186,Narela (Urban),,,,,K,9.0,,,,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
+187,Narela (Urban),,,,,Mg,24.8,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
+188,Narela (Urban),,,,,Mn,396.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
+189,Narela (Urban),,,,,NO3,2.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
+190,Narela (Urban),,,,,Na,43.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
+191,Narela (Urban),,,,,Ni,203.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
+192,Narela (Urban),,,,,ORP,157.0,,,mV,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
+193,Narela (Urban),,,,,PO4,0.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
+194,Narela (Urban),,,,,Pb,405.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
+195,Narela (Urban),,,,,SO4,61.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
+196,Narela (Urban),,,,,TDS,519.0,,,mg/L,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
+197,Narela (Urban),,,,,Zn,288.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
+198,Narela (Urban),,,,,pH,7.5,,,,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
+199,Najafgarh Drain (Industrial),,,,,Al,831.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
+200,Najafgarh Drain (Industrial),,,,,Ca,97.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
+201,Najafgarh Drain (Industrial),,,,,Cd,58.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
+202,Najafgarh Drain (Industrial),,,,,Cl,246.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
+203,Najafgarh Drain (Industrial),,,,,Cr,160.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
+204,Najafgarh Drain (Industrial),,,,,Cu,198.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
+205,Najafgarh Drain (Industrial),,,,,EC,1273.0,,,uS/cm,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
+206,Najafgarh Drain (Industrial),,,,,Fe,6.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
+207,Najafgarh Drain (Industrial),,,,,HCO3,232.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
+208,Najafgarh Drain (Industrial),,,,,K,8.7,,,,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
+209,Najafgarh Drain (Industrial),,,,,Mg,44.1,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
+210,Najafgarh Drain (Industrial),,,,,Mn,429.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
+211,Najafgarh Drain (Industrial),,,,,NO3,1.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
+212,Najafgarh Drain (Industrial),,,,,Na,64.8,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
+213,Najafgarh Drain (Industrial),,,,,Ni,364.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
+214,Najafgarh Drain (Industrial),,,,,ORP,94.7,,,mV,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
+215,Najafgarh Drain (Industrial),,,,,PO4,0.5,,,,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
+216,Najafgarh Drain (Industrial),,,,,Pb,660.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
+217,Najafgarh Drain (Industrial),,,,,SO4,87.7,,,,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
+218,Najafgarh Drain (Industrial),,,,,TDS,775.0,,,mg/L,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
+219,Najafgarh Drain (Industrial),,,,,Zn,421.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
+220,Najafgarh Drain (Industrial),,,,,pH,6.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
+221,Najafgarh Drain (Industrial),,,,,Al,878.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
+222,Najafgarh Drain (Industrial),,,,,Ca,90.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
+223,Najafgarh Drain (Industrial),,,,,Cd,74.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
+224,Najafgarh Drain (Industrial),,,,,Cl,216.8,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
+225,Najafgarh Drain (Industrial),,,,,Cr,280.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
+226,Najafgarh Drain (Industrial),,,,,Cu,245.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
+227,Najafgarh Drain (Industrial),,,,,EC,1125.0,,,uS/cm,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
+228,Najafgarh Drain (Industrial),,,,,Fe,8.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
+229,Najafgarh Drain (Industrial),,,,,HCO3,213.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
+230,Najafgarh Drain (Industrial),,,,,K,7.7,,,,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
+231,Najafgarh Drain (Industrial),,,,,Mg,38.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
+232,Najafgarh Drain (Industrial),,,,,Mn,644.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
+233,Najafgarh Drain (Industrial),,,,,NO3,1.0,,,,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
+234,Najafgarh Drain (Industrial),,,,,Na,50.7,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
+235,Najafgarh Drain (Industrial),,,,,Ni,451.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
+236,Najafgarh Drain (Industrial),,,,,ORP,61.0,,,mV,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
+237,Najafgarh Drain (Industrial),,,,,PO4,0.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
+238,Najafgarh Drain (Industrial),,,,,Pb,837.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
+239,Najafgarh Drain (Industrial),,,,,SO4,74.5,,,,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
+240,Najafgarh Drain (Industrial),,,,,TDS,621.0,,,mg/L,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
+241,Najafgarh Drain (Industrial),,,,,Zn,473.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
+242,Najafgarh Drain (Industrial),,,,,pH,6.3,,,,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
+243,Rajghat (Agricultural),,,,,Al,684.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
+244,Rajghat (Agricultural),,,,,Ca,74.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
+245,Rajghat (Agricultural),,,,,Cd,64.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
+246,Rajghat (Agricultural),,,,,Cl,153.8,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
+247,Rajghat (Agricultural),,,,,Cr,320.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
+248,Rajghat (Agricultural),,,,,Cu,123.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
+249,Rajghat (Agricultural),,,,,EC,906.0,,,uS/cm,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
+250,Rajghat (Agricultural),,,,,Fe,5.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
+251,Rajghat (Agricultural),,,,,HCO3,209.3,,,,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
+252,Rajghat (Agricultural),,,,,K,11.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
+253,Rajghat (Agricultural),,,,,Mg,35.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
+254,Rajghat (Agricultural),,,,,Mn,396.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
+255,Rajghat (Agricultural),,,,,NO3,2.1,,,,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
+256,Rajghat (Agricultural),,,,,Na,42.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
+257,Rajghat (Agricultural),,,,,Ni,547.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
+258,Rajghat (Agricultural),,,,,ORP,182.2,,,mV,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
+259,Rajghat (Agricultural),,,,,PO4,1.3,,,,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
+260,Rajghat (Agricultural),,,,,Pb,580.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
+261,Rajghat (Agricultural),,,,,SO4,53.1,,,,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
+262,Rajghat (Agricultural),,,,,TDS,584.0,,,mg/L,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
+263,Rajghat (Agricultural),,,,,Zn,406.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
+264,Rajghat (Agricultural),,,,,pH,7.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
+265,Rajghat (Agricultural),,,,,Al,759.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
+266,Rajghat (Agricultural),,,,,Ca,70.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
+267,Rajghat (Agricultural),,,,,Cd,55.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
+268,Rajghat (Agricultural),,,,,Cl,120.8,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
+269,Rajghat (Agricultural),,,,,Cr,210.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
+270,Rajghat (Agricultural),,,,,Cu,157.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
+271,Rajghat (Agricultural),,,,,EC,878.0,,,uS/cm,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
+272,Rajghat (Agricultural),,,,,Fe,4.3,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
+273,Rajghat (Agricultural),,,,,HCO3,194.8,,,,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
+274,Rajghat (Agricultural),,,,,K,12.8,,,,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
+275,Rajghat (Agricultural),,,,,Mg,31.3,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
+276,Rajghat (Agricultural),,,,,Mn,227.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
+277,Rajghat (Agricultural),,,,,NO3,2.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
+278,Rajghat (Agricultural),,,,,Na,33.2,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
+279,Rajghat (Agricultural),,,,,Ni,264.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
+280,Rajghat (Agricultural),,,,,ORP,235.5,,,mV,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
+281,Rajghat (Agricultural),,,,,PO4,0.7,,,,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
+282,Rajghat (Agricultural),,,,,Pb,522.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
+283,Rajghat (Agricultural),,,,,SO4,46.1,,,,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
+284,Rajghat (Agricultural),,,,,TDS,604.0,,,mg/L,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
+285,Rajghat (Agricultural),,,,,Zn,413.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
+286,Rajghat (Agricultural),,,,,pH,7.3,,,,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
+287,Rajghat (Agricultural),,,,,Al,522.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Al_ppb.
+288,Rajghat (Agricultural),,,,,Ca,69.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Ca. Unit not specified in the worksheet header.
+289,Rajghat (Agricultural),,,,,Cd,39.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cd_ppb.
+290,Rajghat (Agricultural),,,,,Cl,141.5,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Cl. Unit not specified in the worksheet header.
+291,Rajghat (Agricultural),,,,,Cr,150.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cr_ppb.
+292,Rajghat (Agricultural),,,,,Cu,112.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Cu_ppb.
+293,Rajghat (Agricultural),,,,,EC,1090.0,,,uS/cm,Ground truth workbook: Paper 7 main table,Original workbook column: EC_uScm.
+294,Rajghat (Agricultural),,,,,Fe,6.1,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Fe. Unit not specified in the worksheet header.
+295,Rajghat (Agricultural),,,,,HCO3,257.3,,,,Ground truth workbook: Paper 7 main table,Original workbook column: HCO3. Unit not specified in the worksheet header.
+296,Rajghat (Agricultural),,,,,K,14.4,,,,Ground truth workbook: Paper 7 main table,Original workbook column: K. Unit not specified in the worksheet header.
+297,Rajghat (Agricultural),,,,,Mg,57.8,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Mg. Unit not specified in the worksheet header.
+298,Rajghat (Agricultural),,,,,Mn,728.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Mn_ppb.
+299,Rajghat (Agricultural),,,,,NO3,0.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: NO3. Unit not specified in the worksheet header.
+300,Rajghat (Agricultural),,,,,Na,28.7,,,,Ground truth workbook: Paper 7 main table,Original workbook column: Na. Unit not specified in the worksheet header.
+301,Rajghat (Agricultural),,,,,Ni,421.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Ni_ppb.
+302,Rajghat (Agricultural),,,,,ORP,45.5,,,mV,Ground truth workbook: Paper 7 main table,Original workbook column: ORP_mV.
+303,Rajghat (Agricultural),,,,,PO4,0.6,,,,Ground truth workbook: Paper 7 main table,Original workbook column: PO4. Unit not specified in the worksheet header.
+304,Rajghat (Agricultural),,,,,Pb,720.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Pb_ppb.
+305,Rajghat (Agricultural),,,,,SO4,38.9,,,,Ground truth workbook: Paper 7 main table,Original workbook column: SO4. Unit not specified in the worksheet header.
+306,Rajghat (Agricultural),,,,,TDS,695.0,,,mg/L,Ground truth workbook: Paper 7 main table,Original workbook column: TDS_mgL.
+307,Rajghat (Agricultural),,,,,Zn,384.0,,,ppb,Ground truth workbook: Paper 7 main table,Original workbook column: Zn_ppb.
+308,Rajghat (Agricultural),,,,,pH,7.0,,,,Ground truth workbook: Paper 7 main table,Original workbook column: pH. Unit not specified in the worksheet header.
