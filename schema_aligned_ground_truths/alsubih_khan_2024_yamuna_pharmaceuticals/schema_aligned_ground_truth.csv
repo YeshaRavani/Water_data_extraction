@@ -1,73 +1,73 @@
-Location,Sampling period,Parameter,Value,Unit,Statistic,Sample matrix,Source table,Notes
-Delhi,,Actual utilised capacity,2712.0,MLD,Reported value,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Actual utilised capacity (MLD).
-Delhi,,Capacity lost due to non-operational WWTPs,90.0,MLD,Reported value,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Capacity lost due to non-operational WWTPs (MLD).
-Delhi,,Fully functional WWTPs,24.0,,Reported value,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Fully functional WWTPs.
-Delhi,,Installed treatment capacity,2896.0,MLD,Reported value,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Installed treatment capacity (MLD).
-Delhi,,Non-functional WWTPs,6.0,,Reported value,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Non-functional WWTPs.
-Delhi,,Operational capacity,2715.0,MLD,Reported value,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Operational capacity (MLD).
-Delhi,,Over-capacity WWTPs,2.0,,Reported value,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Over-capacity WWTPs.
-Delhi,,Total WWTPs installed,41.0,,Reported value,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Total WWTPs installed.
-Delhi,,Total sewage generated,3330.0,MLD,Reported value,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Total sewage generated (MLD).
-Delhi,,Under-capacity WWTPs,9.0,,Reported value,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Under-capacity WWTPs.
-Delhi,,Untreated wastewater entering Yamuna,512.0,MLD/day,Reported value,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Untreated wastewater entering Yamuna (MLD/day).
-Delhi stretch,,Annual mean flow,13.9,BCM,Reported value,,Ground truth workbook: Yamuna River Flow Characteristics,Original workbook label: Annual mean flow (BCM).
-Delhi stretch,,Flow during remaining 9 months,0.3,BCM,Reported value,,Ground truth workbook: Yamuna River Flow Characteristics,Original workbook label: Flow during remaining 9 months (BCM).
-Delhi stretch,,Flow released at Wazirabad during monsoon,3.8,BCM,Reported value,,Ground truth workbook: Yamuna River Flow Characteristics,Original workbook label: Flow released at Wazirabad during monsoon (BCM).
-Delhi stretch,,Increase in river flow during monsoon,12.0,times,Reported value,,Ground truth workbook: Flow vs Pollution Relationship,Original workbook label: Increase in river flow during monsoon (times).
-Delhi stretch,,Monsoon flow contribution,80.0,%,Reported value,,Ground truth workbook: Yamuna River Flow Characteristics,Original workbook label: Monsoon flow contribution (%).
-Delhi stretch,,Non-monsoon flow contribution,20.0,%,Reported value,,Ground truth workbook: Yamuna River Flow Characteristics,Original workbook label: Non-monsoon flow contribution (%).
-Delhi stretch,,Remaining river flow,4.4,BCM,Reported value,,Ground truth workbook: Yamuna River Flow Characteristics,Original workbook label: Remaining river flow (BCM).
-Delhi stretch,,Untreated sewage as fraction of river flow,45.0,%,Reported value,,Ground truth workbook: Flow vs Pollution Relationship,Original workbook label: Untreated sewage as fraction of river flow (%).
-Delhi stretch,,Variation in PhAC concentration,1.8,times,Reported value,,Ground truth workbook: Flow vs Pollution Relationship,Original workbook label: Variation in PhAC concentration (times).
-Delhi stretch,,Water extracted for irrigation & drinking,9.5,BCM,Reported value,,Ground truth workbook: Yamuna River Flow Characteristics,Original workbook label: Water extracted for irrigation & drinking (BCM).
-Delhi stretch,2024,Carbamazepine,589.5,ng L-1,Max,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Carbamazepine,180.5473,ng L-1,Mean,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Carbamazepine,61.06,ng L-1,Min,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Ciprofloxacin,192.05,ng L-1,Max,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Ciprofloxacin,92.402,ng L-1,Mean,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Ciprofloxacin,0.0,ng L-1,Min,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Fluvastatin,468.93,ng L-1,Max,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Fluvastatin,185.4907,ng L-1,Mean,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Fluvastatin,51.34,ng L-1,Min,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Ketoprofen,1534.0,ng L-1,Max,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Ketoprofen,487.128,ng L-1,Mean,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Ketoprofen,122.43,ng L-1,Min,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Lorazepam,238.64,ng L-1,Max,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Lorazepam,80.2253,ng L-1,Mean,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Lorazepam,22.94,ng L-1,Min,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Paracetamol,421.0,ng L-1,Max,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Paracetamol,127.2813,ng L-1,Mean,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Paracetamol,0.0,ng L-1,Min,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Sulfamethoxazole,192.06,ng L-1,Max,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Sulfamethoxazole,60.5987,ng L-1,Mean,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,2024,Sulfamethoxazole,0.0,ng L-1,Min,river water,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
-Delhi stretch,Monsoon to Post Monsoon,Antibiotics,76.0,%,Percentage change range max,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Antibiotics. Original range: 13-76%.
-Delhi stretch,Monsoon to Post Monsoon,Antibiotics,13.0,%,Percentage change range min,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Antibiotics. Original range: 13-76%.
-Delhi stretch,Monsoon to Post Monsoon,Carbamazepine,66.0,%,Percentage change range max,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Carbamazepine (CAB). Original range: 6-66%.
-Delhi stretch,Monsoon to Post Monsoon,Carbamazepine,6.0,%,Percentage change range min,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Carbamazepine (CAB). Original range: 6-66%.
-Delhi stretch,Monsoon to Post Monsoon,LUT,77.0,%,Percentage change range max,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: LUT. Original range: 10-77%.
-Delhi stretch,Monsoon to Post Monsoon,LUT,10.0,%,Percentage change range min,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: LUT. Original range: 10-77%.
-Delhi stretch,Monsoon to Post Monsoon,Lorazepam,41.0,%,Percentage change range max,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Lorazepam (LOR). Original range: 6-41%.
-Delhi stretch,Monsoon to Post Monsoon,Lorazepam,6.0,%,Percentage change range min,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Lorazepam (LOR). Original range: 6-41%.
-Delhi stretch,Monsoon to Post Monsoon,NSAIDs,86.0,%,Percentage change range max,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: NSAIDs. Original range: 25-86%.
-Delhi stretch,Monsoon to Post Monsoon,NSAIDs,25.0,%,Percentage change range min,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: NSAIDs. Original range: 25-86%.
-Delhi stretch,Pre monsoon to Monsoon,Carbamazepine,37.0,%,Reduction range max,river water,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Carbamazepine (CAB). Original range: 0–37.
-Delhi stretch,Pre monsoon to Monsoon,Carbamazepine,0.0,%,Reduction range min,river water,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Carbamazepine (CAB). Original range: 0–37.
-Delhi stretch,Pre monsoon to Monsoon,Ciprofloxacin,35.0,%,Reduction range max,river water,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Ciprofloxacin (CIP/CIF). Original range: 1–35.
-Delhi stretch,Pre monsoon to Monsoon,Ciprofloxacin,1.0,%,Reduction range min,river water,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Ciprofloxacin (CIP/CIF). Original range: 1–35.
-Delhi stretch,Pre monsoon to Monsoon,Ibuprofen,42.0,%,Reduction range max,river water,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Ibuprofen (IBF). Original range: 0–42.
-Delhi stretch,Pre monsoon to Monsoon,Ibuprofen,0.0,%,Reduction range min,river water,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Ibuprofen (IBF). Original range: 0–42.
-Delhi stretch,Pre monsoon to Monsoon,Lorazepam,40.0,%,Reduction range max,river water,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Lorazepam (LOR). Original range: 5–40.
-Delhi stretch,Pre monsoon to Monsoon,Lorazepam,5.0,%,Reduction range min,river water,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Lorazepam (LOR). Original range: 5–40.
-Delhi stretch,Pre monsoon to Monsoon,Paracetamol,24.0,%,Reduction range max,river water,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Paracetamol (PCM). Original range: 2–24.
-Delhi stretch,Pre monsoon to Monsoon,Paracetamol,2.0,%,Reduction range min,river water,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Paracetamol (PCM). Original range: 2–24.
-Delhi stretch,Pre monsoon to Monsoon,SIT,51.0,%,Reduction range max,river water,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: SIT. Original range: 20–51.
-Delhi stretch,Pre monsoon to Monsoon,SIT,20.0,%,Reduction range min,river water,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: SIT. Original range: 20–51.
-Delhi stretch,Pre monsoon to Monsoon,Sulfamethoxazole,29.0,%,Reduction range max,river water,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Sulfamethoxazole (SMZ). Original range: 18–29.
-Delhi stretch,Pre monsoon to Monsoon,Sulfamethoxazole,18.0,%,Reduction range min,river water,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Sulfamethoxazole (SMZ). Original range: 18–29.
-SP1,Monsoon to Post Monsoon,Ciprofloxacin,-36.0,%,Percentage change,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Ciprofloxacin (CIP/CIF).
-SP1,Monsoon to Post Monsoon,Ibuprofen,-18.0,%,Percentage change,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Ibuprofen (IBF).
-SP2,Monsoon to Post Monsoon,Sulfamethoxazole,-14.0,%,Percentage change,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Sulfamethoxazole (SMZ).
-SP3,Monsoon to Post Monsoon,Paracetamol,-11.0,%,Percentage change,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Paracetamol (PCM).
-SP4,Monsoon to Post Monsoon,Lorazepam,-7.0,%,Percentage change,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Lorazepam (LOR).
-SP4,Monsoon to Post Monsoon,Paracetamol,-30.0,%,Percentage change,river water,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Paracetamol (PCM).
+Sr No.,Location,Date,Month,Year,Season,Parameter,Actual Value,Mean,Std Dev,Unit,Source,Notes/Extraction Remark
+1,Delhi,,,,,Actual utilised capacity,2712.0,,,MLD,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Actual utilised capacity (MLD).
+2,Delhi,,,,,Capacity lost due to non-operational WWTPs,90.0,,,MLD,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Capacity lost due to non-operational WWTPs (MLD).
+3,Delhi,,,,,Fully functional WWTPs,24.0,,,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Fully functional WWTPs.
+4,Delhi,,,,,Installed treatment capacity,2896.0,,,MLD,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Installed treatment capacity (MLD).
+5,Delhi,,,,,Non-functional WWTPs,6.0,,,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Non-functional WWTPs.
+6,Delhi,,,,,Operational capacity,2715.0,,,MLD,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Operational capacity (MLD).
+7,Delhi,,,,,Over-capacity WWTPs,2.0,,,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Over-capacity WWTPs.
+8,Delhi,,,,,Total WWTPs installed,41.0,,,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Total WWTPs installed.
+9,Delhi,,,,,Total sewage generated,3330.0,,,MLD,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Total sewage generated (MLD).
+10,Delhi,,,,,Under-capacity WWTPs,9.0,,,,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Under-capacity WWTPs.
+11,Delhi,,,,,Untreated wastewater entering Yamuna,512.0,,,MLD/day,Ground truth workbook: Wastewater Treatment Infrastructure in Delhi,Original workbook label: Untreated wastewater entering Yamuna (MLD/day).
+12,Delhi stretch,,,,,Annual mean flow,13.9,,,BCM,Ground truth workbook: Yamuna River Flow Characteristics,Original workbook label: Annual mean flow (BCM).
+13,Delhi stretch,,,,,Flow during remaining 9 months,0.3,,,BCM,Ground truth workbook: Yamuna River Flow Characteristics,Original workbook label: Flow during remaining 9 months (BCM).
+14,Delhi stretch,,,,,Flow released at Wazirabad during monsoon,3.8,,,BCM,Ground truth workbook: Yamuna River Flow Characteristics,Original workbook label: Flow released at Wazirabad during monsoon (BCM).
+15,Delhi stretch,,,,,Increase in river flow during monsoon,12.0,,,times,Ground truth workbook: Flow vs Pollution Relationship,Original workbook label: Increase in river flow during monsoon (times).
+16,Delhi stretch,,,,,Monsoon flow contribution,80.0,,,%,Ground truth workbook: Yamuna River Flow Characteristics,Original workbook label: Monsoon flow contribution (%).
+17,Delhi stretch,,,,,Non-monsoon flow contribution,20.0,,,%,Ground truth workbook: Yamuna River Flow Characteristics,Original workbook label: Non-monsoon flow contribution (%).
+18,Delhi stretch,,,,,Remaining river flow,4.4,,,BCM,Ground truth workbook: Yamuna River Flow Characteristics,Original workbook label: Remaining river flow (BCM).
+19,Delhi stretch,,,,,Untreated sewage as fraction of river flow,45.0,,,%,Ground truth workbook: Flow vs Pollution Relationship,Original workbook label: Untreated sewage as fraction of river flow (%).
+20,Delhi stretch,,,,,Variation in PhAC concentration,1.8,,,times,Ground truth workbook: Flow vs Pollution Relationship,Original workbook label: Variation in PhAC concentration (times).
+21,Delhi stretch,,,,,Water extracted for irrigation & drinking,9.5,,,BCM,Ground truth workbook: Yamuna River Flow Characteristics,Original workbook label: Water extracted for irrigation & drinking (BCM).
+22,Delhi stretch,,,2024,,Carbamazepine,589.5,,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+23,Delhi stretch,,,2024,,Carbamazepine,180.5473,180.5473,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+24,Delhi stretch,,,2024,,Carbamazepine,61.06,,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+25,Delhi stretch,,,2024,,Ciprofloxacin,192.05,,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+26,Delhi stretch,,,2024,,Ciprofloxacin,92.402,92.402,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+27,Delhi stretch,,,2024,,Ciprofloxacin,0.0,,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+28,Delhi stretch,,,2024,,Fluvastatin,468.93,,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+29,Delhi stretch,,,2024,,Fluvastatin,185.4907,185.4907,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+30,Delhi stretch,,,2024,,Fluvastatin,51.34,,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+31,Delhi stretch,,,2024,,Ketoprofen,1534.0,,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+32,Delhi stretch,,,2024,,Ketoprofen,487.128,487.128,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+33,Delhi stretch,,,2024,,Ketoprofen,122.43,,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+34,Delhi stretch,,,2024,,Lorazepam,238.64,,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+35,Delhi stretch,,,2024,,Lorazepam,80.2253,80.2253,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+36,Delhi stretch,,,2024,,Lorazepam,22.94,,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+37,Delhi stretch,,,2024,,Paracetamol,421.0,,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+38,Delhi stretch,,,2024,,Paracetamol,127.2813,127.2813,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+39,Delhi stretch,,,2024,,Paracetamol,0.0,,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+40,Delhi stretch,,,2024,,Sulfamethoxazole,192.06,,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+41,Delhi stretch,,,2024,,Sulfamethoxazole,60.5987,60.5987,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+42,Delhi stretch,,,2024,,Sulfamethoxazole,0.0,,,ng L-1,Ground truth workbook: Parameters summary,Workbook metadata says: not mentioned explicitely(2024). Unit inferred from paper context because the workbook summary table omits it.
+43,Delhi stretch,,,,Monsoon to Post Monsoon,Antibiotics,76.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Antibiotics. Original range: 13-76%.
+44,Delhi stretch,,,,Monsoon to Post Monsoon,Antibiotics,13.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Antibiotics. Original range: 13-76%.
+45,Delhi stretch,,,,Monsoon to Post Monsoon,Carbamazepine,66.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Carbamazepine (CAB). Original range: 6-66%.
+46,Delhi stretch,,,,Monsoon to Post Monsoon,Carbamazepine,6.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Carbamazepine (CAB). Original range: 6-66%.
+47,Delhi stretch,,,,Monsoon to Post Monsoon,LUT,77.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: LUT. Original range: 10-77%.
+48,Delhi stretch,,,,Monsoon to Post Monsoon,LUT,10.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: LUT. Original range: 10-77%.
+49,Delhi stretch,,,,Monsoon to Post Monsoon,Lorazepam,41.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Lorazepam (LOR). Original range: 6-41%.
+50,Delhi stretch,,,,Monsoon to Post Monsoon,Lorazepam,6.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Lorazepam (LOR). Original range: 6-41%.
+51,Delhi stretch,,,,Monsoon to Post Monsoon,NSAIDs,86.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: NSAIDs. Original range: 25-86%.
+52,Delhi stretch,,,,Monsoon to Post Monsoon,NSAIDs,25.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: NSAIDs. Original range: 25-86%.
+53,Delhi stretch,,,,Pre monsoon to Monsoon,Carbamazepine,37.0,,,%,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Carbamazepine (CAB). Original range: 0–37.
+54,Delhi stretch,,,,Pre monsoon to Monsoon,Carbamazepine,0.0,,,%,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Carbamazepine (CAB). Original range: 0–37.
+55,Delhi stretch,,,,Pre monsoon to Monsoon,Ciprofloxacin,35.0,,,%,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Ciprofloxacin (CIP/CIF). Original range: 1–35.
+56,Delhi stretch,,,,Pre monsoon to Monsoon,Ciprofloxacin,1.0,,,%,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Ciprofloxacin (CIP/CIF). Original range: 1–35.
+57,Delhi stretch,,,,Pre monsoon to Monsoon,Ibuprofen,42.0,,,%,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Ibuprofen (IBF). Original range: 0–42.
+58,Delhi stretch,,,,Pre monsoon to Monsoon,Ibuprofen,0.0,,,%,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Ibuprofen (IBF). Original range: 0–42.
+59,Delhi stretch,,,,Pre monsoon to Monsoon,Lorazepam,40.0,,,%,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Lorazepam (LOR). Original range: 5–40.
+60,Delhi stretch,,,,Pre monsoon to Monsoon,Lorazepam,5.0,,,%,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Lorazepam (LOR). Original range: 5–40.
+61,Delhi stretch,,,,Pre monsoon to Monsoon,Paracetamol,24.0,,,%,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Paracetamol (PCM). Original range: 2–24.
+62,Delhi stretch,,,,Pre monsoon to Monsoon,Paracetamol,2.0,,,%,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Paracetamol (PCM). Original range: 2–24.
+63,Delhi stretch,,,,Pre monsoon to Monsoon,SIT,51.0,,,%,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: SIT. Original range: 20–51.
+64,Delhi stretch,,,,Pre monsoon to Monsoon,SIT,20.0,,,%,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: SIT. Original range: 20–51.
+65,Delhi stretch,,,,Pre monsoon to Monsoon,Sulfamethoxazole,29.0,,,%,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Sulfamethoxazole (SMZ). Original range: 18–29.
+66,Delhi stretch,,,,Pre monsoon to Monsoon,Sulfamethoxazole,18.0,,,%,Ground truth workbook: Pre monsoon to Monsoon,Original workbook label: Sulfamethoxazole (SMZ). Original range: 18–29.
+67,Wazirabad barrage,,,,Monsoon to Post Monsoon,Ciprofloxacin,-36.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Ciprofloxacin (CIP/CIF).
+68,Wazirabad barrage,,,,Monsoon to Post Monsoon,Ibuprofen,-18.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Ibuprofen (IBF).
+69,Wazirabad Khyber Pass drain,,,,Monsoon to Post Monsoon,Sulfamethoxazole,-14.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Sulfamethoxazole (SMZ).
+70,Delhi Gate drain,,,,Monsoon to Post Monsoon,Paracetamol,-11.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Paracetamol (PCM).
+71,Maharani Bagh drain,,,,Monsoon to Post Monsoon,Lorazepam,-7.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Lorazepam (LOR).
+72,Maharani Bagh drain,,,,Monsoon to Post Monsoon,Paracetamol,-30.0,,,%,Ground truth workbook: Monsoon to Post Monsoon,Original workbook label: Paracetamol (PCM).

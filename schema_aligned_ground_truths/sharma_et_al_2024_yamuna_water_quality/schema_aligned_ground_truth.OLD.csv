@@ -1,0 +1,142 @@
+Location,Sampling period,Parameter,Value,Unit,Statistic,Sample matrix,Source table,Notes
+Nizamuddin (Delhi),,Faecal Coliforms,"2,100,000 – 10,000,000",,Reported value,River water,Water Quality Parameters,
+Downstream of Agra (UP),,Faecal Coliforms,450610000,,Reported value,River water,Water Quality Parameters,
+Various locations,,Total Coliforms,"700,000 – 28,000,000; 220,032,000",,Reported value,River water,Water Quality Parameters,
+Overall Yamuna,,BOD,93,mg/L,Reported value,River water,Water Quality Parameters,CPCB: 3 mg/L; WHO: 5 mg/L
+Himalayan Segment,,BOD,0–3,mg/L,Reported value,River water,Water Quality Parameters,
+Upper Segment,,BOD,1–3,mg/L,Reported value,River water,Water Quality Parameters,
+Delhi Segment,,BOD,3–25,mg/L,Reported value,River water,Water Quality Parameters,
+Eutrophicated Segment,,BOD,18–6,mg/L,Reported value,River water,Water Quality Parameters,As reported
+Diluted Segment,,BOD,13–1,mg/L,Reported value,River water,Water Quality Parameters,As reported
+Overall Yamuna,Summer,COD,202.66,mg/L,Reported value,River water,Water Quality Parameters,
+Overall Yamuna,Monsoon,COD,64,mg/L,Reported value,River water,Water Quality Parameters,
+Overall Yamuna,Winter,COD,89,mg/L,Reported value,River water,Water Quality Parameters,
+Overall Yamuna,Spring,COD,71.11,mg/L,Reported value,River water,Water Quality Parameters,
+Himalayan Segment,,COD,6–10,mg/L,Reported value,River water,Water Quality Parameters,
+Upper Segment,,COD,10–7,mg/L,Reported value,River water,Water Quality Parameters,As reported
+Delhi Segment,,COD,7–1,mg/L,Reported value,River water,Water Quality Parameters,As reported
+Himalayan Segment,,TDS,6–10,mg/L,Reported value,River water,Water Quality Parameters,
+Himalayan Segment,,DO,6–10,mg/L,Reported value,River water,Water Quality Parameters,
+Upper Segment,,DO,10–7,mg/L,Reported value,River water,Water Quality Parameters,As reported
+Delhi Segment,,DO,7–1,mg/L,Reported value,River water,Water Quality Parameters,As reported
+Eutrophicated Segment,,DO,1–12,mg/L,Reported value,River water,Water Quality Parameters,
+Diluted Segment,,DO,11–7,mg/L,Reported value,River water,Water Quality Parameters,As reported
+General,,Phosphate,0.51,mg/L,Reported value,River water,Water Quality Parameters,Standard: 0.005–0.05 mg/L
+Overall,,Pb,0.06,mg/L,MCL Limit,River water,Metals MCL,
+Overall,,Cr,0.05,mg/L,MCL Limit,River water,Metals MCL,
+Overall,,Cu,0.25,mg/L,MCL Limit,River water,Metals MCL,
+Overall,,Cd,0.01,mg/L,MCL Limit,River water,Metals MCL,
+Overall,,Zn,0.8,mg/L,MCL Limit,River water,Metals MCL,
+Overall,,Ni,0.2,mg/L,MCL Limit,River water,Metals MCL,
+Overall,,Water temperature,15,°C,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,Water temperature,25,°C,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,pH,6.5–8.5,,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,pH,8.5,,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,pH,6.5–8.5,,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,DO,5,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,TDS,500,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,TDS,500,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,TDS,500,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,Turbidity,1–5,NTU,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Turbidity,5,NTU,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,Turbidity,5,NTU,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,Ammonia,0.5,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Ammonia,1.37,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,Ammonia,0.2,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,Nitrate,45,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Nitrate,48.2,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,Nitrate,50,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,Lead,0.01,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Lead,0.01,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,Lead,0.01,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,Chromium,0.05,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Chromium,0.05,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,Chromium,0.05,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,Iron,0.3,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Iron,0.3,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,Iron,0.3,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,Aluminium,0.03,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Aluminium,2.9,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,Calcium,75,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Chloride,250,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Chloride,200–300,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,Copper,0.05,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Copper,2,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,Copper,2,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,Fluoride,1,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Fluoride,1.5,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,Fluoride,1.5,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,Magnesium,30,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Manganese,0.1,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Manganese,0.12,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,Manganese,0.4,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,Sulphate,200,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Total alkalinity,200,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Total hardness,200,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Zinc,5,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Zinc,≤5,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,Cadmium,0.003,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Cadmium,0.007,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: CCME
+Overall,,Cadmium,0.003,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,Nickel,0.02,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: BIS
+Overall,,Nickel,0.07,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: WHO
+Overall,,Pollution Source Category,Industrial Effluents,,Metadata,River water,Sources of Pollution,"Details: Untreated wastewater, 359 industries, 42 in Delhi"
+Overall,,Pollution Source Category,Domestic Wastewater,,Metadata,River water,Sources of Pollution,"Details: 90% residential wastewater, detergents, phosphates"
+Overall,,Pollution Source Category,Agricultural Runoff,,Metadata,River water,Sources of Pollution,"Details: Fertilizers, pesticides, herbicides"
+Overall,,Pollution Source Category,Biological Contamination,,Metadata,River water,Sources of Pollution,"Details: High BOD, faecal & total coliforms"
+Overall,,Pollution Source Category,Heavy Metals,,Metadata,River water,Sources of Pollution,"Details: Cr, Cd, Zn, Cu, Ni, Pb, Fe, Hg, As, Ba, Tl, Se"
+Overall,,Pollution Source Category,Climate Events,,Metadata,River water,Sources of Pollution,"Details: Heat waves, altered precipitation"
+Overall,,Pollution Source Category,Untreated Sewage,,Metadata,River water,Sources of Pollution,"Details: Panipat, Sonipat, Yamuna Nagar"
+Overall,,Pollution Source Category,Urban Waste & Slums,,Metadata,River water,Sources of Pollution,"Details: Reckless dumping, unplanned growth"
+Himalayan,,Segment Stretch,Origin to Tajewala,,Reported value,River Segment,River Segments,
+Himalayan,,Segment Length,172,km,Reported value,River Segment,River Segments,
+Himalayan,,Segment Characteristics,Nearly perfect water quality,,Reported value,River Segment,River Segments,
+Upper,,Segment Stretch,Tajewala to Wazirabad,,Reported value,River Segment,River Segments,
+Upper,,Segment Length,224,km,Reported value,River Segment,River Segments,
+Upper,,Segment Characteristics,Wastewater + freshwater mix,,Reported value,River Segment,River Segments,
+Delhi,,Segment Stretch,Wazirabad to Okhla,,Reported value,River Segment,River Segments,
+Delhi,,Segment Length,22,km,Reported value,River Segment,River Segments,
+Delhi,,Segment Characteristics,Highly polluted,,Reported value,River Segment,River Segments,
+Eutrophicated,,Segment Stretch,Okhla to Chambal,,Reported value,River Segment,River Segments,
+Eutrophicated,,Segment Length,490,km,Reported value,River Segment,River Segments,
+Eutrophicated,,Segment Characteristics,Highly polluted,,Reported value,River Segment,River Segments,
+Diluted,,Segment Stretch,Chambal to Ganga,,Reported value,River Segment,River Segments,
+Diluted,,Segment Length,468,km,Reported value,River Segment,River Segments,
+Diluted,,Segment Characteristics,Diluted by Chambal,,Reported value,River Segment,River Segments,
+UK,,Total Catchment,3771,km²,Reported value,Catchment,Catchment Areas,
+UK,,Drainage Basin,21769,km²,Reported value,Catchment,Catchment Areas,
+UK,,Catchment Percentage,33,%,Reported value,Catchment,Catchment Areas,
+UK,,Tributary Catchment (Others),3771,km²,Reported value,Catchment,Catchment Areas,
+UP,,Total Catchment,70437,km²,Reported value,Catchment,Catchment Areas,
+UP,,Drainage Basin,166231,km²,Reported value,Catchment,Catchment Areas,
+UP,,Catchment Percentage,1,%,Reported value,Catchment,Catchment Areas,
+UP,,Tributary Catchment (Chambal),452,km²,Reported value,Catchment,Catchment Areas,
+UP,,Tributary Catchment (Betwa),14438,km²,Reported value,Catchment,Catchment Areas,
+UP,,Tributary Catchment (Hindon),748,km²,Reported value,Catchment,Catchment Areas,
+UP,,Tributary Catchment (Ken),3336,km²,Reported value,Catchment,Catchment Areas,
+UP,,Tributary Catchment (Sind),748,km²,Reported value,Catchment,Catchment Areas,
+UP,,Tributary Catchment (Others),4438,km²,Reported value,Catchment,Catchment Areas,
+HP,,Total Catchment,5799,km²,Reported value,Catchment,Catchment Areas,
+HP,,Drainage Basin,2320,km²,Reported value,Catchment,Catchment Areas,
+HP,,Catchment Percentage,1,%,Reported value,Catchment,Catchment Areas,
+HP,,Tributary Catchment (Others),5799,km²,Reported value,Catchment,Catchment Areas,
+Rajasthan,,Total Catchment,102883,km²,Reported value,Catchment,Catchment Areas,
+Rajasthan,,Drainage Basin,7422,km²,Reported value,Catchment,Catchment Areas,
+Rajasthan,,Catchment Percentage,19,%,Reported value,Catchment,Catchment Areas,
+Rajasthan,,Tributary Catchment (Chambal),79495,km²,Reported value,Catchment,Catchment Areas,
+Rajasthan,,Tributary Catchment (Others),23388,km²,Reported value,Catchment,Catchment Areas,
+Haryana,,Total Catchment,212883,km²,Reported value,Catchment,Catchment Areas,
+Haryana,,Drainage Basin,34341,km²,Reported value,Catchment,Catchment Areas,
+Haryana,,Catchment Percentage,11,%,Reported value,Catchment,Catchment Areas,
+Haryana,,Tributary Catchment (Others),21265,km²,Reported value,Catchment,Catchment Areas,
+Delhi,,Total Catchment,1485,km²,Reported value,Catchment,Catchment Areas,
+Delhi,,Drainage Basin,1485,km²,Reported value,Catchment,Catchment Areas,
+Delhi,,Catchment Percentage,11,%,Reported value,Catchment,Catchment Areas,
+MP,,Total Catchment,14028,km²,Reported value,Catchment,Catchment Areas,
+MP,,Drainage Basin,72700,km²,Reported value,Catchment,Catchment Areas,
+MP,,Catchment Percentage,24,%,Reported value,Catchment,Catchment Areas,
+MP,,Tributary Catchment (Chambal),59838,km²,Reported value,Catchment,Catchment Areas,
+MP,,Tributary Catchment (Betwa),33502,km²,Reported value,Catchment,Catchment Areas,
+MP,,Tributary Catchment (Ken),21090,km²,Reported value,Catchment,Catchment Areas,
+MP,,Tributary Catchment (Sind),25131,km²,Reported value,Catchment,Catchment Areas,
+MP,,Tributary Catchment (Others),647,km²,Reported value,Catchment,Catchment Areas,

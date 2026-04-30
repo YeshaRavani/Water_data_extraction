@@ -1,252 +1,252 @@
-Location,Sampling period,Parameter,Value,Unit,Statistic,Sample matrix,Source table,Notes
-Overall,,Study Period,2014-15,,Reported value,River water,Metadata,
-Overall,,Latitude,25°21′17″ - 30° 25 31,,Reported value,River water,Metadata,
-Overall,,pH,6.5–8.5,,Guideline Limit,River water,Water Quality Guidelines,Standard: Class A
-Overall,,pH,6.5–8.5,,Guideline Limit,River water,Water Quality Guidelines,Standard: Class B
-Overall,,pH,6.0–9.0,,Guideline Limit,River water,Water Quality Guidelines,Standard: Class C
-Overall,,pH,6.5–8.5,,Guideline Limit,River water,Water Quality Guidelines,Standard: Class D
-Overall,,pH,6.0–8.5,,Guideline Limit,River water,Water Quality Guidelines,Standard: Class E
-Overall,,pH,6.5–8.5,,Guideline Limit,River water,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
-Overall,,pH,No relaxation,,Guideline Limit,River water,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
-Overall,,DO,≥6,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class A
-Overall,,DO,≥5,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class B
-Overall,,DO,≥4,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class C
-Overall,,DO,≥4,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class D
-Overall,,BOD,≤2,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class A
-Overall,,BOD,≤3,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class B
-Overall,,BOD,≤3,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class C
-Overall,,TDS,≤500,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class A
-Overall,,TDS,≤1500,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class C
-Overall,,TDS,≤2100,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class E
-Overall,,TDS,500,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
-Overall,,TDS,2000,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
-Overall,,EC,≤1000,µS/cm,Guideline Limit,River water,Water Quality Guidelines,Standard: Class D
-Overall,,EC,≤2250,µS/cm,Guideline Limit,River water,Water Quality Guidelines,Standard: Class E
-Overall,,TA,200,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
-Overall,,TA,600,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
-Overall,,TH,≤300,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class A
-Overall,,TH,300,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
-Overall,,TH,600,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
-Overall,,Ca-H,≤200,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class A
-Overall,,Ca-H,75,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
-Overall,,Ca-H,200,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
-Overall,,Mg-H,≤100,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class A
-Overall,,Mg-H,30,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
-Overall,,Mg-H,100,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
-Overall,,NH4+,≤1.2,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class D
-Overall,,NH4+,0.5,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
-Overall,,NH4+,No relaxation,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
-Overall,,NO3-,≤20,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class A
-Overall,,NO3-,≤50,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class C
-Overall,,NO3-,45,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
-Overall,,NO3-,100,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
-Overall,,SO4^2-,≤400,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class A
-Overall,,SO4^2-,≤400,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class C
-Overall,,SO4^2-,≤1000,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class E
-Overall,,SO4^2-,200,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
-Overall,,SO4^2-,400,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
-Overall,,Cl-,≤250,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class A
-Overall,,Cl-,≤600,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class C
-Overall,,Cl-,≤600,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class E
-Overall,,Cl-,250,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
-Overall,,Cl-,1000,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
-Overall,,F-,≤1.5,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class A
-Overall,,F-,≤1.5,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class B
-Overall,,F-,≤1.5,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class C
-Overall,,F-,1,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
-Overall,,F-,1.5,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
-Overall,,Fe,≤0.3,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class A
-Overall,,Fe,≤0.5,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class C
-Overall,,Fe,0.3,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
-Overall,,Fe,1,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
-Overall,,B,≤2.0,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Class E
-Overall,,B,1,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
-Overall,,B,5,mg/L,Guideline Limit,River water,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
-Overall,Monsoon,Temp,0.1,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,Temp,0.1,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,Temp,0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,Temp,-0.1,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,pH,-0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,pH,0.2,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,pH,0,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,pH,-0.4,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,DO,-0.1,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,DO,-0.4,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,DO,-0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,DO,-0.3,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,BOD,0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,BOD,0.2,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,BOD,0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,BOD,0.3,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,TDS,0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,TDS,0,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,TDS,0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,TDS,-0.1,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,EC,0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,EC,0,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,EC,0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,EC,-0.1,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,TA,0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,TA,-0.2,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,TA,0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,TA,-0.1,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,TH,0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,TH,-0.1,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,TH,0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,TH,-0.1,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,Ca-H,0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,Ca-H,0.3,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,Ca-H,0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,Ca-H,0.1,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,Mg-H,0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,Mg-H,-0.3,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,Mg-H,0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,Mg-H,-0.3,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,NH4+,0.1,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,NH4+,0.2,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,NH4+,0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,NH4+,0,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,NO2-,0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,NO2-,0.2,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,NO2-,0.1,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,NO2-,-0.3,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,NO3-,0,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,NO3-,0.5,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,NO3-,0.1,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,NO3-,0.4,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,PO43-,0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,PO43-,0.4,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,PO43-,0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,PO43-,0.3,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,SO42-,0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,SO42-,0,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,SO42-,0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,SO42-,-0.1,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,Cl-,0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,Cl-,0,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,Cl-,0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,Cl-,-0.1,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,F-,0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,F-,0,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,F-,0.3,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,F-,0,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,Fe,-0.1,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,Fe,0.1,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,Fe,0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,Fe,0.3,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,B,0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Monsoon,B,-0.3,,PCA Loading (PC2),River water,PCA Results,
-Overall,Non-monsoon,B,0.2,,PCA Loading (PC1),River water,PCA Results,
-Overall,Non-monsoon,B,0.1,,PCA Loading (PC2),River water,PCA Results,
-Overall,Monsoon,Eigenvalue,9.2,,PC1,River water,PCA Results,
-Overall,Monsoon,Eigenvalue,4.2,,PC2,River water,PCA Results,
-Overall,Non-monsoon,Eigenvalue,11.1,,PC1,River water,PCA Results,
-Overall,Non-monsoon,Eigenvalue,4.8,,PC2,River water,PCA Results,
-Overall,Monsoon,Variance,48.6,%,PC1,River water,PCA Results,
-Overall,Monsoon,Variance,22,%,PC2,River water,PCA Results,
-Overall,Non-monsoon,Variance,58.6,%,PC1,River water,PCA Results,
-Overall,Non-monsoon,Variance,25.1,%,PC2,River water,PCA Results,
-Overall,Monsoon,Cumulative,48.6,%,PC1,River water,PCA Results,
-Overall,Monsoon,Cumulative,70.6,%,PC2,River water,PCA Results,
-Overall,Non-monsoon,Cumulative,58.6,%,PC1,River water,PCA Results,
-Overall,Non-monsoon,Cumulative,83.7,%,PC2,River water,PCA Results,
-Paonta,,Class-A,88,,Computed score/index,River water,Site Classifications,
-Paonta,,Class-B,95,,Computed score/index,River water,Site Classifications,
-Paonta,,Class-C,97,,Computed score/index,River water,Site Classifications,
-Paonta,,Class-D,98,,Computed score/index,River water,Site Classifications,
-Paonta,,Class-E,100,,Computed score/index,River water,Site Classifications,
-Paonta,,IS10500,98,,Computed score/index,River water,Site Classifications,
-Kalanaur,,Class-A,79,,Computed score/index,River water,Site Classifications,
-Kalanaur,,Class-B,92,,Computed score/index,River water,Site Classifications,
-Kalanaur,,Class-C,94,,Computed score/index,River water,Site Classifications,
-Kalanaur,,Class-D,96,,Computed score/index,River water,Site Classifications,
-Kalanaur,,Class-E,98,,Computed score/index,River water,Site Classifications,
-Kalanaur,,IS10500,97,,Computed score/index,River water,Site Classifications,
-Mawi,,Class-A,73,,Computed score/index,River water,Site Classifications,
-Mawi,,Class-B,78,,Computed score/index,River water,Site Classifications,
-Mawi,,Class-C,82,,Computed score/index,River water,Site Classifications,
-Mawi,,Class-D,92,,Computed score/index,River water,Site Classifications,
-Mawi,,Class-E,97,,Computed score/index,River water,Site Classifications,
-Mawi,,IS10500,93,,Computed score/index,River water,Site Classifications,
-Palla,,Class-A,65,,Computed score/index,River water,Site Classifications,
-Palla,,Class-B,73,,Computed score/index,River water,Site Classifications,
-Palla,,Class-C,76,,Computed score/index,River water,Site Classifications,
-Palla,,Class-D,81,,Computed score/index,River water,Site Classifications,
-Palla,,Class-E,96,,Computed score/index,River water,Site Classifications,
-Palla,,IS10500,86,,Computed score/index,River water,Site Classifications,
-Delhi,,Class-A,45,,Computed score/index,River water,Site Classifications,
-Delhi,,Class-B,54,,Computed score/index,River water,Site Classifications,
-Delhi,,Class-C,67,,Computed score/index,River water,Site Classifications,
-Delhi,,Class-D,74,,Computed score/index,River water,Site Classifications,
-Delhi,,Class-E,92,,Computed score/index,River water,Site Classifications,
-Delhi,,IS10500,79,,Computed score/index,River water,Site Classifications,
-Mohana,,Class-A,35,,Computed score/index,River water,Site Classifications,
-Mohana,,Class-B,44,,Computed score/index,River water,Site Classifications,
-Mohana,,Class-C,48,,Computed score/index,River water,Site Classifications,
-Mohana,,Class-D,69,,Computed score/index,River water,Site Classifications,
-Mohana,,Class-E,82,,Computed score/index,River water,Site Classifications,
-Mohana,,IS10500,75,,Computed score/index,River water,Site Classifications,
-Mathura,,Class-A,25,,Computed score/index,River water,Site Classifications,
-Mathura,,Class-B,33,,Computed score/index,River water,Site Classifications,
-Mathura,,Class-C,45,,Computed score/index,River water,Site Classifications,
-Mathura,,Class-D,63,,Computed score/index,River water,Site Classifications,
-Mathura,,Class-E,80,,Computed score/index,River water,Site Classifications,
-Mathura,,IS10500,74,,Computed score/index,River water,Site Classifications,
-Agra,,Class-A,15,,Computed score/index,River water,Site Classifications,
-Agra,,Class-B,22,,Computed score/index,River water,Site Classifications,
-Agra,,Class-C,46,,Computed score/index,River water,Site Classifications,
-Agra,,Class-D,68,,Computed score/index,River water,Site Classifications,
-Agra,,Class-E,85,,Computed score/index,River water,Site Classifications,
-Agra,,IS10500,78,,Computed score/index,River water,Site Classifications,
-Etawah,,Class-A,45,,Computed score/index,River water,Site Classifications,
-Etawah,,Class-B,53,,Computed score/index,River water,Site Classifications,
-Etawah,,Class-C,72,,Computed score/index,River water,Site Classifications,
-Etawah,,Class-D,78,,Computed score/index,River water,Site Classifications,
-Etawah,,Class-E,91,,Computed score/index,River water,Site Classifications,
-Etawah,,IS10500,81,,Computed score/index,River water,Site Classifications,
-Auraiya,,Class-A,65,,Computed score/index,River water,Site Classifications,
-Auraiya,,Class-B,71,,Computed score/index,River water,Site Classifications,
-Auraiya,,Class-C,83,,Computed score/index,River water,Site Classifications,
-Auraiya,,Class-D,91,,Computed score/index,River water,Site Classifications,
-Auraiya,,Class-E,94,,Computed score/index,River water,Site Classifications,
-Auraiya,,IS10500,87,,Computed score/index,River water,Site Classifications,
-Hamirpur,,Class-A,78,,Computed score/index,River water,Site Classifications,
-Hamirpur,,Class-B,83,,Computed score/index,River water,Site Classifications,
-Hamirpur,,Class-C,91,,Computed score/index,River water,Site Classifications,
-Hamirpur,,Class-D,94,,Computed score/index,River water,Site Classifications,
-Hamirpur,,Class-E,96,,Computed score/index,River water,Site Classifications,
-Hamirpur,,IS10500,95,,Computed score/index,River water,Site Classifications,
-Pratappur,,Class-A,84,,Computed score/index,River water,Site Classifications,
-Pratappur,,Class-B,93,,Computed score/index,River water,Site Classifications,
-Pratappur,,Class-C,95,,Computed score/index,River water,Site Classifications,
-Pratappur,,Class-D,96,,Computed score/index,River water,Site Classifications,
-Pratappur,,Class-E,98,,Computed score/index,River water,Site Classifications,
-Pratappur,,IS10500,97,,Computed score/index,River water,Site Classifications,
-Overall,Monsoon,Temperature,33.2,°C,Mean,River water,Descriptive Stats,
-Overall,Monsoon,Temperature,2.2,°C,SD,River water,Descriptive Stats,
-Overall,Non-monsoon,Temperature,27.7,°C,Mean,River water,Descriptive Stats,
-Overall,Non-monsoon,Temperature,2.0,°C,SD,River water,Descriptive Stats,
-Overall,Monsoon,pH,7.62,-,Min,River water,Descriptive Stats,
-Overall,Monsoon,pH,8.07,-,Max,River water,Descriptive Stats,
-Overall,Non-monsoon,pH,7.60,-,Min,River water,Descriptive Stats,
-Overall,Non-monsoon,pH,8.47,-,Max,River water,Descriptive Stats,
-Overall,,pH - Minimum Location,Agra,,Reported value,River water,Descriptive Stats,
-Overall,,pH - Maximum Location,Kalanaur (monsoon); Delhi,,Reported value,River water,Descriptive Stats,
-Overall,Monsoon,DO,5.9,mg/L,Mean,River water,Descriptive Stats,
-Overall,Non-monsoon,DO,4.7,mg/L,Mean,River water,Descriptive Stats,
-Overall,Monsoon,DO,4.5,mg/L,Min,River water,Descriptive Stats,
-Overall,Monsoon,DO,7.9,mg/L,Max,River water,Descriptive Stats,
-Overall,Non-monsoon,DO,1.7,mg/L,Min,River water,Descriptive Stats,
-Overall,Non-monsoon,DO,6.6,mg/L,Max,River water,Descriptive Stats,
-Overall,Monsoon,BOD₅,6.6,mg/L,Mean,River water,Descriptive Stats,
-Overall,Non-monsoon,BOD₅,14.7,mg/L,Mean,River water,Descriptive Stats,
-Overall,Monsoon,BOD₅,0.9,mg/L,Min,River water,Descriptive Stats,
-Overall,Monsoon,BOD₅,26.8,mg/L,Max,River water,Descriptive Stats,
-Overall,Non-monsoon,BOD₅,1.5,mg/L,Min,River water,Descriptive Stats,
-Overall,Non-monsoon,BOD₅,53.9,mg/L,Max,River water,Descriptive Stats,
-Overall,Monsoon,TDS,117,mg/L,Min,River water,Descriptive Stats,
-Overall,Monsoon,TDS,353,mg/L,Max,River water,Descriptive Stats,
-Overall,Non-monsoon,TDS,169,mg/L,Min,River water,Descriptive Stats,
-Overall,Non-monsoon,TDS,940,mg/L,Max,River water,Descriptive Stats,
-Overall,,TDS - Minimum Location,Paonta,,Reported value,River water,Descriptive Stats,
-Overall,,TDS - Maximum Location,Agra,,Reported value,River water,Descriptive Stats,
+Sr No.,Location,Date,Month,Year,Season,Parameter,Actual Value,Mean,Std Dev,Unit,Source,Notes/Extraction Remark
+1,Overall,,,,,Study Period,2014-15,,,,Metadata,
+2,Overall,,,,,Latitude,25°21′17″ - 30° 25 31,,,,Metadata,
+3,Overall,,,,,pH,6.5–8.5,,,,Water Quality Guidelines,Standard: Class A
+4,Overall,,,,,pH,6.5–8.5,,,,Water Quality Guidelines,Standard: Class B
+5,Overall,,,,,pH,6.0–9.0,,,,Water Quality Guidelines,Standard: Class C
+6,Overall,,,,,pH,6.5–8.5,,,,Water Quality Guidelines,Standard: Class D
+7,Overall,,,,,pH,6.0–8.5,,,,Water Quality Guidelines,Standard: Class E
+8,Overall,,,,,pH,6.5–8.5,,,,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
+9,Overall,,,,,pH,No relaxation,,,,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
+10,Overall,,,,,DO,≥6,,,mg/L,Water Quality Guidelines,Standard: Class A
+11,Overall,,,,,DO,≥5,,,mg/L,Water Quality Guidelines,Standard: Class B
+12,Overall,,,,,DO,≥4,,,mg/L,Water Quality Guidelines,Standard: Class C
+13,Overall,,,,,DO,≥4,,,mg/L,Water Quality Guidelines,Standard: Class D
+14,Overall,,,,,BOD,≤2,,,mg/L,Water Quality Guidelines,Standard: Class A
+15,Overall,,,,,BOD,≤3,,,mg/L,Water Quality Guidelines,Standard: Class B
+16,Overall,,,,,BOD,≤3,,,mg/L,Water Quality Guidelines,Standard: Class C
+17,Overall,,,,,TDS,≤500,,,mg/L,Water Quality Guidelines,Standard: Class A
+18,Overall,,,,,TDS,≤1500,,,mg/L,Water Quality Guidelines,Standard: Class C
+19,Overall,,,,,TDS,≤2100,,,mg/L,Water Quality Guidelines,Standard: Class E
+20,Overall,,,,,TDS,500,,,mg/L,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
+21,Overall,,,,,TDS,2000,,,mg/L,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
+22,Overall,,,,,EC,≤1000,,,µS/cm,Water Quality Guidelines,Standard: Class D
+23,Overall,,,,,EC,≤2250,,,µS/cm,Water Quality Guidelines,Standard: Class E
+24,Overall,,,,,TA,200,,,mg/L,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
+25,Overall,,,,,TA,600,,,mg/L,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
+26,Overall,,,,,TH,≤300,,,mg/L,Water Quality Guidelines,Standard: Class A
+27,Overall,,,,,TH,300,,,mg/L,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
+28,Overall,,,,,TH,600,,,mg/L,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
+29,Overall,,,,,Ca-H,≤200,,,mg/L,Water Quality Guidelines,Standard: Class A
+30,Overall,,,,,Ca-H,75,,,mg/L,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
+31,Overall,,,,,Ca-H,200,,,mg/L,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
+32,Overall,,,,,Mg-H,≤100,,,mg/L,Water Quality Guidelines,Standard: Class A
+33,Overall,,,,,Mg-H,30,,,mg/L,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
+34,Overall,,,,,Mg-H,100,,,mg/L,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
+35,Overall,,,,,NH4+,≤1.2,,,mg/L,Water Quality Guidelines,Standard: Class D
+36,Overall,,,,,NH4+,0.5,,,mg/L,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
+37,Overall,,,,,NH4+,No relaxation,,,mg/L,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
+38,Overall,,,,,NO3-,≤20,,,mg/L,Water Quality Guidelines,Standard: Class A
+39,Overall,,,,,NO3-,≤50,,,mg/L,Water Quality Guidelines,Standard: Class C
+40,Overall,,,,,NO3-,45,,,mg/L,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
+41,Overall,,,,,NO3-,100,,,mg/L,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
+42,Overall,,,,,SO4^2-,≤400,,,mg/L,Water Quality Guidelines,Standard: Class A
+43,Overall,,,,,SO4^2-,≤400,,,mg/L,Water Quality Guidelines,Standard: Class C
+44,Overall,,,,,SO4^2-,≤1000,,,mg/L,Water Quality Guidelines,Standard: Class E
+45,Overall,,,,,SO4^2-,200,,,mg/L,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
+46,Overall,,,,,SO4^2-,400,,,mg/L,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
+47,Overall,,,,,Cl-,≤250,,,mg/L,Water Quality Guidelines,Standard: Class A
+48,Overall,,,,,Cl-,≤600,,,mg/L,Water Quality Guidelines,Standard: Class C
+49,Overall,,,,,Cl-,≤600,,,mg/L,Water Quality Guidelines,Standard: Class E
+50,Overall,,,,,Cl-,250,,,mg/L,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
+51,Overall,,,,,Cl-,1000,,,mg/L,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
+52,Overall,,,,,F-,≤1.5,,,mg/L,Water Quality Guidelines,Standard: Class A
+53,Overall,,,,,F-,≤1.5,,,mg/L,Water Quality Guidelines,Standard: Class B
+54,Overall,,,,,F-,≤1.5,,,mg/L,Water Quality Guidelines,Standard: Class C
+55,Overall,,,,,F-,1,,,mg/L,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
+56,Overall,,,,,F-,1.5,,,mg/L,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
+57,Overall,,,,,Fe,≤0.3,,,mg/L,Water Quality Guidelines,Standard: Class A
+58,Overall,,,,,Fe,≤0.5,,,mg/L,Water Quality Guidelines,Standard: Class C
+59,Overall,,,,,Fe,0.3,,,mg/L,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
+60,Overall,,,,,Fe,1,,,mg/L,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
+61,Overall,,,,,B,≤2.0,,,mg/L,Water Quality Guidelines,Standard: Class E
+62,Overall,,,,,B,1,,,mg/L,Water Quality Guidelines,Standard: Desirable Limit (IS:10500)
+63,Overall,,,,,B,5,,,mg/L,Water Quality Guidelines,Standard: Permissible Limit (IS:10500)
+64,Overall,,,,Monsoon,Temp,0.1,,,,PCA Results,
+65,Overall,,,,Monsoon,Temp,0.1,,,,PCA Results,
+66,Overall,,,,Non-monsoon,Temp,0.2,,,,PCA Results,
+67,Overall,,,,Non-monsoon,Temp,-0.1,,,,PCA Results,
+68,Overall,,,,Monsoon,pH,-0.3,,,,PCA Results,
+69,Overall,,,,Monsoon,pH,0.2,,,,PCA Results,
+70,Overall,,,,Non-monsoon,pH,0,,,,PCA Results,
+71,Overall,,,,Non-monsoon,pH,-0.4,,,,PCA Results,
+72,Overall,,,,Monsoon,DO,-0.1,,,,PCA Results,
+73,Overall,,,,Monsoon,DO,-0.4,,,,PCA Results,
+74,Overall,,,,Non-monsoon,DO,-0.2,,,,PCA Results,
+75,Overall,,,,Non-monsoon,DO,-0.3,,,,PCA Results,
+76,Overall,,,,Monsoon,BOD,0.2,,,,PCA Results,
+77,Overall,,,,Monsoon,BOD,0.2,,,,PCA Results,
+78,Overall,,,,Non-monsoon,BOD,0.2,,,,PCA Results,
+79,Overall,,,,Non-monsoon,BOD,0.3,,,,PCA Results,
+80,Overall,,,,Monsoon,TDS,0.3,,,,PCA Results,
+81,Overall,,,,Monsoon,TDS,0,,,,PCA Results,
+82,Overall,,,,Non-monsoon,TDS,0.3,,,,PCA Results,
+83,Overall,,,,Non-monsoon,TDS,-0.1,,,,PCA Results,
+84,Overall,,,,Monsoon,EC,0.3,,,,PCA Results,
+85,Overall,,,,Monsoon,EC,0,,,,PCA Results,
+86,Overall,,,,Non-monsoon,EC,0.3,,,,PCA Results,
+87,Overall,,,,Non-monsoon,EC,-0.1,,,,PCA Results,
+88,Overall,,,,Monsoon,TA,0.3,,,,PCA Results,
+89,Overall,,,,Monsoon,TA,-0.2,,,,PCA Results,
+90,Overall,,,,Non-monsoon,TA,0.3,,,,PCA Results,
+91,Overall,,,,Non-monsoon,TA,-0.1,,,,PCA Results,
+92,Overall,,,,Monsoon,TH,0.3,,,,PCA Results,
+93,Overall,,,,Monsoon,TH,-0.1,,,,PCA Results,
+94,Overall,,,,Non-monsoon,TH,0.3,,,,PCA Results,
+95,Overall,,,,Non-monsoon,TH,-0.1,,,,PCA Results,
+96,Overall,,,,Monsoon,Ca-H,0.2,,,,PCA Results,
+97,Overall,,,,Monsoon,Ca-H,0.3,,,,PCA Results,
+98,Overall,,,,Non-monsoon,Ca-H,0.3,,,,PCA Results,
+99,Overall,,,,Non-monsoon,Ca-H,0.1,,,,PCA Results,
+100,Overall,,,,Monsoon,Mg-H,0.2,,,,PCA Results,
+101,Overall,,,,Monsoon,Mg-H,-0.3,,,,PCA Results,
+102,Overall,,,,Non-monsoon,Mg-H,0.2,,,,PCA Results,
+103,Overall,,,,Non-monsoon,Mg-H,-0.3,,,,PCA Results,
+104,Overall,,,,Monsoon,NH4+,0.1,,,,PCA Results,
+105,Overall,,,,Monsoon,NH4+,0.2,,,,PCA Results,
+106,Overall,,,,Non-monsoon,NH4+,0.2,,,,PCA Results,
+107,Overall,,,,Non-monsoon,NH4+,0,,,,PCA Results,
+108,Overall,,,,Monsoon,NO2-,0.2,,,,PCA Results,
+109,Overall,,,,Monsoon,NO2-,0.2,,,,PCA Results,
+110,Overall,,,,Non-monsoon,NO2-,0.1,,,,PCA Results,
+111,Overall,,,,Non-monsoon,NO2-,-0.3,,,,PCA Results,
+112,Overall,,,,Monsoon,NO3-,0,,,,PCA Results,
+113,Overall,,,,Monsoon,NO3-,0.5,,,,PCA Results,
+114,Overall,,,,Non-monsoon,NO3-,0.1,,,,PCA Results,
+115,Overall,,,,Non-monsoon,NO3-,0.4,,,,PCA Results,
+116,Overall,,,,Monsoon,PO43-,0.2,,,,PCA Results,
+117,Overall,,,,Monsoon,PO43-,0.4,,,,PCA Results,
+118,Overall,,,,Non-monsoon,PO43-,0.2,,,,PCA Results,
+119,Overall,,,,Non-monsoon,PO43-,0.3,,,,PCA Results,
+120,Overall,,,,Monsoon,SO42-,0.3,,,,PCA Results,
+121,Overall,,,,Monsoon,SO42-,0,,,,PCA Results,
+122,Overall,,,,Non-monsoon,SO42-,0.3,,,,PCA Results,
+123,Overall,,,,Non-monsoon,SO42-,-0.1,,,,PCA Results,
+124,Overall,,,,Monsoon,Cl-,0.3,,,,PCA Results,
+125,Overall,,,,Monsoon,Cl-,0,,,,PCA Results,
+126,Overall,,,,Non-monsoon,Cl-,0.3,,,,PCA Results,
+127,Overall,,,,Non-monsoon,Cl-,-0.1,,,,PCA Results,
+128,Overall,,,,Monsoon,F-,0.2,,,,PCA Results,
+129,Overall,,,,Monsoon,F-,0,,,,PCA Results,
+130,Overall,,,,Non-monsoon,F-,0.3,,,,PCA Results,
+131,Overall,,,,Non-monsoon,F-,0,,,,PCA Results,
+132,Overall,,,,Monsoon,Fe,-0.1,,,,PCA Results,
+133,Overall,,,,Monsoon,Fe,0.1,,,,PCA Results,
+134,Overall,,,,Non-monsoon,Fe,0.2,,,,PCA Results,
+135,Overall,,,,Non-monsoon,Fe,0.3,,,,PCA Results,
+136,Overall,,,,Monsoon,B,0.2,,,,PCA Results,
+137,Overall,,,,Monsoon,B,-0.3,,,,PCA Results,
+138,Overall,,,,Non-monsoon,B,0.2,,,,PCA Results,
+139,Overall,,,,Non-monsoon,B,0.1,,,,PCA Results,
+140,Overall,,,,Monsoon,Eigenvalue,9.2,,,,PCA Results,
+141,Overall,,,,Monsoon,Eigenvalue,4.2,,,,PCA Results,
+142,Overall,,,,Non-monsoon,Eigenvalue,11.1,,,,PCA Results,
+143,Overall,,,,Non-monsoon,Eigenvalue,4.8,,,,PCA Results,
+144,Overall,,,,Monsoon,Variance,48.6,,,%,PCA Results,
+145,Overall,,,,Monsoon,Variance,22,,,%,PCA Results,
+146,Overall,,,,Non-monsoon,Variance,58.6,,,%,PCA Results,
+147,Overall,,,,Non-monsoon,Variance,25.1,,,%,PCA Results,
+148,Overall,,,,Monsoon,Cumulative,48.6,,,%,PCA Results,
+149,Overall,,,,Monsoon,Cumulative,70.6,,,%,PCA Results,
+150,Overall,,,,Non-monsoon,Cumulative,58.6,,,%,PCA Results,
+151,Overall,,,,Non-monsoon,Cumulative,83.7,,,%,PCA Results,
+152,Paonta,,,,,Class-A,88,,,,Site Classifications,
+153,Paonta,,,,,Class-B,95,,,,Site Classifications,
+154,Paonta,,,,,Class-C,97,,,,Site Classifications,
+155,Paonta,,,,,Class-D,98,,,,Site Classifications,
+156,Paonta,,,,,Class-E,100,,,,Site Classifications,
+157,Paonta,,,,,IS10500,98,,,,Site Classifications,
+158,Kalanaur,,,,,Class-A,79,,,,Site Classifications,
+159,Kalanaur,,,,,Class-B,92,,,,Site Classifications,
+160,Kalanaur,,,,,Class-C,94,,,,Site Classifications,
+161,Kalanaur,,,,,Class-D,96,,,,Site Classifications,
+162,Kalanaur,,,,,Class-E,98,,,,Site Classifications,
+163,Kalanaur,,,,,IS10500,97,,,,Site Classifications,
+164,Mawi,,,,,Class-A,73,,,,Site Classifications,
+165,Mawi,,,,,Class-B,78,,,,Site Classifications,
+166,Mawi,,,,,Class-C,82,,,,Site Classifications,
+167,Mawi,,,,,Class-D,92,,,,Site Classifications,
+168,Mawi,,,,,Class-E,97,,,,Site Classifications,
+169,Mawi,,,,,IS10500,93,,,,Site Classifications,
+170,Palla,,,,,Class-A,65,,,,Site Classifications,
+171,Palla,,,,,Class-B,73,,,,Site Classifications,
+172,Palla,,,,,Class-C,76,,,,Site Classifications,
+173,Palla,,,,,Class-D,81,,,,Site Classifications,
+174,Palla,,,,,Class-E,96,,,,Site Classifications,
+175,Palla,,,,,IS10500,86,,,,Site Classifications,
+176,Delhi,,,,,Class-A,45,,,,Site Classifications,
+177,Delhi,,,,,Class-B,54,,,,Site Classifications,
+178,Delhi,,,,,Class-C,67,,,,Site Classifications,
+179,Delhi,,,,,Class-D,74,,,,Site Classifications,
+180,Delhi,,,,,Class-E,92,,,,Site Classifications,
+181,Delhi,,,,,IS10500,79,,,,Site Classifications,
+182,Mohana,,,,,Class-A,35,,,,Site Classifications,
+183,Mohana,,,,,Class-B,44,,,,Site Classifications,
+184,Mohana,,,,,Class-C,48,,,,Site Classifications,
+185,Mohana,,,,,Class-D,69,,,,Site Classifications,
+186,Mohana,,,,,Class-E,82,,,,Site Classifications,
+187,Mohana,,,,,IS10500,75,,,,Site Classifications,
+188,Mathura,,,,,Class-A,25,,,,Site Classifications,
+189,Mathura,,,,,Class-B,33,,,,Site Classifications,
+190,Mathura,,,,,Class-C,45,,,,Site Classifications,
+191,Mathura,,,,,Class-D,63,,,,Site Classifications,
+192,Mathura,,,,,Class-E,80,,,,Site Classifications,
+193,Mathura,,,,,IS10500,74,,,,Site Classifications,
+194,Agra,,,,,Class-A,15,,,,Site Classifications,
+195,Agra,,,,,Class-B,22,,,,Site Classifications,
+196,Agra,,,,,Class-C,46,,,,Site Classifications,
+197,Agra,,,,,Class-D,68,,,,Site Classifications,
+198,Agra,,,,,Class-E,85,,,,Site Classifications,
+199,Agra,,,,,IS10500,78,,,,Site Classifications,
+200,Etawah,,,,,Class-A,45,,,,Site Classifications,
+201,Etawah,,,,,Class-B,53,,,,Site Classifications,
+202,Etawah,,,,,Class-C,72,,,,Site Classifications,
+203,Etawah,,,,,Class-D,78,,,,Site Classifications,
+204,Etawah,,,,,Class-E,91,,,,Site Classifications,
+205,Etawah,,,,,IS10500,81,,,,Site Classifications,
+206,Auraiya,,,,,Class-A,65,,,,Site Classifications,
+207,Auraiya,,,,,Class-B,71,,,,Site Classifications,
+208,Auraiya,,,,,Class-C,83,,,,Site Classifications,
+209,Auraiya,,,,,Class-D,91,,,,Site Classifications,
+210,Auraiya,,,,,Class-E,94,,,,Site Classifications,
+211,Auraiya,,,,,IS10500,87,,,,Site Classifications,
+212,Hamirpur,,,,,Class-A,78,,,,Site Classifications,
+213,Hamirpur,,,,,Class-B,83,,,,Site Classifications,
+214,Hamirpur,,,,,Class-C,91,,,,Site Classifications,
+215,Hamirpur,,,,,Class-D,94,,,,Site Classifications,
+216,Hamirpur,,,,,Class-E,96,,,,Site Classifications,
+217,Hamirpur,,,,,IS10500,95,,,,Site Classifications,
+218,Pratappur,,,,,Class-A,84,,,,Site Classifications,
+219,Pratappur,,,,,Class-B,93,,,,Site Classifications,
+220,Pratappur,,,,,Class-C,95,,,,Site Classifications,
+221,Pratappur,,,,,Class-D,96,,,,Site Classifications,
+222,Pratappur,,,,,Class-E,98,,,,Site Classifications,
+223,Pratappur,,,,,IS10500,97,,,,Site Classifications,
+224,Overall,,,,Monsoon,Temperature,33.2,33.2,,°C,Descriptive Stats,
+225,Overall,,,,Monsoon,Temperature,2.2,,,°C,Descriptive Stats,
+226,Overall,,,,Non-monsoon,Temperature,27.7,27.7,,°C,Descriptive Stats,
+227,Overall,,,,Non-monsoon,Temperature,2.0,,,°C,Descriptive Stats,
+228,Overall,,,,Monsoon,pH,7.62,,,-,Descriptive Stats,
+229,Overall,,,,Monsoon,pH,8.07,,,-,Descriptive Stats,
+230,Overall,,,,Non-monsoon,pH,7.60,,,-,Descriptive Stats,
+231,Overall,,,,Non-monsoon,pH,8.47,,,-,Descriptive Stats,
+232,Overall,,,,,pH - Minimum Location,Agra,,,,Descriptive Stats,
+233,Overall,,,,,pH - Maximum Location,Kalanaur (monsoon); Delhi,,,,Descriptive Stats,
+234,Overall,,,,Monsoon,DO,5.9,5.9,,mg/L,Descriptive Stats,
+235,Overall,,,,Non-monsoon,DO,4.7,4.7,,mg/L,Descriptive Stats,
+236,Overall,,,,Monsoon,DO,4.5,,,mg/L,Descriptive Stats,
+237,Overall,,,,Monsoon,DO,7.9,,,mg/L,Descriptive Stats,
+238,Overall,,,,Non-monsoon,DO,1.7,,,mg/L,Descriptive Stats,
+239,Overall,,,,Non-monsoon,DO,6.6,,,mg/L,Descriptive Stats,
+240,Overall,,,,Monsoon,BOD₅,6.6,6.6,,mg/L,Descriptive Stats,
+241,Overall,,,,Non-monsoon,BOD₅,14.7,14.7,,mg/L,Descriptive Stats,
+242,Overall,,,,Monsoon,BOD₅,0.9,,,mg/L,Descriptive Stats,
+243,Overall,,,,Monsoon,BOD₅,26.8,,,mg/L,Descriptive Stats,
+244,Overall,,,,Non-monsoon,BOD₅,1.5,,,mg/L,Descriptive Stats,
+245,Overall,,,,Non-monsoon,BOD₅,53.9,,,mg/L,Descriptive Stats,
+246,Overall,,,,Monsoon,TDS,117,,,mg/L,Descriptive Stats,
+247,Overall,,,,Monsoon,TDS,353,,,mg/L,Descriptive Stats,
+248,Overall,,,,Non-monsoon,TDS,169,,,mg/L,Descriptive Stats,
+249,Overall,,,,Non-monsoon,TDS,940,,,mg/L,Descriptive Stats,
+250,Overall,,,,,TDS - Minimum Location,Paonta,,,,Descriptive Stats,
+251,Overall,,,,,TDS - Maximum Location,Agra,,,,Descriptive Stats,

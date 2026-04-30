@@ -1,421 +1,421 @@
-Location,Sampling period,Parameter,Value,Unit,Statistic,Sample matrix,Source table,Notes
-Agra Canal Midstream (ACMS),Apr,AMM (ammonia),16.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Midstream (ACMS),Apr,BOD (biochemical oxygen demand),17.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Midstream (ACMS),Apr,COD (chemical oxygen demand),59.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Midstream (ACMS),Apr,DO (dissolved oxygen),0.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Midstream (ACMS),Apr,TKN (total Kjeldahl nitrogen),22.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Midstream (ACMS),Apr,fecal coliform,2500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Midstream (ACMS),Apr,total coliform,500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Midstream (ACMS),Aug,AMM (ammonia),4.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Midstream (ACMS),Aug,BOD (biochemical oxygen demand),6.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Midstream (ACMS),Aug,COD (chemical oxygen demand),26.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Midstream (ACMS),Aug,DO (dissolved oxygen),2.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Midstream (ACMS),Aug,TKN (total Kjeldahl nitrogen),8.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Midstream (ACMS),Aug,fecal coliform,800000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Midstream (ACMS),Aug,total coliform,250000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Midstream (ACMS),Dec,AMM (ammonia),10.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Midstream (ACMS),Dec,BOD (biochemical oxygen demand),14.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Midstream (ACMS),Dec,COD (chemical oxygen demand),47.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Midstream (ACMS),Dec,DO (dissolved oxygen),0.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Midstream (ACMS),Dec,TKN (total Kjeldahl nitrogen),12.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Midstream (ACMS),Dec,fecal coliform,1500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Midstream (ACMS),Dec,total coliform,1000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Midstream (ACMS),Feb,AMM (ammonia),10.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Midstream (ACMS),Feb,BOD (biochemical oxygen demand),13.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Midstream (ACMS),Feb,COD (chemical oxygen demand),49.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Midstream (ACMS),Feb,DO (dissolved oxygen),0.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Midstream (ACMS),Feb,TKN (total Kjeldahl nitrogen),14.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Midstream (ACMS),Feb,fecal coliform,1200000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Midstream (ACMS),Feb,total coliform,1300000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Midstream (ACMS),Jan,AMM (ammonia),11.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Midstream (ACMS),Jan,BOD (biochemical oxygen demand),19.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Midstream (ACMS),Jan,COD (chemical oxygen demand),67.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Midstream (ACMS),Jan,DO (dissolved oxygen),0.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Midstream (ACMS),Jan,TKN (total Kjeldahl nitrogen),17.9,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Midstream (ACMS),Jan,fecal coliform,1800000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Midstream (ACMS),Jan,total coliform,1200000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Midstream (ACMS),Jul,AMM (ammonia),5.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Midstream (ACMS),Jul,BOD (biochemical oxygen demand),6.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Midstream (ACMS),Jul,COD (chemical oxygen demand),28.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Midstream (ACMS),Jul,DO (dissolved oxygen),1.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Midstream (ACMS),Jul,TKN (total Kjeldahl nitrogen),10.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Midstream (ACMS),Jul,fecal coliform,500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Midstream (ACMS),Jul,total coliform,150000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Midstream (ACMS),Jun,AMM (ammonia),8.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Midstream (ACMS),Jun,BOD (biochemical oxygen demand),14.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Midstream (ACMS),Jun,COD (chemical oxygen demand),50.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Midstream (ACMS),Jun,DO (dissolved oxygen),0.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Midstream (ACMS),Jun,TKN (total Kjeldahl nitrogen),14.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Midstream (ACMS),Jun,fecal coliform,11000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Midstream (ACMS),Jun,total coliform,1800000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Midstream (ACMS),Mar,AMM (ammonia),12.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Midstream (ACMS),Mar,BOD (biochemical oxygen demand),16.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Midstream (ACMS),Mar,COD (chemical oxygen demand),62.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Midstream (ACMS),Mar,DO (dissolved oxygen),0.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Midstream (ACMS),Mar,TKN (total Kjeldahl nitrogen),15.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Midstream (ACMS),Mar,fecal coliform,3500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Midstream (ACMS),Mar,total coliform,1400000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Midstream (ACMS),May,AMM (ammonia),15.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Midstream (ACMS),May,BOD (biochemical oxygen demand),15.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Midstream (ACMS),May,COD (chemical oxygen demand),67.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Midstream (ACMS),May,DO (dissolved oxygen),0.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Midstream (ACMS),May,TKN (total Kjeldahl nitrogen),22.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Midstream (ACMS),May,fecal coliform,17000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Midstream (ACMS),May,total coliform,4500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Midstream (ACMS),Nov,AMM (ammonia),7.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Midstream (ACMS),Nov,BOD (biochemical oxygen demand),14.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Midstream (ACMS),Nov,COD (chemical oxygen demand),48.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Midstream (ACMS),Nov,DO (dissolved oxygen),0.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Midstream (ACMS),Nov,TKN (total Kjeldahl nitrogen),13.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Midstream (ACMS),Nov,fecal coliform,1500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Midstream (ACMS),Nov,total coliform,3200000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Midstream (ACMS),Oct,AMM (ammonia),8.9,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Midstream (ACMS),Oct,BOD (biochemical oxygen demand),14.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Midstream (ACMS),Oct,COD (chemical oxygen demand),49.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Midstream (ACMS),Oct,DO (dissolved oxygen),1.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Midstream (ACMS),Oct,TKN (total Kjeldahl nitrogen),12.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Midstream (ACMS),Oct,fecal coliform,600000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Midstream (ACMS),Oct,total coliform,350000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Midstream (ACMS),Sep,AMM (ammonia),5.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Midstream (ACMS),Sep,BOD (biochemical oxygen demand),9.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Midstream (ACMS),Sep,COD (chemical oxygen demand),32.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Midstream (ACMS),Sep,DO (dissolved oxygen),2.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Midstream (ACMS),Sep,TKN (total Kjeldahl nitrogen),9.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Midstream (ACMS),Sep,fecal coliform,700000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Midstream (ACMS),Sep,total coliform,200000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Quarter Stream (ACQS),Apr,AMM (ammonia),15.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Quarter Stream (ACQS),Apr,BOD (biochemical oxygen demand),17.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Apr,COD (chemical oxygen demand),63.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Apr,DO (dissolved oxygen),0.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Quarter Stream (ACQS),Apr,TKN (total Kjeldahl nitrogen),21.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Quarter Stream (ACQS),Apr,fecal coliform,1200000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Quarter Stream (ACQS),Apr,total coliform,600000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Quarter Stream (ACQS),Aug,AMM (ammonia),4.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Quarter Stream (ACQS),Aug,BOD (biochemical oxygen demand),6.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Aug,COD (chemical oxygen demand),27.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Aug,DO (dissolved oxygen),2.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Quarter Stream (ACQS),Aug,TKN (total Kjeldahl nitrogen),8.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Quarter Stream (ACQS),Aug,fecal coliform,900000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Quarter Stream (ACQS),Aug,total coliform,300000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Quarter Stream (ACQS),Dec,AMM (ammonia),10.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Quarter Stream (ACQS),Dec,BOD (biochemical oxygen demand),13.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Dec,COD (chemical oxygen demand),51.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Dec,DO (dissolved oxygen),0.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Quarter Stream (ACQS),Dec,TKN (total Kjeldahl nitrogen),12.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Quarter Stream (ACQS),Dec,fecal coliform,800000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Quarter Stream (ACQS),Dec,total coliform,1200000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Quarter Stream (ACQS),Feb,AMM (ammonia),10.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Quarter Stream (ACQS),Feb,BOD (biochemical oxygen demand),14.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Feb,COD (chemical oxygen demand),57.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Feb,DO (dissolved oxygen),0.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Quarter Stream (ACQS),Feb,TKN (total Kjeldahl nitrogen),13.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Quarter Stream (ACQS),Feb,fecal coliform,900000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Quarter Stream (ACQS),Feb,total coliform,1700000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Quarter Stream (ACQS),Jan,AMM (ammonia),11.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Quarter Stream (ACQS),Jan,BOD (biochemical oxygen demand),18.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Jan,COD (chemical oxygen demand),69.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Jan,DO (dissolved oxygen),0.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Quarter Stream (ACQS),Jan,TKN (total Kjeldahl nitrogen),20.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Quarter Stream (ACQS),Jan,fecal coliform,1200000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Quarter Stream (ACQS),Jan,total coliform,1400000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Quarter Stream (ACQS),Jul,AMM (ammonia),5.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Quarter Stream (ACQS),Jul,BOD (biochemical oxygen demand),7.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Jul,COD (chemical oxygen demand),31.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Jul,DO (dissolved oxygen),1.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Quarter Stream (ACQS),Jul,TKN (total Kjeldahl nitrogen),9.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Quarter Stream (ACQS),Jul,fecal coliform,300000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Quarter Stream (ACQS),Jul,total coliform,200000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Quarter Stream (ACQS),Jun,AMM (ammonia),8.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Quarter Stream (ACQS),Jun,BOD (biochemical oxygen demand),14.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Jun,COD (chemical oxygen demand),46.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Jun,DO (dissolved oxygen),0.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Quarter Stream (ACQS),Jun,TKN (total Kjeldahl nitrogen),14.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Quarter Stream (ACQS),Jun,fecal coliform,1500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Quarter Stream (ACQS),Jun,total coliform,2000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Quarter Stream (ACQS),Mar,AMM (ammonia),13.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Quarter Stream (ACQS),Mar,BOD (biochemical oxygen demand),17.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Mar,COD (chemical oxygen demand),59.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Mar,DO (dissolved oxygen),0.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Quarter Stream (ACQS),Mar,TKN (total Kjeldahl nitrogen),15.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Quarter Stream (ACQS),Mar,fecal coliform,4500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Quarter Stream (ACQS),Mar,total coliform,1800000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Quarter Stream (ACQS),May,AMM (ammonia),14.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Quarter Stream (ACQS),May,BOD (biochemical oxygen demand),16.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),May,COD (chemical oxygen demand),65.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),May,DO (dissolved oxygen),0.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Quarter Stream (ACQS),May,TKN (total Kjeldahl nitrogen),21.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Quarter Stream (ACQS),May,fecal coliform,2500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Quarter Stream (ACQS),May,total coliform,5500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Quarter Stream (ACQS),Nov,AMM (ammonia),9.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Quarter Stream (ACQS),Nov,BOD (biochemical oxygen demand),14.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Nov,COD (chemical oxygen demand),49.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Nov,DO (dissolved oxygen),0.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Quarter Stream (ACQS),Nov,TKN (total Kjeldahl nitrogen),16.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Quarter Stream (ACQS),Nov,fecal coliform,1200000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Quarter Stream (ACQS),Nov,total coliform,3500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Quarter Stream (ACQS),Oct,AMM (ammonia),9.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Quarter Stream (ACQS),Oct,BOD (biochemical oxygen demand),13.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Oct,COD (chemical oxygen demand),43.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Oct,DO (dissolved oxygen),1.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Quarter Stream (ACQS),Oct,TKN (total Kjeldahl nitrogen),17.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Quarter Stream (ACQS),Oct,fecal coliform,500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Quarter Stream (ACQS),Oct,total coliform,450000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Agra Canal Quarter Stream (ACQS),Sep,AMM (ammonia),5.9,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Agra Canal Quarter Stream (ACQS),Sep,BOD (biochemical oxygen demand),8.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Sep,COD (chemical oxygen demand),35.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Agra Canal Quarter Stream (ACQS),Sep,DO (dissolved oxygen),3.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Agra Canal Quarter Stream (ACQS),Sep,TKN (total Kjeldahl nitrogen),9.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Agra Canal Quarter Stream (ACQS),Sep,fecal coliform,600000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Agra Canal Quarter Stream (ACQS),Sep,total coliform,250000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Mid Stream (NMS),Apr,AMM (ammonia),21.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Mid Stream (NMS),Apr,BOD (biochemical oxygen demand),23.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Apr,COD (chemical oxygen demand),79.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Apr,DO (dissolved oxygen),0.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Mid Stream (NMS),Apr,TKN (total Kjeldahl nitrogen),26.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Mid Stream (NMS),Apr,fecal coliform,6000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Mid Stream (NMS),Apr,total coliform,1500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Mid Stream (NMS),Aug,AMM (ammonia),5.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Mid Stream (NMS),Aug,BOD (biochemical oxygen demand),10.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Aug,COD (chemical oxygen demand),32.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Aug,DO (dissolved oxygen),2.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Mid Stream (NMS),Aug,TKN (total Kjeldahl nitrogen),9.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Mid Stream (NMS),Aug,fecal coliform,900000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Mid Stream (NMS),Aug,total coliform,400000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Mid Stream (NMS),Dec,AMM (ammonia),19.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Mid Stream (NMS),Dec,BOD (biochemical oxygen demand),27.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Dec,COD (chemical oxygen demand),75.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Dec,DO (dissolved oxygen),0.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Mid Stream (NMS),Dec,TKN (total Kjeldahl nitrogen),22.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Mid Stream (NMS),Dec,fecal coliform,4000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Mid Stream (NMS),Dec,total coliform,2000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Mid Stream (NMS),Feb,AMM (ammonia),13.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Mid Stream (NMS),Feb,BOD (biochemical oxygen demand),27.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Feb,COD (chemical oxygen demand),76.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Feb,DO (dissolved oxygen),0.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Mid Stream (NMS),Feb,TKN (total Kjeldahl nitrogen),18.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Mid Stream (NMS),Feb,fecal coliform,10000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Mid Stream (NMS),Feb,total coliform,7500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Mid Stream (NMS),Jan,AMM (ammonia),17.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Mid Stream (NMS),Jan,BOD (biochemical oxygen demand),30.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Jan,COD (chemical oxygen demand),79.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Jan,DO (dissolved oxygen),0.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Mid Stream (NMS),Jan,TKN (total Kjeldahl nitrogen),21.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Mid Stream (NMS),Jan,fecal coliform,16000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Mid Stream (NMS),Jan,total coliform,4000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Mid Stream (NMS),Jul,AMM (ammonia),8.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Mid Stream (NMS),Jul,BOD (biochemical oxygen demand),13.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Jul,COD (chemical oxygen demand),42.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Jul,DO (dissolved oxygen),1.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Mid Stream (NMS),Jul,TKN (total Kjeldahl nitrogen),15.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Mid Stream (NMS),Jul,fecal coliform,800000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Mid Stream (NMS),Jul,total coliform,300000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Mid Stream (NMS),Jun,AMM (ammonia),17.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Mid Stream (NMS),Jun,BOD (biochemical oxygen demand),25.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Jun,COD (chemical oxygen demand),88.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Jun,DO (dissolved oxygen),0.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Mid Stream (NMS),Jun,TKN (total Kjeldahl nitrogen),25.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Mid Stream (NMS),Jun,fecal coliform,4500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Mid Stream (NMS),Jun,total coliform,4500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Mid Stream (NMS),Mar,AMM (ammonia),18.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Mid Stream (NMS),Mar,BOD (biochemical oxygen demand),24.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Mar,COD (chemical oxygen demand),67.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Mar,DO (dissolved oxygen),0.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Mid Stream (NMS),Mar,TKN (total Kjeldahl nitrogen),25.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Mid Stream (NMS),Mar,fecal coliform,4500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Mid Stream (NMS),Mar,total coliform,3500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Mid Stream (NMS),May,AMM (ammonia),21.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Mid Stream (NMS),May,BOD (biochemical oxygen demand),25.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Mid Stream (NMS),May,COD (chemical oxygen demand),69.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Mid Stream (NMS),May,DO (dissolved oxygen),0.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Mid Stream (NMS),May,TKN (total Kjeldahl nitrogen),26.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Mid Stream (NMS),May,fecal coliform,50000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Mid Stream (NMS),May,total coliform,22500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Mid Stream (NMS),Nov,AMM (ammonia),14.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Mid Stream (NMS),Nov,BOD (biochemical oxygen demand),22.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Nov,COD (chemical oxygen demand),62.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Nov,DO (dissolved oxygen),0.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Mid Stream (NMS),Nov,TKN (total Kjeldahl nitrogen),17.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Mid Stream (NMS),Nov,fecal coliform,2000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Mid Stream (NMS),Nov,total coliform,5500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Mid Stream (NMS),Oct,AMM (ammonia),13.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Mid Stream (NMS),Oct,BOD (biochemical oxygen demand),20.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Oct,COD (chemical oxygen demand),60.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Oct,DO (dissolved oxygen),1.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Mid Stream (NMS),Oct,TKN (total Kjeldahl nitrogen),21.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Mid Stream (NMS),Oct,fecal coliform,1000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Mid Stream (NMS),Oct,total coliform,800000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Mid Stream (NMS),Sep,AMM (ammonia),3.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Mid Stream (NMS),Sep,BOD (biochemical oxygen demand),7.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Sep,COD (chemical oxygen demand),34.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Mid Stream (NMS),Sep,DO (dissolved oxygen),2.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Mid Stream (NMS),Sep,TKN (total Kjeldahl nitrogen),6.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Mid Stream (NMS),Sep,fecal coliform,1200000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Mid Stream (NMS),Sep,total coliform,500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Quarter Stream (NQS),Apr,AMM (ammonia),20.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Quarter Stream (NQS),Apr,BOD (biochemical oxygen demand),24.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Apr,COD (chemical oxygen demand),78.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Apr,DO (dissolved oxygen),0.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Quarter Stream (NQS),Apr,TKN (total Kjeldahl nitrogen),25.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Quarter Stream (NQS),Apr,fecal coliform,5000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Quarter Stream (NQS),Apr,total coliform,1500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Quarter Stream (NQS),Aug,AMM (ammonia),4.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Quarter Stream (NQS),Aug,BOD (biochemical oxygen demand),6.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Aug,COD (chemical oxygen demand),28.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Aug,DO (dissolved oxygen),2.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Quarter Stream (NQS),Aug,TKN (total Kjeldahl nitrogen),8.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Quarter Stream (NQS),Aug,fecal coliform,600000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Quarter Stream (NQS),Aug,total coliform,300000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Quarter Stream (NQS),Dec,AMM (ammonia),22.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Quarter Stream (NQS),Dec,BOD (biochemical oxygen demand),28.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Dec,COD (chemical oxygen demand),79.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Dec,DO (dissolved oxygen),0.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Quarter Stream (NQS),Dec,TKN (total Kjeldahl nitrogen),24.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Quarter Stream (NQS),Dec,fecal coliform,4500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Quarter Stream (NQS),Dec,total coliform,4800000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Quarter Stream (NQS),Feb,AMM (ammonia),16.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Quarter Stream (NQS),Feb,BOD (biochemical oxygen demand),26.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Feb,COD (chemical oxygen demand),78.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Feb,DO (dissolved oxygen),0.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Quarter Stream (NQS),Feb,TKN (total Kjeldahl nitrogen),22.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Quarter Stream (NQS),Feb,fecal coliform,9500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Quarter Stream (NQS),Feb,total coliform,6500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Quarter Stream (NQS),Jan,AMM (ammonia),19.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Quarter Stream (NQS),Jan,BOD (biochemical oxygen demand),30.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Jan,COD (chemical oxygen demand),83.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Jan,DO (dissolved oxygen),0.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Quarter Stream (NQS),Jan,TKN (total Kjeldahl nitrogen),23.9,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Quarter Stream (NQS),Jan,fecal coliform,2500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Quarter Stream (NQS),Jan,total coliform,4200000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Quarter Stream (NQS),Jul,AMM (ammonia),9.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Quarter Stream (NQS),Jul,BOD (biochemical oxygen demand),13.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Jul,COD (chemical oxygen demand),41.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Jul,DO (dissolved oxygen),1.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Quarter Stream (NQS),Jul,TKN (total Kjeldahl nitrogen),14.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Quarter Stream (NQS),Jul,fecal coliform,2000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Quarter Stream (NQS),Jul,total coliform,350000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Quarter Stream (NQS),Jun,AMM (ammonia),18.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Quarter Stream (NQS),Jun,BOD (biochemical oxygen demand),27.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Jun,COD (chemical oxygen demand),77.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Jun,DO (dissolved oxygen),0.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Quarter Stream (NQS),Jun,TKN (total Kjeldahl nitrogen),24.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Quarter Stream (NQS),Jun,fecal coliform,5000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Quarter Stream (NQS),Jun,total coliform,4200000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Quarter Stream (NQS),Mar,AMM (ammonia),18.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Quarter Stream (NQS),Mar,BOD (biochemical oxygen demand),23.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Mar,COD (chemical oxygen demand),71.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Mar,DO (dissolved oxygen),0.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Quarter Stream (NQS),Mar,TKN (total Kjeldahl nitrogen),22.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Quarter Stream (NQS),Mar,fecal coliform,6000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Quarter Stream (NQS),Mar,total coliform,4800000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Quarter Stream (NQS),May,AMM (ammonia),22.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Quarter Stream (NQS),May,BOD (biochemical oxygen demand),26.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),May,COD (chemical oxygen demand),78.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),May,DO (dissolved oxygen),0.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Quarter Stream (NQS),May,TKN (total Kjeldahl nitrogen),30.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Quarter Stream (NQS),May,fecal coliform,36000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Quarter Stream (NQS),May,total coliform,16000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Quarter Stream (NQS),Nov,AMM (ammonia),15.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Quarter Stream (NQS),Nov,BOD (biochemical oxygen demand),25.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Nov,COD (chemical oxygen demand),70.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Nov,DO (dissolved oxygen),0.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Quarter Stream (NQS),Nov,TKN (total Kjeldahl nitrogen),20.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Quarter Stream (NQS),Nov,fecal coliform,3000000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Quarter Stream (NQS),Nov,total coliform,5400000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Quarter Stream (NQS),Oct,AMM (ammonia),11.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Quarter Stream (NQS),Oct,BOD (biochemical oxygen demand),24.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Oct,COD (chemical oxygen demand),64.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Oct,DO (dissolved oxygen),1.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Quarter Stream (NQS),Oct,TKN (total Kjeldahl nitrogen),20.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Quarter Stream (NQS),Oct,fecal coliform,900000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Quarter Stream (NQS),Oct,total coliform,900000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Nizamuddin Quarter Stream (NQS),Sep,AMM (ammonia),6.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Nizamuddin Quarter Stream (NQS),Sep,BOD (biochemical oxygen demand),13.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Sep,COD (chemical oxygen demand),42.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Nizamuddin Quarter Stream (NQS),Sep,DO (dissolved oxygen),2.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Nizamuddin Quarter Stream (NQS),Sep,TKN (total Kjeldahl nitrogen),8.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Nizamuddin Quarter Stream (NQS),Sep,fecal coliform,1500000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Nizamuddin Quarter Stream (NQS),Sep,total coliform,600000.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Palla,Apr,AMM (ammonia),0.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Palla,Apr,BOD (biochemical oxygen demand),3.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Palla,Apr,COD (chemical oxygen demand),10.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Palla,Apr,DO (dissolved oxygen),7.9,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Palla,Apr,TKN (total Kjeldahl nitrogen),1.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Palla,Apr,fecal coliform,300.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Palla,Apr,total coliform,250.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Palla,Aug,AMM (ammonia),0.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Palla,Aug,BOD (biochemical oxygen demand),1.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Palla,Aug,COD (chemical oxygen demand),11.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Palla,Aug,DO (dissolved oxygen),6.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Palla,Aug,TKN (total Kjeldahl nitrogen),2.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Palla,Aug,fecal coliform,250.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Palla,Aug,total coliform,240.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Palla,Dec,AMM (ammonia),0.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Palla,Dec,BOD (biochemical oxygen demand),1.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Palla,Dec,COD (chemical oxygen demand),9.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Palla,Dec,DO (dissolved oxygen),8.8,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Palla,Dec,TKN (total Kjeldahl nitrogen),1.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Palla,Dec,fecal coliform,200.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Palla,Dec,total coliform,200.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Palla,Feb,AMM (ammonia),0.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Palla,Feb,BOD (biochemical oxygen demand),1.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Palla,Feb,COD (chemical oxygen demand),8.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Palla,Feb,DO (dissolved oxygen),8.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Palla,Feb,TKN (total Kjeldahl nitrogen),1.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Palla,Feb,fecal coliform,250.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Palla,Feb,total coliform,400.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Palla,Jan,AMM (ammonia),0.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Palla,Jan,BOD (biochemical oxygen demand),1.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Palla,Jan,COD (chemical oxygen demand),7.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Palla,Jan,DO (dissolved oxygen),8.9,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Palla,Jan,TKN (total Kjeldahl nitrogen),2.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Palla,Jan,fecal coliform,300.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Palla,Jan,total coliform,300.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Palla,Jul,AMM (ammonia),0.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Palla,Jul,BOD (biochemical oxygen demand),1.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Palla,Jul,COD (chemical oxygen demand),16.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Palla,Jul,DO (dissolved oxygen),6.9,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Palla,Jul,TKN (total Kjeldahl nitrogen),1.9,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Palla,Jul,fecal coliform,200.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Palla,Jul,total coliform,220.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Palla,Jun,AMM (ammonia),0.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Palla,Jun,BOD (biochemical oxygen demand),1.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Palla,Jun,COD (chemical oxygen demand),12.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Palla,Jun,DO (dissolved oxygen),7.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Palla,Jun,TKN (total Kjeldahl nitrogen),2.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Palla,Jun,fecal coliform,300.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Palla,Jun,total coliform,280.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Palla,Mar,AMM (ammonia),0.2,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Palla,Mar,BOD (biochemical oxygen demand),1.9,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Palla,Mar,COD (chemical oxygen demand),9.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Palla,Mar,DO (dissolved oxygen),9.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Palla,Mar,TKN (total Kjeldahl nitrogen),2.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Palla,Mar,fecal coliform,400.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Palla,Mar,total coliform,350.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Palla,May,AMM (ammonia),0.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Palla,May,BOD (biochemical oxygen demand),3.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Palla,May,COD (chemical oxygen demand),10.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Palla,May,DO (dissolved oxygen),7.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Palla,May,TKN (total Kjeldahl nitrogen),2.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Palla,May,fecal coliform,450.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Palla,May,total coliform,300.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Palla,Nov,AMM (ammonia),0.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Palla,Nov,BOD (biochemical oxygen demand),2.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Palla,Nov,COD (chemical oxygen demand),7.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Palla,Nov,DO (dissolved oxygen),8.7,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Palla,Nov,TKN (total Kjeldahl nitrogen),2.1,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Palla,Nov,fecal coliform,300.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Palla,Nov,total coliform,350.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Palla,Oct,AMM (ammonia),0.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Palla,Oct,BOD (biochemical oxygen demand),2.6,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Palla,Oct,COD (chemical oxygen demand),12.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Palla,Oct,DO (dissolved oxygen),8.3,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Palla,Oct,TKN (total Kjeldahl nitrogen),1.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Palla,Oct,fecal coliform,260.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Palla,Oct,total coliform,300.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
-Palla,Sep,AMM (ammonia),0.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
-Palla,Sep,BOD (biochemical oxygen demand),1.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
-Palla,Sep,COD (chemical oxygen demand),16.0,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
-Palla,Sep,DO (dissolved oxygen),7.5,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
-Palla,Sep,TKN (total Kjeldahl nitrogen),2.4,mg/L,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
-Palla,Sep,fecal coliform,220.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
-Palla,Sep,total coliform,260.0,No./100 mL,Reported value,river water,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+Sr No.,Location,Date,Month,Year,Season,Parameter,Actual Value,Mean,Std Dev,Unit,Source,Notes/Extraction Remark
+1,Agra Canal Midstream,,Apr,,,AMM (ammonia),16.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+2,Agra Canal Midstream,,Apr,,,BOD (biochemical oxygen demand),17.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+3,Agra Canal Midstream,,Apr,,,COD (chemical oxygen demand),59.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+4,Agra Canal Midstream,,Apr,,,DO (dissolved oxygen),0.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+5,Agra Canal Midstream,,Apr,,,TKN (total Kjeldahl nitrogen),22.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+6,Agra Canal Midstream,,Apr,,,fecal coliform,2500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+7,Agra Canal Midstream,,Apr,,,total coliform,500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+8,Agra Canal Midstream,,Aug,,,AMM (ammonia),4.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+9,Agra Canal Midstream,,Aug,,,BOD (biochemical oxygen demand),6.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+10,Agra Canal Midstream,,Aug,,,COD (chemical oxygen demand),26.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+11,Agra Canal Midstream,,Aug,,,DO (dissolved oxygen),2.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+12,Agra Canal Midstream,,Aug,,,TKN (total Kjeldahl nitrogen),8.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+13,Agra Canal Midstream,,Aug,,,fecal coliform,800000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+14,Agra Canal Midstream,,Aug,,,total coliform,250000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+15,Agra Canal Midstream,,Dec,,,AMM (ammonia),10.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+16,Agra Canal Midstream,,Dec,,,BOD (biochemical oxygen demand),14.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+17,Agra Canal Midstream,,Dec,,,COD (chemical oxygen demand),47.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+18,Agra Canal Midstream,,Dec,,,DO (dissolved oxygen),0.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+19,Agra Canal Midstream,,Dec,,,TKN (total Kjeldahl nitrogen),12.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+20,Agra Canal Midstream,,Dec,,,fecal coliform,1500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+21,Agra Canal Midstream,,Dec,,,total coliform,1000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+22,Agra Canal Midstream,,Feb,,,AMM (ammonia),10.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+23,Agra Canal Midstream,,Feb,,,BOD (biochemical oxygen demand),13.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+24,Agra Canal Midstream,,Feb,,,COD (chemical oxygen demand),49.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+25,Agra Canal Midstream,,Feb,,,DO (dissolved oxygen),0.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+26,Agra Canal Midstream,,Feb,,,TKN (total Kjeldahl nitrogen),14.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+27,Agra Canal Midstream,,Feb,,,fecal coliform,1200000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+28,Agra Canal Midstream,,Feb,,,total coliform,1300000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+29,Agra Canal Midstream,,Jan,,,AMM (ammonia),11.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+30,Agra Canal Midstream,,Jan,,,BOD (biochemical oxygen demand),19.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+31,Agra Canal Midstream,,Jan,,,COD (chemical oxygen demand),67.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+32,Agra Canal Midstream,,Jan,,,DO (dissolved oxygen),0.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+33,Agra Canal Midstream,,Jan,,,TKN (total Kjeldahl nitrogen),17.9,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+34,Agra Canal Midstream,,Jan,,,fecal coliform,1800000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+35,Agra Canal Midstream,,Jan,,,total coliform,1200000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+36,Agra Canal Midstream,,Jul,,,AMM (ammonia),5.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+37,Agra Canal Midstream,,Jul,,,BOD (biochemical oxygen demand),6.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+38,Agra Canal Midstream,,Jul,,,COD (chemical oxygen demand),28.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+39,Agra Canal Midstream,,Jul,,,DO (dissolved oxygen),1.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+40,Agra Canal Midstream,,Jul,,,TKN (total Kjeldahl nitrogen),10.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+41,Agra Canal Midstream,,Jul,,,fecal coliform,500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+42,Agra Canal Midstream,,Jul,,,total coliform,150000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+43,Agra Canal Midstream,,Jun,,,AMM (ammonia),8.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+44,Agra Canal Midstream,,Jun,,,BOD (biochemical oxygen demand),14.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+45,Agra Canal Midstream,,Jun,,,COD (chemical oxygen demand),50.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+46,Agra Canal Midstream,,Jun,,,DO (dissolved oxygen),0.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+47,Agra Canal Midstream,,Jun,,,TKN (total Kjeldahl nitrogen),14.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+48,Agra Canal Midstream,,Jun,,,fecal coliform,11000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+49,Agra Canal Midstream,,Jun,,,total coliform,1800000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+50,Agra Canal Midstream,,Mar,,,AMM (ammonia),12.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+51,Agra Canal Midstream,,Mar,,,BOD (biochemical oxygen demand),16.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+52,Agra Canal Midstream,,Mar,,,COD (chemical oxygen demand),62.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+53,Agra Canal Midstream,,Mar,,,DO (dissolved oxygen),0.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+54,Agra Canal Midstream,,Mar,,,TKN (total Kjeldahl nitrogen),15.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+55,Agra Canal Midstream,,Mar,,,fecal coliform,3500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+56,Agra Canal Midstream,,Mar,,,total coliform,1400000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+57,Agra Canal Midstream,,May,,,AMM (ammonia),15.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+58,Agra Canal Midstream,,May,,,BOD (biochemical oxygen demand),15.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+59,Agra Canal Midstream,,May,,,COD (chemical oxygen demand),67.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+60,Agra Canal Midstream,,May,,,DO (dissolved oxygen),0.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+61,Agra Canal Midstream,,May,,,TKN (total Kjeldahl nitrogen),22.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+62,Agra Canal Midstream,,May,,,fecal coliform,17000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+63,Agra Canal Midstream,,May,,,total coliform,4500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+64,Agra Canal Midstream,,Nov,,,AMM (ammonia),7.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+65,Agra Canal Midstream,,Nov,,,BOD (biochemical oxygen demand),14.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+66,Agra Canal Midstream,,Nov,,,COD (chemical oxygen demand),48.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+67,Agra Canal Midstream,,Nov,,,DO (dissolved oxygen),0.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+68,Agra Canal Midstream,,Nov,,,TKN (total Kjeldahl nitrogen),13.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+69,Agra Canal Midstream,,Nov,,,fecal coliform,1500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+70,Agra Canal Midstream,,Nov,,,total coliform,3200000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+71,Agra Canal Midstream,,Oct,,,AMM (ammonia),8.9,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+72,Agra Canal Midstream,,Oct,,,BOD (biochemical oxygen demand),14.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+73,Agra Canal Midstream,,Oct,,,COD (chemical oxygen demand),49.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+74,Agra Canal Midstream,,Oct,,,DO (dissolved oxygen),1.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+75,Agra Canal Midstream,,Oct,,,TKN (total Kjeldahl nitrogen),12.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+76,Agra Canal Midstream,,Oct,,,fecal coliform,600000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+77,Agra Canal Midstream,,Oct,,,total coliform,350000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+78,Agra Canal Midstream,,Sep,,,AMM (ammonia),5.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+79,Agra Canal Midstream,,Sep,,,BOD (biochemical oxygen demand),9.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+80,Agra Canal Midstream,,Sep,,,COD (chemical oxygen demand),32.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+81,Agra Canal Midstream,,Sep,,,DO (dissolved oxygen),2.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+82,Agra Canal Midstream,,Sep,,,TKN (total Kjeldahl nitrogen),9.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+83,Agra Canal Midstream,,Sep,,,fecal coliform,700000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+84,Agra Canal Midstream,,Sep,,,total coliform,200000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+85,Agra Canal Quarter Stream,,Apr,,,AMM (ammonia),15.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+86,Agra Canal Quarter Stream,,Apr,,,BOD (biochemical oxygen demand),17.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+87,Agra Canal Quarter Stream,,Apr,,,COD (chemical oxygen demand),63.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+88,Agra Canal Quarter Stream,,Apr,,,DO (dissolved oxygen),0.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+89,Agra Canal Quarter Stream,,Apr,,,TKN (total Kjeldahl nitrogen),21.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+90,Agra Canal Quarter Stream,,Apr,,,fecal coliform,1200000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+91,Agra Canal Quarter Stream,,Apr,,,total coliform,600000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+92,Agra Canal Quarter Stream,,Aug,,,AMM (ammonia),4.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+93,Agra Canal Quarter Stream,,Aug,,,BOD (biochemical oxygen demand),6.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+94,Agra Canal Quarter Stream,,Aug,,,COD (chemical oxygen demand),27.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+95,Agra Canal Quarter Stream,,Aug,,,DO (dissolved oxygen),2.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+96,Agra Canal Quarter Stream,,Aug,,,TKN (total Kjeldahl nitrogen),8.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+97,Agra Canal Quarter Stream,,Aug,,,fecal coliform,900000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+98,Agra Canal Quarter Stream,,Aug,,,total coliform,300000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+99,Agra Canal Quarter Stream,,Dec,,,AMM (ammonia),10.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+100,Agra Canal Quarter Stream,,Dec,,,BOD (biochemical oxygen demand),13.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+101,Agra Canal Quarter Stream,,Dec,,,COD (chemical oxygen demand),51.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+102,Agra Canal Quarter Stream,,Dec,,,DO (dissolved oxygen),0.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+103,Agra Canal Quarter Stream,,Dec,,,TKN (total Kjeldahl nitrogen),12.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+104,Agra Canal Quarter Stream,,Dec,,,fecal coliform,800000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+105,Agra Canal Quarter Stream,,Dec,,,total coliform,1200000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+106,Agra Canal Quarter Stream,,Feb,,,AMM (ammonia),10.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+107,Agra Canal Quarter Stream,,Feb,,,BOD (biochemical oxygen demand),14.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+108,Agra Canal Quarter Stream,,Feb,,,COD (chemical oxygen demand),57.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+109,Agra Canal Quarter Stream,,Feb,,,DO (dissolved oxygen),0.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+110,Agra Canal Quarter Stream,,Feb,,,TKN (total Kjeldahl nitrogen),13.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+111,Agra Canal Quarter Stream,,Feb,,,fecal coliform,900000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+112,Agra Canal Quarter Stream,,Feb,,,total coliform,1700000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+113,Agra Canal Quarter Stream,,Jan,,,AMM (ammonia),11.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+114,Agra Canal Quarter Stream,,Jan,,,BOD (biochemical oxygen demand),18.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+115,Agra Canal Quarter Stream,,Jan,,,COD (chemical oxygen demand),69.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+116,Agra Canal Quarter Stream,,Jan,,,DO (dissolved oxygen),0.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+117,Agra Canal Quarter Stream,,Jan,,,TKN (total Kjeldahl nitrogen),20.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+118,Agra Canal Quarter Stream,,Jan,,,fecal coliform,1200000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+119,Agra Canal Quarter Stream,,Jan,,,total coliform,1400000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+120,Agra Canal Quarter Stream,,Jul,,,AMM (ammonia),5.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+121,Agra Canal Quarter Stream,,Jul,,,BOD (biochemical oxygen demand),7.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+122,Agra Canal Quarter Stream,,Jul,,,COD (chemical oxygen demand),31.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+123,Agra Canal Quarter Stream,,Jul,,,DO (dissolved oxygen),1.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+124,Agra Canal Quarter Stream,,Jul,,,TKN (total Kjeldahl nitrogen),9.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+125,Agra Canal Quarter Stream,,Jul,,,fecal coliform,300000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+126,Agra Canal Quarter Stream,,Jul,,,total coliform,200000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+127,Agra Canal Quarter Stream,,Jun,,,AMM (ammonia),8.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+128,Agra Canal Quarter Stream,,Jun,,,BOD (biochemical oxygen demand),14.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+129,Agra Canal Quarter Stream,,Jun,,,COD (chemical oxygen demand),46.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+130,Agra Canal Quarter Stream,,Jun,,,DO (dissolved oxygen),0.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+131,Agra Canal Quarter Stream,,Jun,,,TKN (total Kjeldahl nitrogen),14.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+132,Agra Canal Quarter Stream,,Jun,,,fecal coliform,1500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+133,Agra Canal Quarter Stream,,Jun,,,total coliform,2000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+134,Agra Canal Quarter Stream,,Mar,,,AMM (ammonia),13.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+135,Agra Canal Quarter Stream,,Mar,,,BOD (biochemical oxygen demand),17.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+136,Agra Canal Quarter Stream,,Mar,,,COD (chemical oxygen demand),59.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+137,Agra Canal Quarter Stream,,Mar,,,DO (dissolved oxygen),0.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+138,Agra Canal Quarter Stream,,Mar,,,TKN (total Kjeldahl nitrogen),15.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+139,Agra Canal Quarter Stream,,Mar,,,fecal coliform,4500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+140,Agra Canal Quarter Stream,,Mar,,,total coliform,1800000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+141,Agra Canal Quarter Stream,,May,,,AMM (ammonia),14.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+142,Agra Canal Quarter Stream,,May,,,BOD (biochemical oxygen demand),16.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+143,Agra Canal Quarter Stream,,May,,,COD (chemical oxygen demand),65.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+144,Agra Canal Quarter Stream,,May,,,DO (dissolved oxygen),0.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+145,Agra Canal Quarter Stream,,May,,,TKN (total Kjeldahl nitrogen),21.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+146,Agra Canal Quarter Stream,,May,,,fecal coliform,2500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+147,Agra Canal Quarter Stream,,May,,,total coliform,5500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+148,Agra Canal Quarter Stream,,Nov,,,AMM (ammonia),9.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+149,Agra Canal Quarter Stream,,Nov,,,BOD (biochemical oxygen demand),14.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+150,Agra Canal Quarter Stream,,Nov,,,COD (chemical oxygen demand),49.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+151,Agra Canal Quarter Stream,,Nov,,,DO (dissolved oxygen),0.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+152,Agra Canal Quarter Stream,,Nov,,,TKN (total Kjeldahl nitrogen),16.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+153,Agra Canal Quarter Stream,,Nov,,,fecal coliform,1200000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+154,Agra Canal Quarter Stream,,Nov,,,total coliform,3500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+155,Agra Canal Quarter Stream,,Oct,,,AMM (ammonia),9.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+156,Agra Canal Quarter Stream,,Oct,,,BOD (biochemical oxygen demand),13.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+157,Agra Canal Quarter Stream,,Oct,,,COD (chemical oxygen demand),43.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+158,Agra Canal Quarter Stream,,Oct,,,DO (dissolved oxygen),1.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+159,Agra Canal Quarter Stream,,Oct,,,TKN (total Kjeldahl nitrogen),17.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+160,Agra Canal Quarter Stream,,Oct,,,fecal coliform,500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+161,Agra Canal Quarter Stream,,Oct,,,total coliform,450000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+162,Agra Canal Quarter Stream,,Sep,,,AMM (ammonia),5.9,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+163,Agra Canal Quarter Stream,,Sep,,,BOD (biochemical oxygen demand),8.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+164,Agra Canal Quarter Stream,,Sep,,,COD (chemical oxygen demand),35.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+165,Agra Canal Quarter Stream,,Sep,,,DO (dissolved oxygen),3.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+166,Agra Canal Quarter Stream,,Sep,,,TKN (total Kjeldahl nitrogen),9.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+167,Agra Canal Quarter Stream,,Sep,,,fecal coliform,600000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+168,Agra Canal Quarter Stream,,Sep,,,total coliform,250000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+169,Nizamuddin Mid Stream,,Apr,,,AMM (ammonia),21.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+170,Nizamuddin Mid Stream,,Apr,,,BOD (biochemical oxygen demand),23.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+171,Nizamuddin Mid Stream,,Apr,,,COD (chemical oxygen demand),79.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+172,Nizamuddin Mid Stream,,Apr,,,DO (dissolved oxygen),0.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+173,Nizamuddin Mid Stream,,Apr,,,TKN (total Kjeldahl nitrogen),26.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+174,Nizamuddin Mid Stream,,Apr,,,fecal coliform,6000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+175,Nizamuddin Mid Stream,,Apr,,,total coliform,1500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+176,Nizamuddin Mid Stream,,Aug,,,AMM (ammonia),5.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+177,Nizamuddin Mid Stream,,Aug,,,BOD (biochemical oxygen demand),10.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+178,Nizamuddin Mid Stream,,Aug,,,COD (chemical oxygen demand),32.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+179,Nizamuddin Mid Stream,,Aug,,,DO (dissolved oxygen),2.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+180,Nizamuddin Mid Stream,,Aug,,,TKN (total Kjeldahl nitrogen),9.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+181,Nizamuddin Mid Stream,,Aug,,,fecal coliform,900000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+182,Nizamuddin Mid Stream,,Aug,,,total coliform,400000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+183,Nizamuddin Mid Stream,,Dec,,,AMM (ammonia),19.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+184,Nizamuddin Mid Stream,,Dec,,,BOD (biochemical oxygen demand),27.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+185,Nizamuddin Mid Stream,,Dec,,,COD (chemical oxygen demand),75.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+186,Nizamuddin Mid Stream,,Dec,,,DO (dissolved oxygen),0.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+187,Nizamuddin Mid Stream,,Dec,,,TKN (total Kjeldahl nitrogen),22.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+188,Nizamuddin Mid Stream,,Dec,,,fecal coliform,4000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+189,Nizamuddin Mid Stream,,Dec,,,total coliform,2000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+190,Nizamuddin Mid Stream,,Feb,,,AMM (ammonia),13.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+191,Nizamuddin Mid Stream,,Feb,,,BOD (biochemical oxygen demand),27.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+192,Nizamuddin Mid Stream,,Feb,,,COD (chemical oxygen demand),76.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+193,Nizamuddin Mid Stream,,Feb,,,DO (dissolved oxygen),0.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+194,Nizamuddin Mid Stream,,Feb,,,TKN (total Kjeldahl nitrogen),18.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+195,Nizamuddin Mid Stream,,Feb,,,fecal coliform,10000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+196,Nizamuddin Mid Stream,,Feb,,,total coliform,7500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+197,Nizamuddin Mid Stream,,Jan,,,AMM (ammonia),17.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+198,Nizamuddin Mid Stream,,Jan,,,BOD (biochemical oxygen demand),30.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+199,Nizamuddin Mid Stream,,Jan,,,COD (chemical oxygen demand),79.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+200,Nizamuddin Mid Stream,,Jan,,,DO (dissolved oxygen),0.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+201,Nizamuddin Mid Stream,,Jan,,,TKN (total Kjeldahl nitrogen),21.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+202,Nizamuddin Mid Stream,,Jan,,,fecal coliform,16000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+203,Nizamuddin Mid Stream,,Jan,,,total coliform,4000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+204,Nizamuddin Mid Stream,,Jul,,,AMM (ammonia),8.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+205,Nizamuddin Mid Stream,,Jul,,,BOD (biochemical oxygen demand),13.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+206,Nizamuddin Mid Stream,,Jul,,,COD (chemical oxygen demand),42.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+207,Nizamuddin Mid Stream,,Jul,,,DO (dissolved oxygen),1.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+208,Nizamuddin Mid Stream,,Jul,,,TKN (total Kjeldahl nitrogen),15.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+209,Nizamuddin Mid Stream,,Jul,,,fecal coliform,800000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+210,Nizamuddin Mid Stream,,Jul,,,total coliform,300000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+211,Nizamuddin Mid Stream,,Jun,,,AMM (ammonia),17.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+212,Nizamuddin Mid Stream,,Jun,,,BOD (biochemical oxygen demand),25.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+213,Nizamuddin Mid Stream,,Jun,,,COD (chemical oxygen demand),88.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+214,Nizamuddin Mid Stream,,Jun,,,DO (dissolved oxygen),0.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+215,Nizamuddin Mid Stream,,Jun,,,TKN (total Kjeldahl nitrogen),25.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+216,Nizamuddin Mid Stream,,Jun,,,fecal coliform,4500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+217,Nizamuddin Mid Stream,,Jun,,,total coliform,4500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+218,Nizamuddin Mid Stream,,Mar,,,AMM (ammonia),18.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+219,Nizamuddin Mid Stream,,Mar,,,BOD (biochemical oxygen demand),24.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+220,Nizamuddin Mid Stream,,Mar,,,COD (chemical oxygen demand),67.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+221,Nizamuddin Mid Stream,,Mar,,,DO (dissolved oxygen),0.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+222,Nizamuddin Mid Stream,,Mar,,,TKN (total Kjeldahl nitrogen),25.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+223,Nizamuddin Mid Stream,,Mar,,,fecal coliform,4500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+224,Nizamuddin Mid Stream,,Mar,,,total coliform,3500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+225,Nizamuddin Mid Stream,,May,,,AMM (ammonia),21.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+226,Nizamuddin Mid Stream,,May,,,BOD (biochemical oxygen demand),25.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+227,Nizamuddin Mid Stream,,May,,,COD (chemical oxygen demand),69.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+228,Nizamuddin Mid Stream,,May,,,DO (dissolved oxygen),0.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+229,Nizamuddin Mid Stream,,May,,,TKN (total Kjeldahl nitrogen),26.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+230,Nizamuddin Mid Stream,,May,,,fecal coliform,50000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+231,Nizamuddin Mid Stream,,May,,,total coliform,22500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+232,Nizamuddin Mid Stream,,Nov,,,AMM (ammonia),14.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+233,Nizamuddin Mid Stream,,Nov,,,BOD (biochemical oxygen demand),22.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+234,Nizamuddin Mid Stream,,Nov,,,COD (chemical oxygen demand),62.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+235,Nizamuddin Mid Stream,,Nov,,,DO (dissolved oxygen),0.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+236,Nizamuddin Mid Stream,,Nov,,,TKN (total Kjeldahl nitrogen),17.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+237,Nizamuddin Mid Stream,,Nov,,,fecal coliform,2000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+238,Nizamuddin Mid Stream,,Nov,,,total coliform,5500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+239,Nizamuddin Mid Stream,,Oct,,,AMM (ammonia),13.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+240,Nizamuddin Mid Stream,,Oct,,,BOD (biochemical oxygen demand),20.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+241,Nizamuddin Mid Stream,,Oct,,,COD (chemical oxygen demand),60.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+242,Nizamuddin Mid Stream,,Oct,,,DO (dissolved oxygen),1.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+243,Nizamuddin Mid Stream,,Oct,,,TKN (total Kjeldahl nitrogen),21.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+244,Nizamuddin Mid Stream,,Oct,,,fecal coliform,1000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+245,Nizamuddin Mid Stream,,Oct,,,total coliform,800000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+246,Nizamuddin Mid Stream,,Sep,,,AMM (ammonia),3.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+247,Nizamuddin Mid Stream,,Sep,,,BOD (biochemical oxygen demand),7.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+248,Nizamuddin Mid Stream,,Sep,,,COD (chemical oxygen demand),34.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+249,Nizamuddin Mid Stream,,Sep,,,DO (dissolved oxygen),2.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+250,Nizamuddin Mid Stream,,Sep,,,TKN (total Kjeldahl nitrogen),6.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+251,Nizamuddin Mid Stream,,Sep,,,fecal coliform,1200000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+252,Nizamuddin Mid Stream,,Sep,,,total coliform,500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+253,Nizamuddin Quarter Stream,,Apr,,,AMM (ammonia),20.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+254,Nizamuddin Quarter Stream,,Apr,,,BOD (biochemical oxygen demand),24.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+255,Nizamuddin Quarter Stream,,Apr,,,COD (chemical oxygen demand),78.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+256,Nizamuddin Quarter Stream,,Apr,,,DO (dissolved oxygen),0.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+257,Nizamuddin Quarter Stream,,Apr,,,TKN (total Kjeldahl nitrogen),25.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+258,Nizamuddin Quarter Stream,,Apr,,,fecal coliform,5000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+259,Nizamuddin Quarter Stream,,Apr,,,total coliform,1500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+260,Nizamuddin Quarter Stream,,Aug,,,AMM (ammonia),4.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+261,Nizamuddin Quarter Stream,,Aug,,,BOD (biochemical oxygen demand),6.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+262,Nizamuddin Quarter Stream,,Aug,,,COD (chemical oxygen demand),28.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+263,Nizamuddin Quarter Stream,,Aug,,,DO (dissolved oxygen),2.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+264,Nizamuddin Quarter Stream,,Aug,,,TKN (total Kjeldahl nitrogen),8.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+265,Nizamuddin Quarter Stream,,Aug,,,fecal coliform,600000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+266,Nizamuddin Quarter Stream,,Aug,,,total coliform,300000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+267,Nizamuddin Quarter Stream,,Dec,,,AMM (ammonia),22.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+268,Nizamuddin Quarter Stream,,Dec,,,BOD (biochemical oxygen demand),28.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+269,Nizamuddin Quarter Stream,,Dec,,,COD (chemical oxygen demand),79.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+270,Nizamuddin Quarter Stream,,Dec,,,DO (dissolved oxygen),0.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+271,Nizamuddin Quarter Stream,,Dec,,,TKN (total Kjeldahl nitrogen),24.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+272,Nizamuddin Quarter Stream,,Dec,,,fecal coliform,4500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+273,Nizamuddin Quarter Stream,,Dec,,,total coliform,4800000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+274,Nizamuddin Quarter Stream,,Feb,,,AMM (ammonia),16.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+275,Nizamuddin Quarter Stream,,Feb,,,BOD (biochemical oxygen demand),26.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+276,Nizamuddin Quarter Stream,,Feb,,,COD (chemical oxygen demand),78.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+277,Nizamuddin Quarter Stream,,Feb,,,DO (dissolved oxygen),0.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+278,Nizamuddin Quarter Stream,,Feb,,,TKN (total Kjeldahl nitrogen),22.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+279,Nizamuddin Quarter Stream,,Feb,,,fecal coliform,9500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+280,Nizamuddin Quarter Stream,,Feb,,,total coliform,6500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+281,Nizamuddin Quarter Stream,,Jan,,,AMM (ammonia),19.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+282,Nizamuddin Quarter Stream,,Jan,,,BOD (biochemical oxygen demand),30.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+283,Nizamuddin Quarter Stream,,Jan,,,COD (chemical oxygen demand),83.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+284,Nizamuddin Quarter Stream,,Jan,,,DO (dissolved oxygen),0.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+285,Nizamuddin Quarter Stream,,Jan,,,TKN (total Kjeldahl nitrogen),23.9,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+286,Nizamuddin Quarter Stream,,Jan,,,fecal coliform,2500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+287,Nizamuddin Quarter Stream,,Jan,,,total coliform,4200000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+288,Nizamuddin Quarter Stream,,Jul,,,AMM (ammonia),9.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+289,Nizamuddin Quarter Stream,,Jul,,,BOD (biochemical oxygen demand),13.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+290,Nizamuddin Quarter Stream,,Jul,,,COD (chemical oxygen demand),41.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+291,Nizamuddin Quarter Stream,,Jul,,,DO (dissolved oxygen),1.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+292,Nizamuddin Quarter Stream,,Jul,,,TKN (total Kjeldahl nitrogen),14.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+293,Nizamuddin Quarter Stream,,Jul,,,fecal coliform,2000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+294,Nizamuddin Quarter Stream,,Jul,,,total coliform,350000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+295,Nizamuddin Quarter Stream,,Jun,,,AMM (ammonia),18.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+296,Nizamuddin Quarter Stream,,Jun,,,BOD (biochemical oxygen demand),27.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+297,Nizamuddin Quarter Stream,,Jun,,,COD (chemical oxygen demand),77.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+298,Nizamuddin Quarter Stream,,Jun,,,DO (dissolved oxygen),0.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+299,Nizamuddin Quarter Stream,,Jun,,,TKN (total Kjeldahl nitrogen),24.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+300,Nizamuddin Quarter Stream,,Jun,,,fecal coliform,5000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+301,Nizamuddin Quarter Stream,,Jun,,,total coliform,4200000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+302,Nizamuddin Quarter Stream,,Mar,,,AMM (ammonia),18.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+303,Nizamuddin Quarter Stream,,Mar,,,BOD (biochemical oxygen demand),23.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+304,Nizamuddin Quarter Stream,,Mar,,,COD (chemical oxygen demand),71.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+305,Nizamuddin Quarter Stream,,Mar,,,DO (dissolved oxygen),0.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+306,Nizamuddin Quarter Stream,,Mar,,,TKN (total Kjeldahl nitrogen),22.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+307,Nizamuddin Quarter Stream,,Mar,,,fecal coliform,6000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+308,Nizamuddin Quarter Stream,,Mar,,,total coliform,4800000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+309,Nizamuddin Quarter Stream,,May,,,AMM (ammonia),22.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+310,Nizamuddin Quarter Stream,,May,,,BOD (biochemical oxygen demand),26.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+311,Nizamuddin Quarter Stream,,May,,,COD (chemical oxygen demand),78.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+312,Nizamuddin Quarter Stream,,May,,,DO (dissolved oxygen),0.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+313,Nizamuddin Quarter Stream,,May,,,TKN (total Kjeldahl nitrogen),30.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+314,Nizamuddin Quarter Stream,,May,,,fecal coliform,36000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+315,Nizamuddin Quarter Stream,,May,,,total coliform,16000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+316,Nizamuddin Quarter Stream,,Nov,,,AMM (ammonia),15.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+317,Nizamuddin Quarter Stream,,Nov,,,BOD (biochemical oxygen demand),25.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+318,Nizamuddin Quarter Stream,,Nov,,,COD (chemical oxygen demand),70.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+319,Nizamuddin Quarter Stream,,Nov,,,DO (dissolved oxygen),0.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+320,Nizamuddin Quarter Stream,,Nov,,,TKN (total Kjeldahl nitrogen),20.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+321,Nizamuddin Quarter Stream,,Nov,,,fecal coliform,3000000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+322,Nizamuddin Quarter Stream,,Nov,,,total coliform,5400000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+323,Nizamuddin Quarter Stream,,Oct,,,AMM (ammonia),11.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+324,Nizamuddin Quarter Stream,,Oct,,,BOD (biochemical oxygen demand),24.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+325,Nizamuddin Quarter Stream,,Oct,,,COD (chemical oxygen demand),64.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+326,Nizamuddin Quarter Stream,,Oct,,,DO (dissolved oxygen),1.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+327,Nizamuddin Quarter Stream,,Oct,,,TKN (total Kjeldahl nitrogen),20.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+328,Nizamuddin Quarter Stream,,Oct,,,fecal coliform,900000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+329,Nizamuddin Quarter Stream,,Oct,,,total coliform,900000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+330,Nizamuddin Quarter Stream,,Sep,,,AMM (ammonia),6.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+331,Nizamuddin Quarter Stream,,Sep,,,BOD (biochemical oxygen demand),13.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+332,Nizamuddin Quarter Stream,,Sep,,,COD (chemical oxygen demand),42.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+333,Nizamuddin Quarter Stream,,Sep,,,DO (dissolved oxygen),2.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+334,Nizamuddin Quarter Stream,,Sep,,,TKN (total Kjeldahl nitrogen),8.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+335,Nizamuddin Quarter Stream,,Sep,,,fecal coliform,1500000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+336,Nizamuddin Quarter Stream,,Sep,,,total coliform,600000.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+337,Palla,,Apr,,,AMM (ammonia),0.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+338,Palla,,Apr,,,BOD (biochemical oxygen demand),3.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+339,Palla,,Apr,,,COD (chemical oxygen demand),10.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+340,Palla,,Apr,,,DO (dissolved oxygen),7.9,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+341,Palla,,Apr,,,TKN (total Kjeldahl nitrogen),1.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+342,Palla,,Apr,,,fecal coliform,300.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+343,Palla,,Apr,,,total coliform,250.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+344,Palla,,Aug,,,AMM (ammonia),0.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+345,Palla,,Aug,,,BOD (biochemical oxygen demand),1.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+346,Palla,,Aug,,,COD (chemical oxygen demand),11.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+347,Palla,,Aug,,,DO (dissolved oxygen),6.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+348,Palla,,Aug,,,TKN (total Kjeldahl nitrogen),2.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+349,Palla,,Aug,,,fecal coliform,250.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+350,Palla,,Aug,,,total coliform,240.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+351,Palla,,Dec,,,AMM (ammonia),0.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+352,Palla,,Dec,,,BOD (biochemical oxygen demand),1.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+353,Palla,,Dec,,,COD (chemical oxygen demand),9.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+354,Palla,,Dec,,,DO (dissolved oxygen),8.8,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+355,Palla,,Dec,,,TKN (total Kjeldahl nitrogen),1.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+356,Palla,,Dec,,,fecal coliform,200.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+357,Palla,,Dec,,,total coliform,200.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+358,Palla,,Feb,,,AMM (ammonia),0.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+359,Palla,,Feb,,,BOD (biochemical oxygen demand),1.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+360,Palla,,Feb,,,COD (chemical oxygen demand),8.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+361,Palla,,Feb,,,DO (dissolved oxygen),8.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+362,Palla,,Feb,,,TKN (total Kjeldahl nitrogen),1.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+363,Palla,,Feb,,,fecal coliform,250.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+364,Palla,,Feb,,,total coliform,400.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+365,Palla,,Jan,,,AMM (ammonia),0.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+366,Palla,,Jan,,,BOD (biochemical oxygen demand),1.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+367,Palla,,Jan,,,COD (chemical oxygen demand),7.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+368,Palla,,Jan,,,DO (dissolved oxygen),8.9,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+369,Palla,,Jan,,,TKN (total Kjeldahl nitrogen),2.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+370,Palla,,Jan,,,fecal coliform,300.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+371,Palla,,Jan,,,total coliform,300.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+372,Palla,,Jul,,,AMM (ammonia),0.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+373,Palla,,Jul,,,BOD (biochemical oxygen demand),1.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+374,Palla,,Jul,,,COD (chemical oxygen demand),16.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+375,Palla,,Jul,,,DO (dissolved oxygen),6.9,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+376,Palla,,Jul,,,TKN (total Kjeldahl nitrogen),1.9,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+377,Palla,,Jul,,,fecal coliform,200.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+378,Palla,,Jul,,,total coliform,220.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+379,Palla,,Jun,,,AMM (ammonia),0.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+380,Palla,,Jun,,,BOD (biochemical oxygen demand),1.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+381,Palla,,Jun,,,COD (chemical oxygen demand),12.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+382,Palla,,Jun,,,DO (dissolved oxygen),7.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+383,Palla,,Jun,,,TKN (total Kjeldahl nitrogen),2.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+384,Palla,,Jun,,,fecal coliform,300.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+385,Palla,,Jun,,,total coliform,280.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+386,Palla,,Mar,,,AMM (ammonia),0.2,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+387,Palla,,Mar,,,BOD (biochemical oxygen demand),1.9,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+388,Palla,,Mar,,,COD (chemical oxygen demand),9.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+389,Palla,,Mar,,,DO (dissolved oxygen),9.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+390,Palla,,Mar,,,TKN (total Kjeldahl nitrogen),2.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+391,Palla,,Mar,,,fecal coliform,400.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+392,Palla,,Mar,,,total coliform,350.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+393,Palla,,May,,,AMM (ammonia),0.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+394,Palla,,May,,,BOD (biochemical oxygen demand),3.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+395,Palla,,May,,,COD (chemical oxygen demand),10.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+396,Palla,,May,,,DO (dissolved oxygen),7.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+397,Palla,,May,,,TKN (total Kjeldahl nitrogen),2.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+398,Palla,,May,,,fecal coliform,450.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+399,Palla,,May,,,total coliform,300.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+400,Palla,,Nov,,,AMM (ammonia),0.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+401,Palla,,Nov,,,BOD (biochemical oxygen demand),2.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+402,Palla,,Nov,,,COD (chemical oxygen demand),7.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+403,Palla,,Nov,,,DO (dissolved oxygen),8.7,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+404,Palla,,Nov,,,TKN (total Kjeldahl nitrogen),2.1,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+405,Palla,,Nov,,,fecal coliform,300.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+406,Palla,,Nov,,,total coliform,350.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+407,Palla,,Oct,,,AMM (ammonia),0.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+408,Palla,,Oct,,,BOD (biochemical oxygen demand),2.6,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+409,Palla,,Oct,,,COD (chemical oxygen demand),12.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+410,Palla,,Oct,,,DO (dissolved oxygen),8.3,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+411,Palla,,Oct,,,TKN (total Kjeldahl nitrogen),1.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+412,Palla,,Oct,,,fecal coliform,260.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+413,Palla,,Oct,,,total coliform,300.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
+414,Palla,,Sep,,,AMM (ammonia),0.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: AMM (ammonia).
+415,Palla,,Sep,,,BOD (biochemical oxygen demand),1.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: BOD (biochemical oxygen demand).
+416,Palla,,Sep,,,COD (chemical oxygen demand),16.0,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: COD (chemical oxygen demand).
+417,Palla,,Sep,,,DO (dissolved oxygen),7.5,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: DO (dissolved oxygen).
+418,Palla,,Sep,,,TKN (total Kjeldahl nitrogen),2.4,,,mg/L,Ground truth workbook: Paper 8 monthly table,Original workbook column: TKN (total Kjeldahl nitrogen).
+419,Palla,,Sep,,,fecal coliform,220.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: fecal coliform.
+420,Palla,,Sep,,,total coliform,260.0,,,No./100 mL,Ground truth workbook: Paper 8 monthly table,Original workbook column: total coliform.
